@@ -1,8 +1,8 @@
-# ORCA
+# ORCA (Open Research Community Accelerator)
 
 [VERSO page](https://verso.w3.uvm.edu/orca/)
 ## Summary
-Open Research Community Accelerator (ORCA) is a new initiative that aims to translate academic research into open projects with social impact using project teams. It is focused on a dynamic and passionate group of undergraduate and master's students dedicated to bridging the gap between cutting-edge university research and real-world impact. Comprising 4-5 members, each bringing their unique skills and perspectives, the team collaborates closely with professors, researchers, and community experts to identify research with the potential for broader application and transforming these research findings into open projects.
+Open Research Community Accelerator is a new initiative that aims to translate academic research into open projects with social impact using project teams. It is focused on a dynamic and passionate group of undergraduate and master's students dedicated to bridging the gap between cutting-edge university research and real-world impact. Comprising 4-5 members, each bringing their unique skills and perspectives, the team collaborates closely with professors, researchers, and community experts to identify research with the potential for broader application and transforming these research findings into open projects.
 
 ORCA also offers faculty, graduate students and community organizations with product and development support to enhance the public value of their research and address collective community needs. The program operates under the supervision of the Director of VERSO, who also provides mentorship and guidance to the students.
 
