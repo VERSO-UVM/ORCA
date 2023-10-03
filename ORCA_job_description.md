@@ -31,8 +31,8 @@ Communicate the professional activities you know how to perform.
 
 ## Pedagogy
 This internship strives to create learning environments that provide every student with the best opportunities to construct their own knowledge and acquire practical skills relevant to their interests. It will achieve these outcomes by incorporating research-based principles of learning (e.g. forming connections through practical examples, fostering feelings of belonging) that create inclusive climates for students of diverse backgrounds and through frequent, immediate, clear, and kind feedback.
-Required internship materials:
-There are no books that are required for participating in ORCA
+### Required internship materials:
+There are no books that are required for participating in ORCA although a reading list of books available at the UVM Library may be provided if students are interested
 Online Article Links will be provided through the different sections in the ORCA GitHub
 If there are any shared video, it will be on a free platform for viewing (like YouTube)
 The only software required will be MS Teams and Slack, otherwise the students can determine additional software needs on a project to project basis. 
@@ -44,7 +44,7 @@ Slack
 Student chosen IDE
 ### Use of required platforms and software:
 GitHub will be used as a code repo, project management tool and knowledge repository for both the specific project and overall ORCA Program. MS Teams will be used as the virtual meeting software and Sprint Review will be recorded. The ORCA Slack will be used for team communication and document storage.
-Attendance policy and internship environment expectations: 
+### Attendance policy and internship environment expectations: 
 In this internship, we will work together to develop a learning community that is inclusive and respectful. As a learning community we will seek to encourage and appreciate expressions of different ideas, opinions, and beliefs in the spirit of Our Common Ground. Meaningful and constructive dialogue is encouraged in this internship. This requires mutual respect, willingness to listen, and open-mindedness to opposing points of view. Respect for individual differences and alternative viewpoints will be maintained at all times in this internship. Conduct that substantially or repeatedly disrupts the ability of instructors to teach and the ability of students to engage may result in my asking a student to temporarily leave the meeting. See [Undergraduate Catalogue - Classroom Code of Conduct (p. 443-444)](https://catalogue.uvm.edu/undergraduate/academicinfo/rightsandresponsibilities/)
 ### Assessments:
 While this internship takes place in an academic setting, we will not give you grades. Our goal is to equip you to perform professional activities like professionals perform those activities, and to be able to describe and demonstrate your ability to perform those activities.
