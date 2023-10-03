@@ -9,10 +9,18 @@ ORCA aims to provide UVM students with experiential learning and supports facult
 Assessment is based on customer, stakeholder, and self-feedback, with a focus on personal growth and professional development. 
 
 ## Internship Policies
-Meeting time, meeting pattern, location 
-Backlog Grooming - Second Tuesday of the Sprint 8-9PM via MS Teams
-Standup - Every Wednesday asynchronous via Slack by 3pm
-Sprint Review - Second Thursday of the Sprint 8-9pm via MS Teams
+### Meeting time, meeting pattern, location 
+- Backlog Grooming - Second Tuesday of the Sprint 8-9PM via MS Teams
+- Standup - Every Wednesday asynchronous via Slack by 3pm
+- Sprint Review - Second Thursday of the Sprint 8-9pm via MS Teams
+
+#### Fall 2023 Spring Sprint Schedule
+- Sprint 1 - Sept 25-Sept 29
+- Sprint 2 - Oct 2- Oct 13
+- Sprint 3 - Oct 16- Oct 27
+- Sprint 4 - Oct 30 - Nov 10
+- Sprint 5 Nov 13 - Dec 1 (Thanksgiving Week  Nov 20-24 is a Holiday)
+
 ### Instructor name, contact information, office hours
 Kendall Fortney -Director of VERSO kendall.fortney@uvm.edu Howe Library Office 054 Ground Floor, 538 Main St, Burlington, VT 05405
 ### Tutors and other support name(s), contact info
@@ -21,7 +29,13 @@ Kendall Fortney -Director of VERSO kendall.fortney@uvm.edu Howe Library Office 0
 - Lisa Dion (Senior Lecturer CS lisa.dion@uvm.edu)
 - Jim Eddy (Senior Lecturer CS james.eddy@uvm.edu)
 ###  Job description
+Open Research Community Accelerator is a new initiative that aims to translate academic research into open projects with social impact using project teams while providing experiential learning in real work environments about development, research and open source practices.
 
+The team will collaborate closely with professors, researchers, and community experts to identify research with the potential for broader application and transform these research findings into open projects.
+
+ORCA also offers faculty, graduate students and community organizations with product and development support to enhance the public value of their research and address collective community needs. The program operates under the supervision of the Director of VERSO, who also provides mentorship and guidance to the students.
+
+The program will provide UVM students, regardless of college or major, with innovative experiential learning opportunities to become the next generation of leaders. 
 
 ### Course learning objectives/outcomes
 This internship will advance students toward being able to do the following:
