@@ -1,3 +1,8 @@
+---
+title: Community
+layout: template
+filename: Community.md
+--- 
 # Community
 
 The open source community is diverse and highly motivated. Whether it’s development or advocacy, open source software and other collaborative projects benefit through, and because of, community.
