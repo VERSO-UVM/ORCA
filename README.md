@@ -12,9 +12,8 @@ The program will provide UVM students, regardless of college or major, with inno
 
 ## Resources
 
-- [Collaboration and Communication](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Collaboration%20and%20Communication)
+- [Collaboration and Communication](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Collaboration%20and%20Communication.md)
 - [Community](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Community.md)
-- [Test Community](https://github.com/VERSO-UVM/ORCA/blob/main/Community.md)
 - [Documentation](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Documentation.md)
 - [Engineering Methodologies](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Engineering%20Methodologies.md)
 - [Ethics](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Ethics.md)
