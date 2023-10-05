@@ -1,7 +1,8 @@
+# Open Source Principles and Philosophy
 
 Open Source can mean a much broad selection of subjects, like the idea of Open Access for research where all research is published in a way that the public does not have to pay to access the work. Or the idea of Open Innovation where concepts, tools and methods that help drive innovation may be shared, like posting 3D models for printing or royalty free images for use on websites. Open source code can be used for studying and allows capable end users to adapt software to their personal needs in a similar way user scripts and custom style sheets allow for web sites, and eventually publish the modification as a fork for users with similar preferences, and directly submit possible improvements as pull requests.
 
- ## Types of Openness
+## Types of Openness
 
 ### Open Source Software
 Open-source software (OSS) is computer software that is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose.[1][2] Open-source software may be developed in a collaborative public manner. Open-source software is a prominent example of open collaboration, meaning any capable user is able to participate online in development, making the number of possible contributors indefinite. The ability to examine the code facilitates public trust in the software.
