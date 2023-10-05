@@ -1,3 +1,5 @@
+# Open Source Projects
+
 Every project is unique but there is often a similar organizational structure. Understanding of terms and roles will help you get quickly oriented to any new project.
 
 A typical open source project has the following types of people:
