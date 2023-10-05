@@ -12,7 +12,22 @@ The program will provide UVM students, regardless of college or major, with inno
 
 ## Resources
 
-[Collaboration and Communication](Collaboration and Communication.md)
+- [Collaboration and Communication](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Collaboration%20and%20Communication)
+- [Community](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Community.md)
+- [Documentation](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Documentation.md)
+- [Engineering Methodologies](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Engineering%20Methodologies.md)
+- [Ethics](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Ethics.md)
+- [Governance](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Governance.md)
+- [Human-Centered Design](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Human-Centered%20Design.md)
+- [Knowledge Transfer](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Knowledge%20Transfer.md)
+- [Leadership Skills](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Leadership%20Skills.md)
+- [Open Source Licenses](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Open%20Source%20Licenses.md)
+- [Open Source Principles and Philosophy](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Open%20Source%20Principles%20and%20Philosophy.md)
+- [Open Source Projects](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Open%20Source%20Projects.md)
+- [Product Development](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Product%20Development.md)
+- [Project Management](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Project%20Management.md)
+- [Version Control](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Version%20Control.md)
+
 ## Projects
 ### Interactive Management App
 The Interactive Management App project will design and build an open source tool for conducting Interpretive Structural Modeling (ISM) research with participants. The Interactive Management App will produce a flow diagram that helps a group of people solve a collective problem. The app will take in a list of factors identified by research participants that affect a specific problem. It will then work with participants to figure out the relationships between factors (things that impact their ability to act). An algorithm will then determine which factors should be addressed first, second, and so on in order for the group to meet their goals. This tool will be used in Thriving in Open Source Communities in Africa. See more in the Githuib for ISM
