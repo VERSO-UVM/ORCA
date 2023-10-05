@@ -11,6 +11,12 @@ The program will provide UVM students, regardless of college or major, with inno
 ## Pod
 [Collaboration and Communication](https://github.com/VERSO-UVM/ORCA/blob/main/Collaboration%20and%20Communication.md)
 [Collaboration and Communication](./Collaboration%20and%20Communication)
+
+- [Documentation](./Resources/Documentation)
+- [Engineering Methodologies](./Resources/Engineering%20Methodologies)
+
+
+
 ## Resources
 
 - [Collaboration and Communication](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Collaboration%20and%20Communication.md)
