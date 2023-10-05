@@ -9,7 +9,8 @@ ORCA also offers faculty, graduate students and community organizations with pro
 The program will provide UVM students, regardless of college or major, with innovative experiential learning opportunities to become the next generation of leaders. Second, it simultaneously provides faculty, graduate students and community organizations with product and development support to further the public impact of discoveries created in UVM’s research endeavors and supports solving collective community needs.
 
 ## Pod
-
+[Collaboration and Communication](https://github.com/VERSO-UVM/ORCA/blob/main/Collaboration%20and%20Communication.md)
+[Collaboration and Communication](./Collaboration%20and%20Communication)
 ## Resources
 
 - [Collaboration and Communication](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Collaboration%20and%20Communication.md)

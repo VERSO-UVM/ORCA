@@ -1,7 +1,6 @@
 ---
 title: Collaboration and Communication in Open Source
 layout: page
-filename: Collaboration and Communication.md
 --- 
 # Collaboration and Communication in Open Source
 
