@@ -79,5 +79,6 @@ These are just a few examples of governance models that open source projects can
 Effective governance in open source is essential for maintaining the trust and engagement of the community, ensuring the project's long-term viability, and upholding the principles of transparency and collaboration that are at the core of the open source movement. It provides a framework for managing the complex dynamics of open source development while fostering a sense of ownership and shared responsibility among contributors.
 
 ## Links
-[RedHat Guide](https://www.redhat.com/en/resources/guide-to-open-source-project-governance-models-overview)
-[Open Source Governance](https://opensource.com/article/20/5/open-source-governance)
+- [RedHat Guide](https://www.redhat.com/en/resources/guide-to-open-source-project-governance-models-overview)
+- [Open Source Governance](https://opensource.com/article/20/5/open-source-governance)
+- [https://github.com/microsoft/OSPO-Courses/tree/main/inclusive-governance](https://github.com/microsoft/OSPO-Courses/tree/main/inclusive-governance)
