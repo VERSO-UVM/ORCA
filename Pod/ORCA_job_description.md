@@ -14,13 +14,16 @@ Assessment is based on customer, stakeholder, and self-feedback, with a focus on
 - Standup - Twice a sprint
 - Sprint Review - Once a Sprint
 
-### Instructor name, contact information, office hours
-Kendall Fortney -Director of VERSO kendall.fortney@uvm.edu Howe Library Office 054 Ground Floor, 538 Main St, Burlington, VT 05405
-### Tutors and other support name(s), contact info
+### Advisory Committee
 - Kendall Fortney (see above)
-- Nate Gaylinn (Complex Systems Graduate Student nathaniel.gaylinn@uvm.edu)
-- Lisa Dion (Senior Lecturer CS lisa.dion@uvm.edu)
-- Jim Eddy (Senior Lecturer CS james.eddy@uvm.edu)
+- Lisa Dion (Senior Lecturer CS)
+- Jim Eddy (Senior Lecturer CS)
+- Erik Monsen (Associate Professor)
+- John Meluso (VERSO Post Docterate)
+  
+### Team Mentor
+- Nate Gaylinn (Complex Systems Graduate Student)
+
 ###  Job description
 Open Research Community Accelerator is a new initiative that aims to translate academic research into open projects with social impact using project teams while providing experiential learning in real work environments about development, research and open source practices.
 
