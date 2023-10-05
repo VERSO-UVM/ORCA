@@ -8,6 +8,11 @@ ORCA also offers faculty, graduate students and community organizations with pro
 
 The program will provide UVM students, regardless of college or major, with innovative experiential learning opportunities to become the next generation of leaders. Second, it simultaneously provides faculty, graduate students and community organizations with product and development support to further the public impact of discoveries created in UVM’s research endeavors and supports solving collective community needs.
 
+## Pod
+
+## Resources
+
+[Collaboration and Communication](Collaboration and Communication.md)
 ## Projects
 ### Interactive Management App
 The Interactive Management App project will design and build an open source tool for conducting Interpretive Structural Modeling (ISM) research with participants. The Interactive Management App will produce a flow diagram that helps a group of people solve a collective problem. The app will take in a list of factors identified by research participants that affect a specific problem. It will then work with participants to figure out the relationships between factors (things that impact their ability to act). An algorithm will then determine which factors should be addressed first, second, and so on in order for the group to meet their goals. This tool will be used in Thriving in Open Source Communities in Africa. See more in the Githuib for ISM
