@@ -9,31 +9,25 @@ ORCA also offers faculty, graduate students and community organizations with pro
 The program will provide UVM students, regardless of college or major, with innovative experiential learning opportunities to become the next generation of leaders. Second, it simultaneously provides faculty, graduate students and community organizations with product and development support to further the public impact of discoveries created in UVM’s research endeavors and supports solving collective community needs.
 
 ## Pod
-[Collaboration and Communication](https://github.com/VERSO-UVM/ORCA/blob/main/Collaboration%20and%20Communication.md)
-[Collaboration and Communication](./Collaboration%20and%20Communication)
-
-- [Documentation](./Resources/Documentation)
-- [Engineering Methodologies](./Resources/Engineering%20Methodologies)
-
-
+- [Team Role Details](./Pod/ORCA_job_description)
 
 ## Resources
 
-- [Collaboration and Communication](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Collaboration%20and%20Communication.md)
-- [Community](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Community.md)
-- [Documentation](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Documentation.md)
-- [Engineering Methodologies](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Engineering%20Methodologies.md)
-- [Ethics](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Ethics.md)
-- [Governance](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Governance.md)
-- [Human-Centered Design](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Human-Centered%20Design.md)
-- [Knowledge Transfer](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Knowledge%20Transfer.md)
-- [Leadership Skills](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Leadership%20Skills.md)
-- [Open Source Licenses](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Open%20Source%20Licenses.md)
-- [Open Source Principles and Philosophy](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Open%20Source%20Principles%20and%20Philosophy.md)
-- [Open Source Projects](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Open%20Source%20Projects.md)
-- [Product Development](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Product%20Development.md)
-- [Project Management](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Project%20Management.md)
-- [Version Control](https://github.com/VERSO-UVM/ORCA/blob/main/Resources/Version%20Control.md)
+- [Collaboration and Communication](./Resources/Collaboration%20and%20Communication)
+- [Community](./Resources/Community)
+- [Documentation](./Resources/Documentation)
+- [Engineering Methodologies](./Resources/Engineering%20Methodologies)
+- [Ethics](./Resources/Ethics)
+- [Governance](./Resources/Governance)
+- [Human-Centered Design](./Resources/Human-Centered%20Design)
+- [Knowledge Transfer](./Resources/Knowledge%20Transfer)
+- [Leadership Skills](./Resources/Leadership%20Skills)
+- [Open Source Licenses](./Resources/Open%20Source%20Licenses)
+- [Open Source Principles and Philosophy](./Resources/Open%20Source%20Principles%20and%20Philosophy)
+- [Open Source Projects](./Resources/Open%20Source%20Projects)
+- [Product Development](./Resources/Product%20Development)
+- [Project Management](./Resources/Project%20Management)
+- [Version Control](./Resources/Version%20Control)
 
 ## Projects
 ### Interactive Management App

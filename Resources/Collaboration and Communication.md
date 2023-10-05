@@ -1,7 +1,3 @@
----
-title: Collaboration and Communication in Open Source
-layout: page
---- 
 # Collaboration and Communication in Open Source
 
 Collaboration and communication are at the heart of open source development. Open source projects thrive on the contributions of a diverse and often geographically dispersed community of developers, designers, testers, and users. Effective collaboration and clear communication are key to the success of these projects. In this guide, we'll explore how collaboration and communication work in the open source ecosystem.

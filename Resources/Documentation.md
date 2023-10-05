@@ -1,8 +1,5 @@
----
-title: Documentation
-layout: page
---- 
-## Documentation
+# Documentation
+
 Documentation is any communicable material that is used to describe, explain or instruct regarding some attributes of an object, system or procedure, such as its parts, assembly, installation, maintenance and use.
 
 Documentation is a part of any Open Source project including things that are not software. Good documentation practices are important for the success of the project as it helps users and contributor effectively uses the program but it requires that the writer considers the perspective, knowledge and experience of the reader. Considering their perspective is key to ensuring a sustainable project.
