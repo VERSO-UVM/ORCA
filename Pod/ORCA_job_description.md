@@ -10,16 +10,9 @@ Assessment is based on customer, stakeholder, and self-feedback, with a focus on
 
 ## Internship Policies
 ### Meeting time, meeting pattern, location 
-- Backlog Grooming - Second Tuesday of the Sprint 8-9PM via MS Teams
-- Standup - Every Wednesday asynchronous via Slack by 3pm
-- Sprint Review - Second Thursday of the Sprint 8-9pm via MS Teams
-
-#### Fall 2023 Spring Sprint Schedule
-- Sprint 1 - Sept 25-Sept 29
-- Sprint 2 - Oct 2- Oct 13
-- Sprint 3 - Oct 16- Oct 27
-- Sprint 4 - Oct 30 - Nov 10
-- Sprint 5 Nov 13 - Dec 1 (Thanksgiving Week  Nov 20-24 is a Holiday)
+- Backlog Grooming - Once a sprint
+- Standup - Twice a sprint
+- Sprint Review - Once a Sprint
 
 ### Instructor name, contact information, office hours
 Kendall Fortney -Director of VERSO kendall.fortney@uvm.edu Howe Library Office 054 Ground Floor, 538 Main St, Burlington, VT 05405
