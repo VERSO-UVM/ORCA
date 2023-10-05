@@ -1,3 +1,7 @@
+---
+title: Documentation
+layout: page
+--- 
 ## Documentation
 Documentation is any communicable material that is used to describe, explain or instruct regarding some attributes of an object, system or procedure, such as its parts, assembly, installation, maintenance and use.
 
