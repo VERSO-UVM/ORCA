@@ -10,17 +10,18 @@ Assessment is based on customer, stakeholder, and self-feedback, with a focus on
 
 ## Internship Policies
 ### Meeting time, meeting pattern, location 
-- Backlog Grooming - Once a sprint
+- Sprint Planning - Once a sprint
 - Standup - Twice a sprint
 - Sprint Review - Once a Sprint
 
 ### Advisory Committee
-- Kendall Fortney (see above)
-- Lisa Dion (Senior Lecturer CS)
-- Jim Eddy (Senior Lecturer CS)
 - Erik Monsen (Associate Professor)
+- Jeremiah Onaolapo (Assistant Professor)
+- Jim Eddy (Senior Lecturer CS)
 - John Meluso (VERSO Post Docterate)
-  
+- Kendall Fortney (Program Director)
+- Lisa Dion (Senior Lecturer CS)
+
 ### Team Mentor
 - Nate Gaylinn (Complex Systems Graduate Student)
 
