@@ -1,5 +1,5 @@
 ## (Open Research Community Accelerator)
-
+Best experience is through Github Pages here: [https://verso-uvm.github.io/ORCA/](https://verso-uvm.github.io/ORCA/)
 ## Summary
 The [Open Research Community Accelerator](https://verso.w3.uvm.edu/orca/) is a new initiative that aims to translate academic research into open projects with social impact using project teams. It is focused on a dynamic and passionate group of undergraduate and master's students dedicated to bridging the gap between cutting-edge university research and real-world impact. Comprising 4-5 members, each bringing their unique skills and perspectives, the team collaborates closely with professors, researchers, and community experts to support research with the potential for broader application and transforming these research findings into open source projects.
 
