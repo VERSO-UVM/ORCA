@@ -9,26 +9,7 @@ This program is run and funded by the University of Vermont [Open Source Program
 
 ## Pod
 Each group of students is called a Pod. Pods follow a shared structure and policies which are in this section
-- [Team Role Details](./Pod/ORCA_job_description)
-
-## Resources
-Educational content will be stored here and updated by the students to better fit their needs and reflect changes in the field
-
-- [Collaboration and Communication](./Resources/Collaboration%20and%20Communication)
-- [Community](./Resources/Community)
-- [Documentation](./Resources/Documentation)
-- [Engineering Methodologies](./Resources/Engineering%20Methodologies)
-- [Ethics](./Resources/Ethics)
-- [Governance](./Resources/Governance)
-- [Human-Centered Design](./Resources/Human-Centered%20Design)
-- [Knowledge Transfer](./Resources/Knowledge%20Transfer)
-- [Leadership Skills](./Resources/Leadership%20Skills)
-- [Open Source Licenses](./Resources/Open%20Source%20Licenses)
-- [Open Source Principles and Philosophy](./Resources/Open%20Source%20Principles%20and%20Philosophy)
-- [Open Source Projects](./Resources/Open%20Source%20Projects)
-- [Product Development](./Resources/Product%20Development)
-- [Project Management](./Resources/Project%20Management)
-- [Version Control](./Resources/Version%20Control)
+- [Team Role Details](ORCA_job_description)
 
 ## Projects
 The Fall 2023 currently has one project for [Pod #1](https://verso.w3.uvm.edu/orca-pod/) which is working on the following project:
