@@ -9,7 +9,7 @@ This program is run and funded by the University of Vermont [Open Source Program
 
 ## Pod
 Each group of students is called a Pod. Pods follow a shared structure and policies which are in this section
-- [Team Role Details](ORCA_job_description)
+- [Team Role Details](ORCA_job_description.md)
 
 ## Projects
 The Fall 2023 currently has one project for [Pod #1](https://verso.w3.uvm.edu/orca-pod/) which is working on the following project:
