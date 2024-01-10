@@ -86,6 +86,10 @@ Worklife Podcast by Adam Grant,
 We usually wear our thickest armor at work, and Brené Brown has blazed the trail of teaching us why and how to shed it. In this conversation, Adam and Brené unpack the power of showing vulnerability at work — and explore how much is too much. Learn when and where to set boundaries, find out how to get more comfortable with being uncomfortable, and hear Brené rethink a key assumption that she took for granted in her own work. 
 [link](https://open.spotify.com/episode/2WSsAxkAb3DCjqVmQFIeH1?si=8ca8127cf3d74d07)
 
+**Supercharge Your One-on-One Meetings** HBR IdeaCast
+32 min 49 sec - 
+Most good bosses know that they should schedule regular one-on-ones with each of their team members. But fewer know exactly how to manage these meetings well, in part because organizations rarely offer relevant training. Steven Rogelberg, Chancellor’s Professor at the University of North Carolina at Charlotte, has spent years researching the best way to prepare for, structure, engage in, and follow up on one-on-ones. He says they’re a key way to boost performance, and offers tips for ensuring that we all get more out of them. Rogelberg is author of the book Glad We Met: The Art and Science of 1:1 Meetings. [link](https://hbr.org/podcast/2024/01/supercharge-your-one-on-one-meetings)
+
 # Activities to Help You Adjust to Being a Lead
 
 Here are six activities throughout the project lifecycle that will help you adjust to your new role as a team lead:
