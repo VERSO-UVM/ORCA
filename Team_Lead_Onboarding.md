@@ -22,11 +22,13 @@ We have designed a set of resources that you will need to read/listen to and wri
 
 ## Week 1 (Sprint 1)
 * Get a copy of each team member's schedule, including if they have a job. This is important for scheduling coworking times and meetings.
-* After getting the schedules set up the following meetings:
-* Sprint Planning (Sponsor and you, VERSO Director as optional) - This meeting is for putting together what work will be in the next sprint and will be held during the first week of the sprint and will be for planning the next sprint. (learn more about sprint planning here: [link](https://www.atlassian.com/agile/scrum/sprint-planning))
-* Sprint Review (Sponsor, you, the whole team and  VERSO Director as optional)  - This meeting is required for all team members for demoing the work they completed during the sprint and should be held in the last couple of days of the sprint. This should be recorded. (Learn more about sprint demos here: [link](https://resources.scrumalliance.org/Article/sprint-demo))
-* Coworking Time (you and the team) - These should be 1-2 hours blocks (ideally at least two a week) where you facilitate in person working time at the Hills 129. 
+After getting the schedules set up the following meetings:
+* Sprint Planning (Virtual, Sponsor and you required, VERSO Director as optional) - This meeting is for putting together what work will be in the next sprint and will be held during the first week of the sprint and will be for planning the next sprint. (learn more about sprint planning here: [link](https://www.atlassian.com/agile/scrum/sprint-planning))
+* Sprint Review (Virtual, Sponsor, you, the whole team required, VERSO Director as optional)  - This meeting is required for all team members for demoing the work they completed during the sprint and should be held in the last couple of days of the sprint. This should be recorded. (Learn more about sprint demos here: [link](https://resources.scrumalliance.org/Article/sprint-demo))
+* Coworking Time (In Person, you and the team) - These should be 1-2 hours blocks (ideally at least two a week) where you facilitate in person working time at the Hills 129. 
 * 1:1 with VERSO Director - This is a virtual weekly recurring meeting with the VERSO Director to touch base on the team progress and ensure that they can help you with any roadblocks. Reach out to help schedule this.
+* Start scheduling 1:1 with your team members, try to have at least one virtual or in person meeting a sprint with each person.
+* You will get invited to a virtual Leads meeting every two weeks for just the Leads to get together and connect on projects.
 
 ### Learning Assignments
 Please read/listen to what is below and write a paragraph reflecting on what you found insightful and what you disagreed with,  and email it to the VERSO Director by 3pm on Friday. 
