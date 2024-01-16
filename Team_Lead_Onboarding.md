@@ -43,7 +43,7 @@ What makes a great leader? Management theorist Simon Sinek suggests, it's someon
 [link](https://www.youtube.com/watch?v=lmyZMtPVodo)
 
 ## Week 2  (Sprint 1)
-* Hold the first Sprint Planning meeting and Sprint Demo. There will not be a lot to show for the Sprint Demo but it will help the team get a feeling for the process.
+* Hold the first Sprint Planning meeting and Sprint Review. There will not be a lot to show for the Sprint Review but it will help the team get a feeling for the process.
 * Hold the first coworking times to bring the team together in person. If you want to order food, please let the VERSO Director know and we can help arrange it.
 * Review the Insights for the repo and verify everyone had committed changes and knows how to add to the project.
 
