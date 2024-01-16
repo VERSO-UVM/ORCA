@@ -6,8 +6,8 @@ As a team member, you will be responsible for working on an open source project 
 
 This onboarding document will provide you with the information you need to succeed in your role.
 
-**Being Part of a Team
-**
+**Being Part of a Team**
+
 * **We are responsible for the choices we make:** A member of a team, we are responsible for our actions and accountable to the team, don’t be afraid of it and learn from your mistakes. This is a learning environment, mistakes are good!
 * **We can only work together if we all know what we need to do:** A team member is able to communicate effectively with their other team members and their lead. This is hard, and requires practice and gathering feedback from everyone on how to be better.
 * **Leadership happens at all levels:** Don’t be afraid to take the initiative on a problem, reach out to your lead and let them know and go for it.
@@ -64,8 +64,7 @@ Brené Brown studies human connection -- our ability to empathize, belong, love.
 
 Please read/listen to what is below. 
 
-**This American Life - NUMMI
-** Ira Glass, 
+**This American Life - NUMMI**  Ira Glass, 
 55 min 30 sec - 
 Host Ira Glass introduces the story of the New United Motor Manufacturing Inc., aka NUMMI. In 1984, General Motors and Toyota opened NUMMI as a joint venture. Toyota showed GM the secrets of its production system: How it made cars of much higher quality and much lower cost than GM achieved. But today, GM cars still don't have the quality of Japanese imports. GM went bankrupt. And in 2010 NUMMI was closed, sending thousands of car workers looking for jobs. In this hour-long story, which we reported in 2010, NPR Automotive Correspondent Frank Langfitt tells the story of NUMMI and why GM—and the rest of the American car business—wasn't able to learn from it more quickly. 
 [link](https://www.thisamericanlife.org/561/nummi-2015)
