@@ -1,9 +1,9 @@
 ## Emergency Preparedness
-Emergency Response Plan: We have an emergency response plan in place to address various scenarios, including fires, medical emergencies, and natural disasters. Team members should familiarize themselves with this plan and know their roles and responsibilities.
 
-Emergency Contacts: Emergency contact information for team leaders, campus security, and local emergency services will be readily available to all team members. In the event of an emergency, follow the appropriate procedures and contact the necessary authorities.
+We have an emergency preparedness plan in place to address various scenarios, including cybersecurity, fires, medical emergencies, and natural disasters. Team members should familiarize themselves with this plan and know their roles and responsibilities. 
 
-Evacuation Drills: Regular evacuation drills will be conducted to ensure that team members know how to evacuate safely in the event of an emergency. These drills help familiarize everyone with evacuation routes and assembly points.
+Emergency contact information for team leaders, campus security, and local emergency services will be readily available to all team members. In the event of an emergency, follow the appropriate procedures and contact the necessary authorities.
+
 # Emergency Preparedness Plan
 
 ## Introduction
