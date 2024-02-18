@@ -11,8 +11,10 @@ Key Documents
 * [Employee Handbook](https://github.com/VERSO-UVM/ORCA/blob/main/Employee_Handbook.md)
 * [Emergency_Preparedness_Plan](https://github.com/VERSO-UVM/ORCA/blob/main/Emergency_Preparedness_Plan.md)
 * [Confidentiality and Data Security Policies](https://github.com/VERSO-UVM/ORCA/blob/main/Confidentiality_and_Data_Security_Policies.md)
-* [Onboarding](https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md)
+* [Onboarding for a Team Lead](https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md#team-lead-onboarding)
+* [Onboarding for a Team Member](https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md#team-member-onboarding)
 
 ## Pod
 Each group of students is called a Pod. Pods follow a shared structure and policies which are in this section
 - [Team Role Details](ORCA_job_description.md)
+https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md#team-lead-onboarding
