@@ -8,11 +8,12 @@ The program will provide UVM students, regardless of college or major, with inno
 This program is run and funded by the University of Vermont [Open Source Program Office (VERSO)](https://verso.w3.uvm.edu).
 
 Key Documents
-* [Employee Handbook](https://github.com/VERSO-UVM/ORCA/blob/main/Employee_Handbook.md)
+* [ORCA Handbook](https://github.com/VERSO-UVM/ORCA/blob/main/ORCA_Handbook.md)
 * [Emergency_Preparedness_Plan](https://github.com/VERSO-UVM/ORCA/blob/main/Emergency_Preparedness_Plan.md)
 * [Confidentiality and Data Security Policies](https://github.com/VERSO-UVM/ORCA/blob/main/Confidentiality_and_Data_Security_Policies.md)
 * [Onboarding for a Team Lead](https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md#team-lead-onboarding)
 * [Onboarding for a Team Member](https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md#team-member-onboarding)
+* [Recruiting](https://github.com/VERSO-UVM/ORCA/blob/main/Recruiting.md)
 
 ## Pod
 Each group of students is called a Pod. Pods follow a shared structure and policies which are in this section
