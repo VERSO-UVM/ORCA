@@ -13,6 +13,7 @@ Whether you're a new hire or a seasoned veteran, we encourage you to familiarize
 We believe that by working together and adhering to our shared principles, we can achieve great things as a team. Thank you for being part of the ORCA Family, and we look forward to supporting your growth and success here.
 
 Kendall Fortney
+
 VERSO Program Director
 
 ## ORCA Overview
@@ -21,6 +22,13 @@ The [Open Research Community Accelerator](https://verso.w3.uvm.edu/orca/) run by
 This internship opportunity within ORCA offers UVM students a chance to gain hands-on experience in translating academic research into impactful open projects. It operates under Agile software development practices and fosters inclusive learning environments through platforms like GitHub, MS Teams, and Slack. Assessment is based on customer, stakeholder, and self-feedback, focusing on personal growth and professional development.
 
 ORCA provides faculty, graduate students, and community organizations with product and development support to enhance the public value of their research and address collective community needs. Under the supervision of the Director of VERSO, who also offers mentorship and guidance, ORCA aims to empower the next generation of leaders while fostering innovation and social impact.
+
+## Professionalism
+- Appropriate Dress and Language: Given that different environments will require different standards of dress, it is the responsibility of the supervisor to inform students what dress will be appropriate and inappropriate for their specific position.
+- Attitude: While at work, you should work with a cooperative and positive attitude.
+- Timeliness: It is essential that you report to work at the agreed upon time, ready to work. Notification of lateness or inability to work a scheduled shift should be given to supervisors by students at least 24 hours in advance. This allows supervisors to plan for a student’s absence. In the event of an emergency, the supervisor should be informed as soon as possible.
+- Use of Work Time: Student employment at UVM is intended to allow students access to environments, projects, and tasks that will develop their professional and interpersonal skills. As such, it is not appropriate to complete school work during scheduled working hours. Supervisors
+are expected to set explicit expectations on this matter.
 
 ### Advisory Committee
 - Erik Monsen (Associate Professor)
@@ -41,26 +49,25 @@ This internship will advance students toward being able to do the following:
 
 ## Pedagogy
 This internship strives to create learning environments that provide every student with the best opportunities to construct their own knowledge and acquire practical skills relevant to their interests. It will achieve these outcomes by incorporating research-based principles of learning (e.g. forming connections through practical examples, fostering feelings of belonging) that create inclusive climates for students of diverse backgrounds and through frequent, immediate, clear, and kind feedback.
+
 ### Required internship materials:
 - There are no books that are required for participating in ORCA although a reading list of books available at the UVM Library may be provided if students are interested
 - Online Article Links will be provided through the different sections in the ORCA GitHub
 - If there are any shared video, it will be on a free platform for viewing (like YouTube)
 - The only software required will be MS Teams and Slack, otherwise the students can determine additional software needs on a project to project basis. 
+
 ### Required platforms and software: 
 At this time:
 - GitHub
 - MS Teams
 - Slack
-- Student chosen IDE
+- Student chosen IDE as determined by the project
+
 ### Use of required platforms and software:
 GitHub will be used as a code repo, project management tool and knowledge repository for both the specific project and overall ORCA Program. MS Teams will be used as the virtual meeting software and Sprint Review will be recorded. The ORCA Slack will be used for team communication and document storage.
+
 ### Attendance policy and internship environment expectations: 
 In this internship, we will work together to develop a learning community that is inclusive and respectful. As a learning community we will seek to encourage and appreciate expressions of different ideas, opinions, and beliefs in the spirit of Our Common Ground. Meaningful and constructive dialogue is encouraged in this internship. This requires mutual respect, willingness to listen, and open-mindedness to opposing points of view. Respect for individual differences and alternative viewpoints will be maintained at all times in this internship. Conduct that substantially or repeatedly disrupts the ability of instructors to teach and the ability of students to engage may result in my asking a student to temporarily leave the meeting. See [Undergraduate Catalogue - Classroom Code of Conduct (p. 443-444)](https://catalogue.uvm.edu/undergraduate/academicinfo/rightsandresponsibilities/)
-
-### FERPA Rights Disclosure: 
-The purpose of UVM’s FERPA Rights Disclosure is to communicate the rights of students regarding access to, and privacy of their student educational records as provided for in the Family Educational Rights and Privacy Act (FERPA) of 1974. 
-### Religious Holidays: 
-Religions may be practiced in many different ways, and can impact participation in internships variably. Students have the right to practice the religion of their choice. Each semester students should submit in writing to their instructors as early as possible and at least one week prior to their documented religious holiday the date(s) of the conflict or absence. Instructors must permit students who miss work or exams for the purpose of religious observance to make up this work. The complete policy is [here](https://www.uvm.edu/registrar/religious-holidays).
 
 
 ## Employment Policies
@@ -95,12 +102,9 @@ UVM receives federal grants and is therefore required to comply with the Alcohol
 
 Any student employee who is at the workplace under the influence of alcohol or illegal drugs, or who possesses or consumes alcohol or illegal drugs on the job or in the workplace, is subject to university disciplinary action, up to and including dismissal from the University. The illegal manufacture, distribution, or sale of illegal substances on the premises is strictly prohibited and will constitute an offense warranting dismissal. Any illegal substance found shall be turned over to an appropriate law enforcement agency. 
 
-### Professionalism
-- Appropriate Dress and Language: Given that different environments will require different standards of dress, it is the responsibility of the supervisor to inform students what dress will be appropriate and inappropriate for their specific position.
-- Attitude: While at work, you should work with a cooperative and positive attitude.
-- Timeliness: It is essential that you report to work at the agreed upon time, ready to work. Notification of lateness or inability to work a scheduled shift should be given to supervisors by students at least 24 hours in advance. This allows supervisors to plan for a student’s absence. In the event of an emergency, the supervisor should be informed as soon as possible.
-- Use of Work Time: Student employment at UVM is intended to allow students access to environments, projects, and tasks that will develop their professional and interpersonal skills. As such, it is not appropriate to complete school work during scheduled working hours. Supervisors
-are expected to set explicit expectations on this matter.
+### FERPA Rights Disclosure: 
+The purpose of UVM’s FERPA Rights Disclosure is to communicate the rights of students regarding access to, and privacy of their student educational records as provided for in the Family Educational Rights and Privacy Act (FERPA) of 1974. 
+
 ### Work-Related Injuries
 If a student is injured on the job, a report of the incident should be immediately filed with the supervisor or the supervisory person in charge at the time. Please contact UVM Risk Management at 802-656-3242. 
 
@@ -205,10 +209,9 @@ Supporting someone in crisis
 When helping someone in crisis or distress it can be hard to know what level of support they need. Take time to assess the situation by asking questions. Listening non-judgmentally and staying calm can assist you in getting to the most helpful response. Sometimes it requires calling 988 or 911. Sometimes all someone needs is someone to sit with while they are upset and to validate how they are feeling.
 
 ## Employee Development and Training
-Professional development, training programs, tuition reimbursement, and career advancement within the company.
+Professional development and training programs.
 
 ## Employee Resources
-Contact information for key company personnel, HR department, and other resources available to employees for assistance or support.
 
 ### Co-Working Space @ Hills 129
 
@@ -232,13 +235,9 @@ If you are just using Outlook on a web browsers:
    
 To schedule this resource, students will need to create an event on their calendar and invite Hills129@uvm.edu as an attendee. This will book the space.
 
-## Acknowledgment and Agreement
-A section for employees to acknowledge receipt of the handbook and agree to abide by its policies and guidelines.
-
 ## Updates and Amendments
-Information on how updates or changes to the handbook will be communicated to employees and when revisions may occur.
+Last update 2/18/24 by Kendall Fortney
 
-An effective employee handbook not only provides essential information to employees but also helps ensure consistency, transparency, and legal compliance within the organization. It should be regularly reviewed and updated to reflect changes in company policies, regulations, and best practices. Additionally, it's essential to consult with legal counsel to ensure that the handbook complies with relevant employment laws and regulations.
+## Acknowledgment and Agreement
 
 
-Last update 2/18/24
