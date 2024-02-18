@@ -3,7 +3,7 @@
 
 This document is to serve as the first place to look for questions about your role here. If a question is not answered, or something is incorrect, please submit a pull request to correct it!
 
-## 1. Welcome
+## Welcome
 We are thrilled to introduce you to our Employee Handbook, a comprehensive guide designed to provide you with all the information you need to thrive within our organization. As a member of our team, you play a crucial role in our collective success, and this handbook serves as a valuable resource to help you navigate your journey with us.
 
 Our leadership team is committed to fostering a positive and inclusive work environment where every employee feels empowered to contribute their best work. This handbook outlines our organizations's mission, values, and policies, ensuring transparency and alignment across all levels of the organization.
@@ -15,7 +15,7 @@ We believe that by working together and adhering to our shared principles, we ca
 Kendall Fortney
 VERSO Program Director
 
-## 2. ORCA Overview
+## ORCA Overview
 The [Open Research Community Accelerator](https://verso.w3.uvm.edu/orca/) run by [Vermont Research Open Source Program Office (VERSO)](https://verso.w3.uvm.edu)) at the Univerisity of Vermont, is dedicated to bridging the gap between academic research and real-world impact through open projects with social significance. Comprised of dynamic and passionate student teams, each consisting of 4-5 members, ORCA collaborates closely with professors, researchers, and community experts to identify research with broader application potential and translate these findings into open source projects.
 
 This internship opportunity within ORCA offers UVM students a chance to gain hands-on experience in translating academic research into impactful open projects. It operates under Agile software development practices and fosters inclusive learning environments through platforms like GitHub, MS Teams, and Slack. Assessment is based on customer, stakeholder, and self-feedback, focusing on personal growth and professional development.
@@ -63,26 +63,26 @@ The purpose of UVM’s FERPA Rights Disclosure is to communicate the rights of s
 Religions may be practiced in many different ways, and can impact participation in internships variably. Students have the right to practice the religion of their choice. Each semester students should submit in writing to their instructors as early as possible and at least one week prior to their documented religious holiday the date(s) of the conflict or absence. Instructors must permit students who miss work or exams for the purpose of religious observance to make up this work. The complete policy is [here](https://www.uvm.edu/registrar/religious-holidays).
 
 
-## 3. Employment Policies
+## Employment Policies
 These employment policies provide guidelines regarding rights, responsibilities, and expectations while working at the ORCA. 
 
-### a. Disability Accommodation
+### Disability Accommodation
 UVM is committed to providing opportunity for employment in a reasonably accommodating manner without discrimination to individuals with disabilities. Learm more about [Student Accessibility Services](https://www.uvm.edu/academicsuccess/student_accessibility_services).
 A170 Living/Learning Center; 802-656-7753 access@uvm.edu www.uvm.edu/access
 
-### b. Equal employment opportunity and anti-discrimination policies
+###  Equal employment opportunity and anti-discrimination policies
 As an employer, UVM will not discriminate on the basis of race, color, religion, ancestry, national origin, place of birth, sex, sexual orientation, disability, age, positive HIV-related blood test results, genetic information, gender identity or expression, or status as a disabled veteran, recently separated veteran, other protected veteran or Armed Forces service medal veteran. To view more information on this policy:[http://www.uvm.edu/policies/general_html/affirm.pdf](http://www.uvm.edu/policies/general_html/affirm.pdf)
 
-### c. Sexual Harassment and workplace conduct policies
+### Sexual Harassment and workplace conduct policies
 Sexual harassment is illegal and corrosive to a healthy work environment.  We are committed to providing a work environment free of harassment. To view more information on this policy: [https://www.uvm.edu/sites/default/files/UVM-Policies/policies/sexharass.pdf](https://www.uvm.edu/sites/default/files/UVM-Policies/policies/sexharass.pdf)
 
-### d. Nondiscrimination Statement
+### Nondiscrimination Statement
 In compliance with Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973, Title VI of the Civil Rights Act of 1964, and other federal, state, and local laws, The University of Vermont does not discriminate on the basis of age, race, color, sex, sexual orientation, gender identity, and religion, national or ethnic origin, disability, or veteran status in any phase of its employment process, in any phase of its admission or financial aid programs, or other aspects of its educational programs or activities. The vice provost for institutional equity and diversity is the individual designated by the University to coordinate its efforts to comply with Title IX, Section 504 and other equal opportunity and affirmative action regulations and laws. 
 
-### e. Lived Name and Pronoun Information
+### Lived Name and Pronoun Information
 The UVM Directory includes fields for indicating your lived name and your pronouns. Lived names (preferred names, names in use) are names that an individual wants to be known by in the University community. Entering your pronouns is strongly encouraged to help create a more inclusive and respectful campus community. To update your information, login to the UVM Directory. A preview box will allow you to see how this information will appear in other systems used on campus such as Microsoft Teams and Blackboard. More information about how to make changes to your lived name and pronouns is available in the Knowledge Base.
 
-### f. Code of conduct and ethics policies
+### Code of conduct and ethics policies
 The Code of Conduct and Ethical Standards (“Code”) is a tool to help you comply with legal and regulatory requirements and with University policies and procedures. The Code is designed to help you make ethical choices when and if you are faced with a difficult decision or situation. Everyone is expected to adhere to the highest standards of ethical behavior and conduct themselves in a professional manner at all times. This includes honesty, integrity, respect for others, and compliance with all applicable laws and regulations.
 The University of Vermont is committed to continually strengthening its ethical culture. From the University’s motto of “Studiis et Rebus Honestis” (Integrity in Theoretical and Practical Pursuits) to our values stated in “Our Common Ground”, we are all expected to perform our jobs and to conduct business in an ethical and compliant manner. All University personnel have a shared responsibility to the University, to those we serve, to our community and to each other.
 
@@ -90,41 +90,41 @@ The full Code applies to all University of Vermont personnel. Personnel includes
 
 [Read the Code](https://www.uvm.edu/sites/default/files/Sponsored-Project-Administration/Code_of_Conduct_Brouchure_NSF_Conference_Grants.pdf)
 
-### G. Drug and alcohol policies
+### Drug and alcohol policies
 UVM receives federal grants and is therefore required to comply with the Alcohol and Drug-Free Workplace Act of 1988. This Act requires that colleges receiving federal monies provide and maintain a drug-free workplace. UVM has no intention of intruding into the private lives of its student employees; however, the university does retain the right and responsibility to expect each employee to report to work and to perform their duties in a manner that will not jeopardize the health and safety of co-workers or other students. Some of the drugs that are illegal under state or federal law include marijuana, heroin, hashish, cocaine, hallucinogens and depressants and/or stimulants when not prescribed for medical care.
 
 Any student employee who is at the workplace under the influence of alcohol or illegal drugs, or who possesses or consumes alcohol or illegal drugs on the job or in the workplace, is subject to university disciplinary action, up to and including dismissal from the University. The illegal manufacture, distribution, or sale of illegal substances on the premises is strictly prohibited and will constitute an offense warranting dismissal. Any illegal substance found shall be turned over to an appropriate law enforcement agency. 
 
-### h. Professionalism
+### Professionalism
 - Appropriate Dress and Language: Given that different environments will require different standards of dress, it is the responsibility of the supervisor to inform students what dress will be appropriate and inappropriate for their specific position.
 - Attitude: While at work, you should work with a cooperative and positive attitude.
 - Timeliness: It is essential that you report to work at the agreed upon time, ready to work. Notification of lateness or inability to work a scheduled shift should be given to supervisors by students at least 24 hours in advance. This allows supervisors to plan for a student’s absence. In the event of an emergency, the supervisor should be informed as soon as possible.
 - Use of Work Time: Student employment at UVM is intended to allow students access to environments, projects, and tasks that will develop their professional and interpersonal skills. As such, it is not appropriate to complete school work during scheduled working hours. Supervisors
 are expected to set explicit expectations on this matter.
-### i. Work-Related Injuries
+### Work-Related Injuries
 If a student is injured on the job, a report of the incident should be immediately filed with the supervisor or the supervisory person in charge at the time. Please contact UVM Risk Management at 802-656-3242. 
 
-## 4. Employment Classification and Work Hours
+## Employment Classification and Work Hours
 Your employment is under the term of the UVM's Student Employment polcies as a temporary employee of VERSO, the office fascilitating the ORCA Program. Studernt Employement Policies are [here](https://www.uvm.edu/sites/default/files/UVM-Policies/policies/ug_employ.pdf) with additional information [here](https://www.uvm.edu/sites/default/files/UVM-Student-Employment-Office/Find%20a%20Job/SEO_Handbook_2023.pdf)
 
-## 5. Compensation and Benefits
+## Compensation and Benefits
 Compensiation is determined based on the [Pay Level Guidelines](https://www.uvm.edu/sites/default/files/UVM-Student-Employment-Office/Supervisor%20Tool%20Kit/Pay_Levels_May_2023-May_2024_and_Provosts_Memo.pdf) as set by UVM.  In order to be compensated you must submit your time by the [Payroll Calendar](https://www.uvm.edu/finance/payroll-schedule). If you miss submitting in time, let the VERSO Director know and you will recieve it in the next pay period. Student employees are not eligible for benefits such as health plan or a retirement plan.
 
-## 6. Leave Policies
+## Leave Policies
 As you are not full time employess, the various types of leave available to full-time employees are **not** available to you, but we will make every reasonable attempt to accomidate your needs for un-paid time off.
 
 ***Religious Holidays**
 Religions may be practiced in many different ways, and can impact participation in internships variably. Students have the right to practice the religion of their choice. Each semester students should submit in writing to their instructors as early as possible and at least one week prior to their documented religious holiday the date(s) of the conflict or absence. Instructors must permit students who miss work or exams for the purpose of religious observance to make up this work. The complete policy is [here](https://www.uvm.edu/registrar/religious-holidays).
 
-## 7. Employee Conduct and Performance Expectations
+## Employee Conduct and Performance Expectations
 Guidelines on employee behavior, performance expectations, and disciplinary procedures.
 
-### a. Performance evaluation process
+### Performance evaluation process
 While this internship takes place in an academic setting, we will not give you grades. Our goal is to equip you to perform professional activities like professionals perform those activities, and to be able to describe and demonstrate your ability to perform those activities.
 Instead, assessments in this internship will come in the form of customer-, stakeholder-, and self-feedback. How well are your products meeting their needs? How well does the team communicate with customers and stakeholders about project progress and status? And how well do you think you are doing at advancing toward your own goals?
 At the beginning of each semester we will ask you to state your goals for personal growth. At the end of each semester, we will ask you to reflect and assess your own advancement toward those goals. You will be required to submit these initial and final statements to help us understand your learning journey, and to improve your own learning journey and those of your peers, now and in the future.
 
-### b. Disciplinary actions and progressive discipline policy
+### Disciplinary actions and progressive discipline policy
 If employees fail to meet reasonable standards of performance, supervisors are expected to take appropriate action as outlined in the [Progressive Discipline](https://www.uvm.edu/sites/default/files/UVM-Student-Employment-Office/Progressive_Discipline_guidelines.pdf) and Termination Guidelines document. The goal of these steps is to improve job performance, so that students can continue to be effective members in the working environment.
 
 ### Social media and electronic communications policies
@@ -153,7 +153,7 @@ Violations of these policies should be reports to VERSO Director as soon as they
 
 The University has established a robust compliance reporting system made up of several reporting mechanisms. For more information on available reporting mechanisms, review the [Whistleblower Policy: Reporting, Protections, & Non-Retaliation policy](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.uvm.edu/sites/default/files/UVM-Policies/policies/whistleblower.pdf).
 
-## 8. Health and Safety Policies
+## Health and Safety Policies
 Student employees are not eligible for benefits such as sick leave, overtime, holiday pay, vacation, or a retirement plan, but they are eligible for Worker’s Compensation under provisions of Vermont law. Worker’s Compensation covers expenses for medical care and certain benefits for loss of pay resulting from injuries or disabilities incurred while on the job. Supervisors should be contacted as soon as possiblein the event of any on-the-job injuries in order to allow for completion of the necessary forms. 
 We strongly encourage a healthy work-life balance by setting reasonable expectations for workload and encouraging breaks and time off when needed. Burnout can negatively impact health and productivity, so it's important to prioritize self-care. 
 
@@ -204,10 +204,10 @@ SEXUAL VIOLENCE SUPPORT AND ADVOCACY
 Supporting someone in crisis
 When helping someone in crisis or distress it can be hard to know what level of support they need. Take time to assess the situation by asking questions. Listening non-judgmentally and staying calm can assist you in getting to the most helpful response. Sometimes it requires calling 988 or 911. Sometimes all someone needs is someone to sit with while they are upset and to validate how they are feeling.
 
-## 9. Employee Development and Training
+## Employee Development and Training
 Professional development, training programs, tuition reimbursement, and career advancement within the company.
 
-## 10. Employee Resources
+## Employee Resources
 Contact information for key company personnel, HR department, and other resources available to employees for assistance or support.
 
 ### Co-Working Space @ Hills 129
@@ -232,10 +232,10 @@ If you are just using Outlook on a web browsers:
    
 To schedule this resource, students will need to create an event on their calendar and invite Hills129@uvm.edu as an attendee. This will book the space.
 
-## 11. Acknowledgment and Agreement
+## Acknowledgment and Agreement
 A section for employees to acknowledge receipt of the handbook and agree to abide by its policies and guidelines.
 
-## 12. Updates and Amendments
+## Updates and Amendments
 Information on how updates or changes to the handbook will be communicated to employees and when revisions may occur.
 
 An effective employee handbook not only provides essential information to employees but also helps ensure consistency, transparency, and legal compliance within the organization. It should be regularly reviewed and updated to reflect changes in company policies, regulations, and best practices. Additionally, it's essential to consult with legal counsel to ensure that the handbook complies with relevant employment laws and regulations.
