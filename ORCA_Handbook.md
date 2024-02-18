@@ -16,9 +16,11 @@ Kendall Fortney
 
 VERSO Program Director
 
-**Main Sections** 
+**Quicklinks** 
 - [ORCA Overview](#ORCA-Overview)
 - [Employment Policies](#Employment-Policies)
+- [Health and Safety Policies](#Health-and-Safety-Policies)
+- [Employee Resources](#Employee-Resources)
 
 ## ORCA Overview
 The [Open Research Community Accelerator](https://verso.w3.uvm.edu/orca/) run by [Vermont Research Open Source Program Office (VERSO)](https://verso.w3.uvm.edu)) at the Univerisity of Vermont, is dedicated to bridging the gap between academic research and real-world impact through open projects with social significance. Comprised of dynamic and passionate student teams, each consisting of 4-5 members, ORCA collaborates closely with professors, researchers, and community experts to identify research with broader application potential and translate these findings into open source projects.
