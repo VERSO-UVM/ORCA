@@ -9,12 +9,17 @@ Potential emergencies could include:
 - Physical Security Threats: Incidents involving violence, unauthorized access to campus premises, or threats to personal safety and security.
 - Health Emergencies: Outbreaks of diseases, medical emergencies, or public health crises that require immediate action to safeguard employee well-being and ensure business continuity.
 
+If you encounter an emergency situation, follow these steps:
+
+- **Assess the Situation**: Remain calm and assess the severity of the emergency.
+- **Alert Others**: Notify nearby team members and evacuate the area if necessary.
+- **Contact Authorities**: Call campus security or emergency services as appropriate.
+- **Provide Details**: Provide clear and concise information about the emergency and your location.
+
 ## Levels of Emergency
-* TYPE 1 - A catastrophic emergency event involving complete loss services, or a physical the entire campus and surrounding community. (Example: complete deletion of VERSO Git Repo, flooding, major hurricane, etc.). T
-* TYPE 2 - A major emergency that impacts a sizable portion of VERSO, the campus and/or outside community. (Examples: loss of a single repo, potential data breach, active shooter, bomb threat, extended power outage).
-* TYPE 3 - A situations that may emerge as a single incident, but have the potential to quickly evolve into a multi-faceted  crisis.
-* TYPE 4 - A one dimensional event that has a limited duration and little impact to the campus community
-* TYPE 5 - A minor problem that has. 
+* TYPE 1 - A catastrophic emergency event involving complete loss services, or a physical the entire campus and surrounding community (Example: complete deletion of ORCA Organization on Github, flooding, major hurricane, etc.)
+* TYPE 2 - A major emergency that impacts a sizable portion of ORCA, the campus and/or outside community (Examples: loss of a single repo, hacking of the social media account, potential data breach, active shooter, bomb threat, extended power outage, etc.)
+* TYPE 3 - A one dimensional event that has a limited duration and impact to the campus community (Example: Closing of a buidling for safety reasons, important but not critical bug in a repo)
 
 ## Initiation of a Emergency Status
 Only authorized members, which is the VERSO Director and the Leads, should declare an emegergency unless there is an immediate danger to someone's physical safety (ALSO REACH OUT TO CAMPUS SECURITY OR 911 at that time). Anyone else should route emergencies through Leads.
@@ -31,6 +36,19 @@ Remember, we only report it as an emergency if we can verify it is happening, if
 5. When a resolution is reached, a final @here in the emergency channel declaring the Emergency as resolves with the Date and Time and a Description of the solution that was executed.
 
 
-This emergency preparedness plan provides guidelines and procedures for responding to various emergency scenarios, considering the remote nature of the team. It's important for all team members to familiarize themselves with this plan and be prepared to respond effectively in emergency situations, even when working remotely.
+## Cybersecurity and Data Protection
 
+To ensure cybersecurity and data protection:
 
+- **Use Secure Passwords**: Use strong, unique passwords for all accounts and systems.
+- **Secure Devices**: Keep devices and software updated with the latest security patches.
+- **Beware of Phishing**: Be cautious of emails or messages requesting sensitive information or login credentials.
+- **Report Suspicious Activity**: Report any suspicious activity or security incidents to IT support immediately.
+
+## Training and Awareness
+
+All team members should receive training on safety and emergency procedures, including:
+
+- **Orientation**: New members should receive orientation on safety procedures during onboarding.
+- **Regular Training**: Provide ongoing training and reminders about safety protocols.
+- **Emergency Drills**: Conduct periodic emergency drills to practice evacuation and response procedures.
