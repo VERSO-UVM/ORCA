@@ -28,10 +28,10 @@ This internship opportunity within ORCA offers UVM students a chance to gain han
 ORCA provides faculty, graduate students, and community organizations with product and development support to enhance the public value of their research and address collective community needs. Under the supervision of the Director of VERSO, who also offers mentorship and guidance, ORCA aims to empower the next generation of leaders while fostering innovation and social impact.
 
 ## Professionalism
-- Appropriate Dress and Language: Given that different environments will require different standards of dress, it is the responsibility of the supervisor to inform students what dress will be appropriate and inappropriate for their specific position.
-- Attitude: While at work, you should work with a cooperative and positive attitude.
-- Timeliness: It is essential that you report to work at the agreed upon time, ready to work. Notification of lateness or inability to work a scheduled shift should be given to supervisors by students at least 24 hours in advance. This allows supervisors to plan for a student’s absence. In the event of an emergency, the supervisor should be informed as soon as possible.
-- Use of Work Time: Student employment at UVM is intended to allow students access to environments, projects, and tasks that will develop their professional and interpersonal skills. As such, it is not appropriate to complete school work during scheduled working hours. Supervisors
+- **Appropriate Dress and Language:**  Given that different environments will require different standards of dress, it is the responsibility of the supervisor to inform students what dress will be appropriate and inappropriate for their specific position.
+- **Attitude:**  While at work, you should work with a cooperative and positive attitude.
+- **Timeliness:**  It is essential that you report to work at the agreed upon time, ready to work. Notification of lateness or inability to work a scheduled shift should be given to supervisors by students at least 24 hours in advance. This allows supervisors to plan for a student’s absence. In the event of an emergency, the supervisor should be informed as soon as possible.
+- **Use of Work Time:** Student employment at UVM is intended to allow students access to environments, projects, and tasks that will develop their professional and interpersonal skills. As such, it is not appropriate to complete school work during scheduled working hours. Supervisors
 are expected to set explicit expectations on this matter.
 
 ### Advisory Committee
