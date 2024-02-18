@@ -7,13 +7,12 @@ The program will provide UVM students, regardless of college or major, with inno
 
 This program is run and funded by the University of Vermont [Open Source Program Office (VERSO)](https://verso.w3.uvm.edu).
 
+Key Documents
+* [Employee Handbook](https://github.com/VERSO-UVM/ORCA/blob/main/Employee_Handbook.md)
+* [Emergency_Preparedness_Plan](https://github.com/VERSO-UVM/ORCA/blob/main/Emergency_Preparedness_Plan.md)
+* [Confidentiality and Data Security Policies](https://github.com/VERSO-UVM/ORCA/blob/main/Confidentiality_and_Data_Security_Policies.md)
+* [Onboarding](https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md)
+
 ## Pod
 Each group of students is called a Pod. Pods follow a shared structure and policies which are in this section
 - [Team Role Details](ORCA_job_description.md)
-
-## Projects
-The Fall 2023 currently has one project for [Pod #1](https://verso.w3.uvm.edu/orca-pod/) which is working on the following project:
-### Interactive Management App
-The Interactive Management App project will design and build an open source tool for conducting Interpretive Structural Modeling (ISM) research with participants. The Interactive Management App will produce a flow diagram that helps a group of people solve a collective problem. The app will take in a list of factors identified by research participants that affect a specific problem. It will then work with participants to figure out the relationships between factors (things that impact their ability to act). An algorithm will then determine which factors should be addressed first, second, and so on in order for the group to meet their goals. This tool will be used in Thriving in Open Source Communities in Africa. See more in the Githuib for ISM
-**Sponsor:** John Meluso
-**Github:** [https://github.com/VERSO-UVM/interactive-management-app](https://github.com/VERSO-UVM/interactive-management-app)
