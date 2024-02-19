@@ -5,9 +5,9 @@ The [Open Research Community Accelerator](https://verso.w3.uvm.edu/orca/) is an 
 
 _**ORCA produces impactful, accessible open source research tools by training tomorrow's workforce in marketable open source skills**_.
 
-For **UVM faculty, graduate students, and local businesses**, the ORCA program provides affordable product and development support that advances your discoveries and innovations while furthering UVM's public impact.
+For **UVM faculty, graduate students, and local businesses**, the ORCA program provides affordable product and development support that advances your discoveries and innovations while broadening your public impact.
 
-For **UVM students**, regardless of college or major, the ORCA program creates experiential learning opportunities through working on cutting-edge university research and industry advances. These experiences will equip you to become the next generation of technology and innovation leaders.
+For **UVM students**, regardless of college or major, the ORCA program provides experiential learning opportunities through working on cutting-edge university research and industry advances. These experiences will equip you to become the next generation of technology and innovation leaders.
 
 Key Documents
 * [ORCA Handbook](ORCA_Handbook.md)
