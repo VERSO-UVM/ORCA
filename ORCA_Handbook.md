@@ -29,55 +29,74 @@ This internship opportunity within ORCA offers UVM students a chance to gain han
 
 ORCA provides faculty, graduate students, and community organizations with product and development support to enhance the public value of their research and address collective community needs. Under the supervision of the Director of VERSO, who also offers mentorship and guidance, ORCA aims to empower the next generation of leaders while fostering innovation and social impact.
 
+## Culture
+
+## Organizational Structure
+
+
+## Pods
+ORCA is built around the idea of Pods, or groups of students working together to solve problems. In real working environments, teamwork is a vital skill. We hope to grow ORCA members abilities to work together collaboratively and learn how to instictually reach out to peers to troubleshoot problem and validate their work. 
+
+## Roles
+
+### Business Lead
+Focused on growth of engagement with activities and marketing initiatives
+
+### Program Lead
+Supports the efficiency and reliability of the ORCA pods, volunteers and the digital infrastructure that supports open activities
+
+### Community Lead
+Supports the open source community with VERSO and affiliated programs 
+
+### Mentor
+Supports the growth of the leads and teams to help them meet their goals
+
+### Team Lead
+Leads a specific ORCA Pod, provides support for pod members and direction for the project
+
+### Team Member
+Responsible for project execution including working collaboratively with researchers, and the development of open source software using standard engineering methodology.
+
+## Specialities
+
+Back End Programming
+
+Front End Programming
+
+Geospatial Information Systems (GIS)
+
+Design
+
+Product Management
+
+User Experience
+
+Business Analytics
+
+Marketing
+
+
 ## Professionalism
+
 - **Appropriate Dress and Language:**  Given that different environments will require different standards of dress, it is the responsibility of the supervisor to inform students what dress will be appropriate and inappropriate for their specific position.
 - **Attitude:**  While at work, you should work with a cooperative and positive attitude.
 - **Timeliness:**  It is essential that you report to work at the agreed upon time, ready to work. Notification of lateness or inability to work a scheduled shift should be given to supervisors by students at least 24 hours in advance. This allows supervisors to plan for a student’s absence. In the event of an emergency, the supervisor should be informed as soon as possible.
 - **Use of Work Time:** Student employment at UVM is intended to allow students access to environments, projects, and tasks that will develop their professional and interpersonal skills. As such, it is not appropriate to complete school work during scheduled working hours. Supervisors
 are expected to set explicit expectations on this matter.
 
-### Advisory Committee
-- Erik Monsen (Associate Professor)
-- Jeremiah Onaolapo (Assistant Professor)
-- Jim Eddy (Senior Lecturer CS)
-- John Meluso (VERSO Post Docterate)
-- Kendall Fortney (Program Director)
-- Lisa Dion (Senior Lecturer CS)
+### Performance evaluation process
+While this internship takes place in an academic setting, we will not give you grades. Our goal is to equip you to perform professional activities like professionals perform those activities, and to be able to describe and demonstrate your ability to perform those activities.
+Instead, assessments in this internship will come in the form of customer-, stakeholder-, and self-feedback. How well are your products meeting their needs? How well does the team communicate with customers and stakeholders about project progress and status? And how well do you think you are doing at advancing toward your own goals?
+At the beginning of each semester we will ask you to state your goals for personal growth. At the end of each semester, we will ask you to reflect and assess your own advancement toward those goals. You will be required to submit these initial and final statements to help us understand your learning journey, and to improve your own learning journey and those of your peers, now and in the future.
 
-### Team Mentor
-- Nate Gaylinn (Complex Systems Graduate Student)
-
-### Course learning objectives/outcomes
-This internship will advance students toward being able to do the following:
-- Collaborate with other professionals to address customer and stakeholder needs.
-- Execute industry-standard Agile software development activities.
-- Communicate the professional activities you know how to perform.
-
-## Pedagogy
-This internship strives to create learning environments that provide every student with the best opportunities to construct their own knowledge and acquire practical skills relevant to their interests. It will achieve these outcomes by incorporating research-based principles of learning (e.g. forming connections through practical examples, fostering feelings of belonging) that create inclusive climates for students of diverse backgrounds and through frequent, immediate, clear, and kind feedback.
-
-### Required internship materials:
-- There are no books that are required for participating in ORCA although a reading list of books available at the UVM Library may be provided if students are interested
-- Online Article Links will be provided through the different sections in the ORCA GitHub
-- If there are any shared video, it will be on a free platform for viewing (like YouTube)
-- The only software required will be MS Teams and Slack, otherwise the students can determine additional software needs on a project to project basis. 
-
-### Required platforms and software: 
-At this time:
-- GitHub
-- MS Teams
-- Slack
-- Student chosen IDE as determined by the project
-
-### Use of required platforms and software:
-GitHub will be used as a code repo, project management tool and knowledge repository for both the specific project and overall ORCA Program. MS Teams will be used as the virtual meeting software and Sprint Review will be recorded. The ORCA Slack will be used for team communication and document storage.
+## ORCA Policies
 
 ### Attendance policy and internship environment expectations: 
 In this internship, we will work together to develop a learning community that is inclusive and respectful. As a learning community we will seek to encourage and appreciate expressions of different ideas, opinions, and beliefs in the spirit of Our Common Ground. Meaningful and constructive dialogue is encouraged in this internship. This requires mutual respect, willingness to listen, and open-mindedness to opposing points of view. Respect for individual differences and alternative viewpoints will be maintained at all times in this internship. Conduct that substantially or repeatedly disrupts the ability of instructors to teach and the ability of students to engage may result in my asking a student to temporarily leave the meeting. See [Undergraduate Catalogue - Classroom Code of Conduct (p. 443-444)](https://catalogue.uvm.edu/undergraduate/academicinfo/rightsandresponsibilities/)
 
 
-## Employment Policies
-These employment policies provide guidelines regarding rights, responsibilities, and expectations while working at the ORCA. 
+## UVM Policies
+These UVMemployment policies provide guidelines regarding rights, responsibilities, and expectations while working at the ORCA. 
 
 ### Disability Accommodation
 UVM is committed to providing opportunity for employment in a reasonably accommodating manner without discrimination to individuals with disabilities. Learm more about [Student Accessibility Services](https://www.uvm.edu/academicsuccess/student_accessibility_services).
@@ -99,7 +118,7 @@ The UVM Directory includes fields for indicating your lived name and your pronou
 The Code of Conduct and Ethical Standards (“Code”) is a tool to help you comply with legal and regulatory requirements and with University policies and procedures. The Code is designed to help you make ethical choices when and if you are faced with a difficult decision or situation. Everyone is expected to adhere to the highest standards of ethical behavior and conduct themselves in a professional manner at all times. This includes honesty, integrity, respect for others, and compliance with all applicable laws and regulations.
 The University of Vermont is committed to continually strengthening its ethical culture. From the University’s motto of “Studiis et Rebus Honestis” (Integrity in Theoretical and Practical Pursuits) to our values stated in “Our Common Ground”, we are all expected to perform our jobs and to conduct business in an ethical and compliant manner. All University personnel have a shared responsibility to the University, to those we serve, to our community and to each other.
 
-The full Code applies to all University of Vermont personnel. Personnel includes, but is not limited to, faculty, staff, volunteers, student employees, and individuals hired or contracted to perform a functionthat is generally associated with an employment relationship (i.e., temporary employee, student employees). This Code also applies to all those attending a UVM hosted, sponsored or internal event.
+The full Code applies to all University of Vermont personnel. Personnel includes, but is not limited to, faculty, staff, volunteers, student employees, and individuals hired or contracted to perform a function that is generally associated with an employment relationship (i.e., temporary employee, student employees). This Code also applies to all those attending a UVM hosted, sponsored or internal event.
 
 [Read the Code](https://www.uvm.edu/sites/default/files/Sponsored-Project-Administration/Code_of_Conduct_Brouchure_NSF_Conference_Grants.pdf)
 
@@ -110,6 +129,12 @@ Any student employee who is at the workplace under the influence of alcohol or i
 
 ### FERPA Rights Disclosure: 
 The purpose of UVM’s FERPA Rights Disclosure is to communicate the rights of students regarding access to, and privacy of their student educational records as provided for in the Family Educational Rights and Privacy Act (FERPA) of 1974. 
+
+
+
+
+
+
 
 ### Work-Related Injuries
 If a student is injured on the job, a report of the incident should be immediately filed with the supervisor or the supervisory person in charge at the time. Please contact UVM Risk Management at 802-656-3242. 
@@ -129,10 +154,6 @@ Religions may be practiced in many different ways, and can impact participation 
 ## Employee Conduct and Performance Expectations
 Guidelines on employee behavior, performance expectations, and disciplinary procedures.
 
-### Performance evaluation process
-While this internship takes place in an academic setting, we will not give you grades. Our goal is to equip you to perform professional activities like professionals perform those activities, and to be able to describe and demonstrate your ability to perform those activities.
-Instead, assessments in this internship will come in the form of customer-, stakeholder-, and self-feedback. How well are your products meeting their needs? How well does the team communicate with customers and stakeholders about project progress and status? And how well do you think you are doing at advancing toward your own goals?
-At the beginning of each semester we will ask you to state your goals for personal growth. At the end of each semester, we will ask you to reflect and assess your own advancement toward those goals. You will be required to submit these initial and final statements to help us understand your learning journey, and to improve your own learning journey and those of your peers, now and in the future.
 
 ### Disciplinary actions and progressive discipline policy
 If employees fail to meet reasonable standards of performance, supervisors are expected to take appropriate action as outlined in the [Progressive Discipline](https://www.uvm.edu/sites/default/files/UVM-Student-Employment-Office/Progressive_Discipline_guidelines.pdf) and Termination Guidelines document. The goal of these steps is to improve job performance, so that students can continue to be effective members in the working environment.
