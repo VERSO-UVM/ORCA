@@ -1,5 +1,5 @@
 ## Open Research Community Accelerator (ORCA)
-For the best experience of this site, please visit [https://verso-uvm.github.io/ORCA/](https://verso-uvm.github.io/ORCA/)
+For the best experience of this site, please visit [https://verso-uvm.github.io/ORCA/](https://verso-uvm.github.io/ORCA/).
 ## Summary
 The [Open Research Community Accelerator](https://verso.w3.uvm.edu/orca/) is an initiative that braodens the impact of research by making academic research products accessible to other academics, local businesses, and community members through _open source practices_. ORCA creates these products through student project teams called _**Pods**_ -- groups of dynamic and passionate students who learn industry open source practices by working on _real_ products destined for public use. Each ORCA Pod consists of 4-5 student interns, each of whom brings unique skills and perspectives to their team. Pods collaborate closely with professors, researchers, and community experts to ensure product quality and high-quality education. Altogether, the program achieves two important goals:
 
