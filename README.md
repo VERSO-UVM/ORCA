@@ -11,7 +11,7 @@ For **UVM students**, regardless of college or major, the ORCA program provides 
 
 ## Key Documents
 * [ORCA Handbook](ORCA_Handbook.md)
-* [Emergency_Preparedness_Plan](Emergency_Preparedness_Plan.md)
+* [Emergency Preparedness Plan](Emergency_Preparedness_Plan.md)
 * [Confidentiality and Data Security Policies](Confidentiality_and_Data_Security_Policies.md)
 * [Onboarding for a Team Lead](Onboarding.md#team-lead-onboarding)
 * [Onboarding for a Team Member](Onboarding.md#team-member-onboarding)
