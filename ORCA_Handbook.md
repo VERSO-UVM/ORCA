@@ -30,12 +30,18 @@ This internship opportunity within ORCA offers UVM students a chance to gain han
 ORCA provides faculty, graduate students, and community organizations with product and development support to enhance the public value of their research and address collective community needs. Under the supervision of the Director of VERSO, who also offers mentorship and guidance, ORCA aims to empower the next generation of leaders while fostering innovation and social impact.
 
 ## Culture
+ORCA is a place where we encourage creative leaps to solve problems that likely have never been solved before. In order to do that you must be empowered to take risks, try new things and be given the space to figure out roadblocks. By having a set of rule
+Create Raving Fans
+Be Curious, not Judgemental
 
 ## Organizational Structure
+the VERSO Director is the supervisor for all students that are working on ORCA tasks either for a paid internship or for credit report. Questions about compensation, taking time off, disciplinary actions or other administrative tasks should go to them.
 
+All leadership positions (with "lead" in the title) also will go to the VERSO Director for project assigment and tasks. Leads can work together to create tasks for each other as well.
 
+The Team Leads 
 ## Pods
-ORCA is built around the idea of Pods, or groups of students working together to solve problems. In real working environments, teamwork is a vital skill. We hope to grow ORCA members abilities to work together collaboratively and learn how to instictually reach out to peers to troubleshoot problem and validate their work. 
+ORCA is built around the idea of Pods, or groups of students working together to solve problems. In real working environments, teamwork is a vital skill. We hope to grow ORCA members abilities to work together collaboratively and learn how to instinctively reach out to peers to troubleshoot problem and validate their work. 
 
 ## Roles
 
@@ -95,8 +101,31 @@ At the beginning of each semester we will ask you to state your goals for person
 In this internship, we will work together to develop a learning community that is inclusive and respectful. As a learning community we will seek to encourage and appreciate expressions of different ideas, opinions, and beliefs in the spirit of Our Common Ground. Meaningful and constructive dialogue is encouraged in this internship. This requires mutual respect, willingness to listen, and open-mindedness to opposing points of view. Respect for individual differences and alternative viewpoints will be maintained at all times in this internship. Conduct that substantially or repeatedly disrupts the ability of instructors to teach and the ability of students to engage may result in my asking a student to temporarily leave the meeting. See [Undergraduate Catalogue - Classroom Code of Conduct (p. 443-444)](https://catalogue.uvm.edu/undergraduate/academicinfo/rightsandresponsibilities/)
 
 
+### Work-Related Injuries
+If a student is injured on the job, a report of the incident should be immediately filed with the supervisor or the supervisory person in charge at the time. Please contact UVM Risk Management at 802-656-3242. 
+
+## Employment Classification and Work Hours
+Your employment is under the term of the UVM's Student Employment polcies as a temporary employee of VERSO, the office fascilitating the ORCA Program. Studernt Employement Policies are [here](https://www.uvm.edu/sites/default/files/UVM-Policies/policies/ug_employ.pdf) with additional information [here](https://www.uvm.edu/sites/default/files/UVM-Student-Employment-Office/Find%20a%20Job/SEO_Handbook_2023.pdf)
+
+## Compensation and Benefits
+Compensiation is determined based on the [Pay Level Guidelines](https://www.uvm.edu/sites/default/files/UVM-Student-Employment-Office/Supervisor%20Tool%20Kit/Pay_Levels_May_2023-May_2024_and_Provosts_Memo.pdf) as set by UVM.  In order to be compensated you must submit your time by the [Payroll Calendar](https://www.uvm.edu/finance/payroll-schedule). If you miss submitting in time, let the VERSO Director know and you will recieve it in the next pay period. Student employees are not eligible for benefits such as health plan or a retirement plan.
+
+## Leave Policies
+As you are not full time employess, the various types of leave available to full-time employees are **not** available to you, but we will make every reasonable attempt to accomidate your needs for un-paid time off.
+
+
+## Employee Conduct and Performance Expectations
+Guidelines on employee behavior, performance expectations, and disciplinary procedures.
+
+
+### Disciplinary actions and progressive discipline policy
+If employees fail to meet reasonable standards of performance, supervisors are expected to take appropriate action as outlined in the [Progressive Discipline](https://www.uvm.edu/sites/default/files/UVM-Student-Employment-Office/Progressive_Discipline_guidelines.pdf) and Termination Guidelines document. The goal of these steps is to improve job performance, so that students can continue to be effective members in the working environment.
+
 ## UVM Policies
 These UVMemployment policies provide guidelines regarding rights, responsibilities, and expectations while working at the ORCA. 
+
+### Lived Name and Pronoun Information
+The UVM Directory includes fields for indicating your lived name and your pronouns. Lived names (preferred names, names in use) are names that an individual wants to be known by in the University community. Entering your pronouns is strongly encouraged to help create a more inclusive and respectful campus community. To update your information, login to the UVM Directory. A preview box will allow you to see how this information will appear in other systems used on campus such as Microsoft Teams and Blackboard. More information about how to make changes to your lived name and pronouns is available in the Knowledge Base.
 
 ### Disability Accommodation
 UVM is committed to providing opportunity for employment in a reasonably accommodating manner without discrimination to individuals with disabilities. Learm more about [Student Accessibility Services](https://www.uvm.edu/academicsuccess/student_accessibility_services).
@@ -110,9 +139,6 @@ Sexual harassment is illegal and corrosive to a healthy work environment.  We ar
 
 ### Nondiscrimination Statement
 In compliance with Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973, Title VI of the Civil Rights Act of 1964, and other federal, state, and local laws, The University of Vermont does not discriminate on the basis of age, race, color, sex, sexual orientation, gender identity, and religion, national or ethnic origin, disability, or veteran status in any phase of its employment process, in any phase of its admission or financial aid programs, or other aspects of its educational programs or activities. The vice provost for institutional equity and diversity is the individual designated by the University to coordinate its efforts to comply with Title IX, Section 504 and other equal opportunity and affirmative action regulations and laws. 
-
-### Lived Name and Pronoun Information
-The UVM Directory includes fields for indicating your lived name and your pronouns. Lived names (preferred names, names in use) are names that an individual wants to be known by in the University community. Entering your pronouns is strongly encouraged to help create a more inclusive and respectful campus community. To update your information, login to the UVM Directory. A preview box will allow you to see how this information will appear in other systems used on campus such as Microsoft Teams and Blackboard. More information about how to make changes to your lived name and pronouns is available in the Knowledge Base.
 
 ### Code of conduct and ethics policies
 The Code of Conduct and Ethical Standards (“Code”) is a tool to help you comply with legal and regulatory requirements and with University policies and procedures. The Code is designed to help you make ethical choices when and if you are faced with a difficult decision or situation. Everyone is expected to adhere to the highest standards of ethical behavior and conduct themselves in a professional manner at all times. This includes honesty, integrity, respect for others, and compliance with all applicable laws and regulations.
@@ -130,33 +156,11 @@ Any student employee who is at the workplace under the influence of alcohol or i
 ### FERPA Rights Disclosure: 
 The purpose of UVM’s FERPA Rights Disclosure is to communicate the rights of students regarding access to, and privacy of their student educational records as provided for in the Family Educational Rights and Privacy Act (FERPA) of 1974. 
 
-
-
-
-
-
-
-### Work-Related Injuries
-If a student is injured on the job, a report of the incident should be immediately filed with the supervisor or the supervisory person in charge at the time. Please contact UVM Risk Management at 802-656-3242. 
-
-## Employment Classification and Work Hours
-Your employment is under the term of the UVM's Student Employment polcies as a temporary employee of VERSO, the office fascilitating the ORCA Program. Studernt Employement Policies are [here](https://www.uvm.edu/sites/default/files/UVM-Policies/policies/ug_employ.pdf) with additional information [here](https://www.uvm.edu/sites/default/files/UVM-Student-Employment-Office/Find%20a%20Job/SEO_Handbook_2023.pdf)
-
-## Compensation and Benefits
-Compensiation is determined based on the [Pay Level Guidelines](https://www.uvm.edu/sites/default/files/UVM-Student-Employment-Office/Supervisor%20Tool%20Kit/Pay_Levels_May_2023-May_2024_and_Provosts_Memo.pdf) as set by UVM.  In order to be compensated you must submit your time by the [Payroll Calendar](https://www.uvm.edu/finance/payroll-schedule). If you miss submitting in time, let the VERSO Director know and you will recieve it in the next pay period. Student employees are not eligible for benefits such as health plan or a retirement plan.
-
-## Leave Policies
-As you are not full time employess, the various types of leave available to full-time employees are **not** available to you, but we will make every reasonable attempt to accomidate your needs for un-paid time off.
-
 ***Religious Holidays**
 Religions may be practiced in many different ways, and can impact participation in internships variably. Students have the right to practice the religion of their choice. Each semester students should submit in writing to their instructors as early as possible and at least one week prior to their documented religious holiday the date(s) of the conflict or absence. Instructors must permit students who miss work or exams for the purpose of religious observance to make up this work. The complete policy is [here](https://www.uvm.edu/registrar/religious-holidays).
 
-## Employee Conduct and Performance Expectations
-Guidelines on employee behavior, performance expectations, and disciplinary procedures.
 
-
-### Disciplinary actions and progressive discipline policy
-If employees fail to meet reasonable standards of performance, supervisors are expected to take appropriate action as outlined in the [Progressive Discipline](https://www.uvm.edu/sites/default/files/UVM-Student-Employment-Office/Progressive_Discipline_guidelines.pdf) and Termination Guidelines document. The goal of these steps is to improve job performance, so that students can continue to be effective members in the working environment.
+## Communication and Marketing
 
 ### Social media and electronic communications policies
 #### Authorized Use
