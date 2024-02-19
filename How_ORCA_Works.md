@@ -1,7 +1,7 @@
 ## Summary
 ORCA's goals are to (1) produce impactful, accessible open source research tools by (2) training tomorrow's workforce in marketable open source skills. This page describes how we at ORCA achieve these two goals. In short, by drawing on the latest research on openness, we work with stakeholders to design research products that are open to more people from more backgrounds while creating environments in which students are more likely to learn valued workplace skills.
 
-## How We Make Research Open
+## How we make research more open
 - Need research to be more open
   - Funders are concerned that research isn't getting into the hands of those who could benefit from it
   - Through experience, this is often because research artifacts aren't designed with accessibility in mind so much as publication and licensing
@@ -10,10 +10,10 @@ ORCA's goals are to (1) produce impactful, accessible open source research tools
 - VERSO addresses this by making research with high impact potential more accessible from the start
 
 
-## How We Train Students In and Through Openness
+## How train students in and through openness
 ORCA internships create learning environments that provide every student with the best opportunities to construct their own knowledge and acquire practical skills relevant to their interests. It achieves these outcomes by incorporating research-based principles of learning (e.g. forming connections through practical examples, fostering feelings of belonging) that create inclusive climates for students of diverse backgrounds and through frequent, immediate, clear, and kind feedback. 
 
-### Course learning objectives/outcomes
+### Internship learning objectives/outcomes
 This internship will advance students toward being able to do the following:
 - Collaborate with other professionals to address customer and stakeholder needs.
 - Execute industry-standard Agile software development activities.
