@@ -1,11 +1,11 @@
-## (Open Research Community Accelerator)
+## Open Research Community Accelerator (ORCA)
 Best experience is through Github Pages here: [https://verso-uvm.github.io/ORCA/](https://verso-uvm.github.io/ORCA/)
 ## Summary
-The [Open Research Community Accelerator](https://verso.w3.uvm.edu/orca/) is a new initiative that aims to translate academic research into open projects with social impact using project teams. It is focused on a dynamic and passionate group of undergraduate and master's students dedicated to bridging the gap between cutting-edge university research and real-world impact. Comprising 4-5 members, each bringing their unique skills and perspectives, the team collaborates closely with professors, researchers, and community experts to support research with the potential for broader application and transforming these research findings into open source projects.
+The [Open Research Community Accelerator](https://verso.w3.uvm.edu/orca/) is an initiative by the [Vermont Research Open Source Program Office (VERSO)](https://verso.w3.uvm.edu/). ORCA expands the impact of research by making academic research products accessible to other academics, local businesses, and community members through _open source practices_. ORCA creates these products through student project teams called _**Pods**_ --- groups of dynamic and passionate students who learn industry open source practices through working on _real_ products destined for public use. Each ORCA Pod consists of 4-5 student interns. Each intern brings valuable skills and perspectives to their team. Pods collaborate closely with professors, researchers, and community experts to ensure product quality and high-quality education. Altogether, the ORCA program achieves two important goals: it trains tomorrow's workforce in desirable open source skills by producing impactful, accessible open source research tools.
 
-The program will provide UVM students, regardless of college or major, with innovative experiential learning opportunities to become the next generation of leaders. It will also provide faculty, graduate students and community organizations with product and development support to further the public impact of discoveries created in UVM’s research endeavors.
+For **UVM faculty, graduate students, and local businesses**, the ORCA program provides affordable product and development support that advances your discoveries and innovations while furthering UVM's public impact.
 
-This program is run and funded by the University of Vermont [Open Source Program Office (VERSO)](https://verso.w3.uvm.edu).
+For **UVM students**, regardless of college or major, the ORCA program creates experiential learning opportunities through working on cutting-edge university research and industry advances. These experiences will equip you to become the next generation of technology and innovation leaders.
 
 Key Documents
 * [ORCA Handbook](ORCA_Handbook.md)
