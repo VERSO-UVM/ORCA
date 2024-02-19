@@ -17,7 +17,7 @@ For **UVM students**, regardless of college or major, the ORCA program provides 
 * [Onboarding for a Team Member](Onboarding.md#team-member-onboarding)
 * [Recruiting](/Recruiting.md)
 
-## Pod
+## Pods
 Each group of students is called a Pod. Pods follow a shared structure and policies which are in this section
 - [Team Role Details](ORCA_job_description.md)
 https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md#team-lead-onboarding
