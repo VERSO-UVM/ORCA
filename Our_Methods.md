@@ -7,7 +7,7 @@ ORCA's goals are to (1) produce impactful, accessible open source research tools
   - Through experience, this is often because research artifacts aren't designed with accessibility in mind so much as publication and licensing
   - This is a problem because it wastes taxpayer dollars, leaves new solutions unimplemented, and many issues unaddressed altogether
   - Consequently, there's a need for research greater research "translation"
-- VERSO addresses this by making research accessible
+- VERSO addresses this by making research with high impact potential more accessible from the start
 
 
 ## How We Train Students In and Through Openness
