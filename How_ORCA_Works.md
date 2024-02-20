@@ -17,7 +17,7 @@ Good news: _work that makes an impact_ sounds a lot like translation work, doesn
 ## We translate research by "opening up" research
 VERSO addresses the need for research translation by intentionally shepherding projects with high-impact potential toward greater accessibility through open source practices.
 
-## How we train students in and through open source
+## We train tomorrow's workforce through open source
 ORCA internships create learning environments that provide every student with the best opportunities to construct their own knowledge and acquire practical skills relevant to their interests. It achieves these outcomes by incorporating research-based principles of learning (e.g. forming connections through practical examples, fostering feelings of belonging) that create inclusive climates for students of diverse backgrounds and through frequent, immediate, clear, and kind feedback. 
 
 ### Internship learning objectives/outcomes
