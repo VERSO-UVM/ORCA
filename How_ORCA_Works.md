@@ -1,5 +1,5 @@
 ## Summary
-ORCA's goals are to (1) produce impactful, accessible open source research tools by (2) training tomorrow's workforce in marketable open source skills. This page describes how we at ORCA achieve these two goals. In short, by drawing on the latest research on openness, we work with stakeholders to design research products that are open to more people from more backgrounds while creating environments in which students are more likely to learn valued workplace skills.
+ORCA's goals are to (1) produce impactful, accessible, open source research tools by (2) training tomorrow's workforce in marketable open source skills. This page describes how we at ORCA achieve these two goals. In short, by drawing on the latest research on openness, we work with stakeholders to design research products that are open to more people from more backgrounds while creating environments in which students are more likely to learn valued workplace skills.
 
 ## What's the need?
 Here at [VERSO](https://verso.w3.uvm.edu/), we focus on open source in all its incarnations. But, while to some see open source as an end in and of itself, we primarily view open source as a means for addressing crucial problems related to greater [transparency](https://www.archives.gov/files/cui/documents/2009-WH-memo-on-transparency-and-open-government.pdf), [innovation](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf), and [inclusion](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf).
@@ -14,8 +14,18 @@ This isn't a new phenomenon, though; for centuries (literally), students have le
 
 Good news: _work that makes an impact_ sounds a lot like translation work, doesn't it?
 
-## We translate research by "opening up" research
-VERSO addresses the need for research translation by intentionally shepherding projects with high-impact potential toward greater accessibility through open source practices.
+## We translate scholarship by "opening up" research
+ORCA addresses the need for research translation by intentionally shepherding projects with high-impact potential toward greater accessibility through open source practices.
+
+That was a mouthful, wasn't it? Let's take things one at a time.
+
+ORCA selects projects with "high-impact potential." Not all research can or should be applicable to other contexts immediately. Fundamental research has great benefits. But when research is ready -- either an artifact is sufficiently advanced that other fields of science or industrial applications might benefit from it -- then we jump. A great example is the [Interactive Management App Project](https://github.com/VERSO-UVM/Interactive-Management-App) which is turning an established research method for collective problem solving and turning it into an app that researchers and communities can use to solve problems together.
+
+We "intentionally shepherds" these projects by...
+
+Open source practices
+
+Greater accessibility
 
 ## We train tomorrow's workforce through open source
 ORCA internships create learning environments that provide every student with the best opportunities to construct their own knowledge and acquire practical skills relevant to their interests. It achieves these outcomes by incorporating research-based principles of learning (e.g. forming connections through practical examples, fostering feelings of belonging) that create inclusive climates for students of diverse backgrounds and through frequent, immediate, clear, and kind feedback. 
