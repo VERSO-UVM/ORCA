@@ -1,4 +1,4 @@
-## (Open Research Community Accelerator)
+# ORCA (Open Research Community Accelerator)
 The [Open Research Community Accelerator (ORCA)](https://verso.w3.uvm.edu/orca/) is a initiative that aims to translate academic research into open projects with social impact. It is focused on a dynamic and passionate groups of students dedicated to bridging the gap between cutting-edge university research and real-world impact through open source work. This program is run and funded by the University of Vermont [Open Source Program Office (VERSO)](https://verso.w3.uvm.edu).
 
 This Repository contains all the supporting documentation and policies for the ORCA program. These documents are meant to help new ORCA members learns the program, show project sponsors how we work, and provide a template that can be "forked" to other academic institutions.
