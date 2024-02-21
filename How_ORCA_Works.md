@@ -26,6 +26,9 @@ Once we've found a promising research artifact (like a new method or tool), we "
 Fortunately, we don't have to create a new process for doing this every time: here's where open source comes back in! With resources for [getting started](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/), resources covering [things it would've been nice had they taught in most schools](https://missing.csail.mit.edu/), and home-grown resources for real roles like [employees](ORCA_Handbook.md) and [team leads](Onboarding.md), ORCA makes use of open source design and programming practices to make research artifacts accessible. More on this coming up next.
 
 ## We train tomorrow's workforce through open source
+
+[Start here]
+
 ORCA internships create learning environments that provide every student with the best opportunities to construct their own knowledge and acquire practical skills relevant to their interests. It achieves these outcomes by incorporating research-based principles of learning (e.g. forming connections through practical examples, fostering feelings of belonging) that create inclusive climates for students of diverse backgrounds and through frequent, immediate, clear, and kind feedback. 
 
 the development team is building a web app that walk groups through a problem-solving method. Researchers and community members alike will be able to use the app to solve problems together. In particular, the app benefits from open sourcing because researchers, practitioners, and really any interested community member can dig into the documentation, figure out what the tool is doing, whether it's right for their application, and even modify a copy to their liking!
