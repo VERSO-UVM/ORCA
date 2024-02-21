@@ -1,6 +1,3 @@
-
-
-
 # 1. Purpose  
 Read UVM's full Intellectual Property Policy here: [https://www.uvm.edu/sites/default/files/UVM-Policies/policies/intellectualproperty.pdf](https://www.uvm.edu/sites/default/files/UVM-Policies/policies/intellectualproperty.pdf)
 
