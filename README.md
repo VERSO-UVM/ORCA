@@ -6,7 +6,7 @@ This Repository contains all the supporting documentation and policies for the O
 Best experience is through Github Pages here: [https://verso-uvm.github.io/ORCA/](https://verso-uvm.github.io/ORCA/)
 
 ## The Handbook
-The best place to start is the [ORCA Handbook](ORCA_Handbook.md)! This contains an ORCA overview, Employment Policies, UVM Policies, Communication and Marketing, Health and Safety Policies and Resources
+The best place to start is the [ORCA Handbook](ORCA_Handbook.md)! This contains an ORCA overview, Employment Policies, UVM Policies, Communication and Marketing, Health and Safety Policies and Resources. [How ORCA Works](How_ORCA_Works.md) describes how we have approached the ORCA program's educational importance and impact.
 
 ## Recruiting and Onboarding
 We have tried to lay out some of the materials for hiring students including the job descriptions in [Recruiting](/Recruiting.md)] and we hope to expand this with much more information about how we find and bring new students into ORCA. We also have built onboarding processes but these are still evolving:
