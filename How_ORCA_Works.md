@@ -1,5 +1,11 @@
-# What's This ORCA Thing?
+# What's this ORCA thing?
 ORCA's goals are to (1) produce impactful, accessible, open source research tools by (2) training tomorrow's workforce in marketable open source skills. This page describes how we at ORCA achieve these two goals. In short, by drawing on the latest research on openness, we work with stakeholders to design research and industry products that are open to more people from more backgrounds while creating environments in which students are more likely to learn valued workplace skills.
+
+## In this document:
+- [What's the need?](How_ORCA_Works.md#whats-the-need)
+- [How we translate scholarship by opening up research](How_ORCA_Works.md)
+- [How we train tomorrow's workforce through open source](How_ORCA_Works.md)
+- [Bringing things together](How_ORCA_Works.md)
 
 ## What's the need?
 Here at [VERSO](https://verso.w3.uvm.edu/), we focus on open source in all its incarnations. But, while some see open source as an end in and of itself, we primarily view open source as a means for addressing crucial problems related to greater [transparency](https://www.archives.gov/files/cui/documents/2009-WH-memo-on-transparency-and-open-government.pdf), [innovation](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf), and [inclusion](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf).
@@ -14,7 +20,7 @@ This isn't a new phenomenon, though; for centuries (literally), students have le
 
 Good news! _Work that makes an impact_ sounds a lot like translation work, doesn't it?
 
-## We translate scholarship by "opening up" research
+## How we translate scholarship by opening up research
 > [!Important]
 > ORCA addresses the need for research translation by intentionally shepherding projects with high-impact potential toward greater accessibility through open source practices.
 
@@ -26,8 +32,7 @@ Once we've found a promising research artifact (like a new method or tool), we "
 
 Fortunately, we don't have to create a new process for doing this every time: here's where open source comes back in! 
 
-## We train tomorrow's workforce through open source
-
+## How we train tomorrow's workforce through open source
 > [!Important]
 > ORCA trains students in workplace practices through internships that task them with producing accessible open source research artifacts.
 
