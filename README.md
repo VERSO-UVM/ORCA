@@ -5,15 +5,22 @@ ORCA's goals are to produce impactful, accessible, open source research tools by
 
 Best experience is through Github Pages here: [https://verso-uvm.github.io/ORCA/](https://verso-uvm.github.io/ORCA/)
 
-## The Handbook
+## The Handbook and How We Work
+
 The best place to start is the [ORCA Handbook](ORCA_Handbook.md)! This contains an ORCA overview, Employment Policies, UVM Policies, Communication and Marketing, Health and Safety Policies and Resources. [How ORCA Works](How_ORCA_Works.md) describes how we have approached the ORCA program's educational importance and impact.
 
 ## Recruiting and Onboarding
+
 We have tried to lay out some of the materials for hiring students including the job descriptions in [Recruiting](/Recruiting.md)] and we hope to expand this with much more information about how we find and bring new students into ORCA. We also have built onboarding processes but these are still evolving:
 * [Onboarding for a Team Lead](Onboarding.md#team-lead-onboarding)
 * [Onboarding for a Team Member](Onboarding.md#team-member-onboarding)
 
+## Projects
+
+Project selection, onboading and other resources for those interested in running a project are in the [Projects](Projects.md) document.
+
 ## Policies and Plans
+
 There are several stand alone policies that are uniquely applicable to the ORCA Program. These include:
 * [Emergency Preparedness Plan](Emergency_Preparedness_Plan.md)
 * [Confidentiality and Data Security Policies](Confidentiality_and_Data_Security_Policies.md)
