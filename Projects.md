@@ -5,9 +5,9 @@ The goal of this document is to describe what makes a good project, the history 
 ## Project Attributes
 
 For a project to be a good fit for the ORCA program there are several core requirements"
-- Broader Impact - it must have a impact and an community beyound the project sponsor. There must be a measurable community, or implied community that could potentially carry the project forward.
-- Sustainabiltiy - There either must be funding attached to the project to support the student's time, or a reason that funding could not be acquired (like it is a subject where there is little funding, or the project sponsor is eligiable to get funding).
-- Engagement - The project sponsor must be willing to attend weekly meetings with the team to scope work, engage with individual team members to solve problems and support the team's effort. This is an education experience and it is important the sponors engage with the team.
+- **Broader Impact** - it must have a impact and an community beyound the project sponsor. There must be a measurable community, or implied community that could potentially carry the project forward.
+- **Sustainability** - There either must be funding attached to the project to support the student's time, or a reason that funding could not be acquired (like it is a subject where there is little funding, or the project sponsor is eligiable to get funding).
+- **Engagement** - The project sponsor must be willing to attend weekly meetings with the team to scope work, engage with individual team members to solve problems and support the team's effort. This is an education experience and it is important the sponors engage with the team.
 
 ## History of Past Projects
 
@@ -34,7 +34,7 @@ A project Sponsor needs to contact the VERSO Program Director with intersted in 
 Once a project is selected we need a couple of paragraphs about the project's mission, goals and activities which will be used to build a project page on the VERSO Site. This will be vital to hiring
 
 ### Hiring
-The VERSO Director will work with the project sponsor to determine the team makeup and job requirements to build a job description for hiring (see [Recruiting](/Recruiting.md) for examples of previous job listings. The VERSO director will need to post these listing two monthes in advance of the start of the project. The VERSO Director will interview canidates and select the best based on aptittude for the technical skills and alignment to the ORCA Culture.
+The VERSO Director will work with the project sponsor to determine the team makeup and job requirements to build a job description for hiring (see [Recruiting](Recruiting.md) for examples of previous job listings. The VERSO director will need to post these listing two monthes in advance of the start of the project. The VERSO Director will interview canidates and select the best based on aptittude for the technical skills and alignment to the ORCA Culture.
 
 ### Pre-Kickoff Prep
 The Project Sponsor and the VERSO Director will work together to build a list of tasks and resources the Pod will need to start the semester running.
