@@ -8,7 +8,7 @@ For certain open-source projects, UVM may require that students agree to assign 
 
 In some cases, UVM will require students to execute an IP Assignment Agreement as a condition of working on a project.
 
-This short summary is meant to assist you in understanding a student’s rights and obligations.  The [UVM IP Policy](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.uvm.edu/sites/default/files/UVM-Policies/policies/intellectualproperty.pdf) sets for the full and official policy of UVM   If you have any questions relating to how this policy works, please feel free to reach out to Andrew.zehner@uvm.edu. 
+This short summary is meant to assist you in understanding a student’s rights and obligations.  The [UVM IP Policy](https://www.uvm.edu/sites/default/files/UVM-Policies/policies/intellectualproperty.pdf) sets for the full and official policy of UVM   If you have any questions relating to how this policy works, please feel free to reach out to Andrew.zehner@uvm.edu. 
 
 ## Additional Details
 
