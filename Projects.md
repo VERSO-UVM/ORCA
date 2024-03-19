@@ -33,26 +33,15 @@ A project Sponsor needs to contact the VERSO Program Director with intersted in 
 Submission Form for Potential Sponsored Open Source Research Project
 
 #### Project Title: [Title of the Open Source Research Project]
-Submission Date: [Date of submission]
-Contact Information: [Name, Email, UVM ID if applicable]
+* Submission Date: [Date of submission]
+* Contact Information: [Name, Email, UVM ID if applicable]
 
-__Project Details__
-Brief overview of the project, its objectives, methodology and any affiliated repos
-
-__Project Contributors__
-List the Principal Investigator (PI) [Name, Affiliation, Contact Information] and Collaborators/Team Members that are activily contributing to the project
-
-__Potential Audience__
-Describe the target audience or beneficiaries of the project and explain how the project will benefit them
-
-__Work Estimate__
-Give a rough estimate of the amount of work required anda proposed timeline for project completion
-
-__Funding__
-Describe the if there already funding to support student work, if there is a pathway to get funding or if there is no funding expected
-
-__Additional Notes__
-Add any other information that is relevant to this request, including if there are roadblocks preventing development or anything else that may impact its success
+1. __Project Details__ Brief overview of the project, its objectives, methodology and any affiliated repos
+2. __Project Contributors__ List the Principal Investigator (PI) [Name, Affiliation, Contact Information] and Collaborators/Team Members that are activily contributing to the project
+3. __Potential Audience__ Describe the target audience or beneficiaries of the project and explain how the project will benefit them
+4. __Work Estimate__ Give a rough estimate of the amount of work required anda proposed timeline for project completion
+5. __Funding__ Describe the if there already funding to support student work, if there is a pathway to get funding or if there is no funding expected
+6. __Additional Notes__ Add any other information that is relevant to this request, including if there are roadblocks preventing development or anything else that may impact its success
 
 ## Project Onboarding
 
