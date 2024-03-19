@@ -28,10 +28,36 @@ The Vermont Zoning Atlas is a web-based geospatial interface that visualizes zon
 
 A project Sponsor needs to contact the VERSO Program Director with intersted in using an ORCA team. Initial disucssions will layout the project details, scope of the work and if funding is available (and when). A discission may be made within a month if ORCA can take on a project, it may take longer if funding is still being worked out.
 
+### Project Submission Format
+
+Submission Form for Potential Sponsored Open Source Research Project
+
+#### Project Title: [Title of the Open Source Research Project]
+Submission Date: [Date of submission]
+Contact Information: [Name, Email, UVM ID if applicable]
+
+__Project Details__
+Brief overview of the project, its objectives, methodology and any affiliated repos
+
+__Project Contributors__
+List the Principal Investigator (PI) [Name, Affiliation, Contact Information] and Collaborators/Team Members that are activily contributing to the project
+
+__Potential Audience__
+Describe the target audience or beneficiaries of the project and explain how the project will benefit them
+
+__Work Estimate__
+Give a rough estimate of the amount of work required anda proposed timeline for project completion
+
+__Funding__
+Describe the if there already funding to support student work, if there is a pathway to get funding or if there is no funding expected
+
+__Additional Notes__
+Add any other information that is relevant to this request, including if there are roadblocks preventing development or anything else that may impact its success
+
 ## Project Onboarding
 
 ### Project Selected
-Once a project is selected we need a couple of paragraphs about the project's mission, goals and activities which will be used to build a project page on the VERSO Site. This will be vital to hiring
+Once a project is selected we need a couple of paragraphs about the project's mission, goals and activities which will be used to build a project page on the VERSO Site.
 
 ### Hiring
 The VERSO Director will work with the project sponsor to determine the team makeup and job requirements to build a job description for hiring (see [Recruiting](Recruiting.md) for examples of previous job listings. The VERSO director will need to post these listing two monthes in advance of the start of the project. The VERSO Director will interview canidates and select the best based on aptittude for the technical skills and alignment to the ORCA Culture.
