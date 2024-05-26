@@ -6,6 +6,30 @@ As a team lead, you will be responsible for managing your team of students and e
 
 This onboarding document will provide you with the information you need to succeed in your role as a team lead. We will cover the important attributes of a leader, what will happen in the first four weeks as well as six activities that will help you adjust to your new role.
 
+# Initial Onboarding Tasks
+
+Before getting to the fun stuff, there are a few technical onboarding tasks you will need to complete.
+
+<h3>1. Set up your GitHub profile</h3>
+
+* If you haven't already, go ahead and create your own GitHub account with a unique username
+        
+* Share your username with your program director so they can officially add you to the VERSO-UVM organization! They will send you a request, and you will need to accept the request on the “Your Organizations” page
+
+<h3>2. Complete an I-9 form</h3>
+
+* Email UVM Human Resource Services (hrinfo@uvm.edu) to check if you already have an I-9 form on record
+
+* If not, visit the HR office at room 228 in the Waterman Building to fill out a form (this is a super quick process), and make sure to bring an acceptable form of ID! (view them here: https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents)
+
+<h3>3. Set up your PeopleSoft account</h3>
+
+* Navigate to myUVM > click on the "PeopleSoft" icon located in the top right corner
+
+* After creating your account, link your bank account so you can get paid! (Payroll and Tax > Direct Deposit)
+
+* This is where you will go to log your hours as you work (UVM Time Entry > Enter Time)
+
 # Important Attributes of a Leader
 
 Leadership is a choice about how we treat each other. We have tried to put some attributes below but it is just a starting point. We want you to feel empowered to explore what leadership mean to you, and talk to your team and others as you explore this role
