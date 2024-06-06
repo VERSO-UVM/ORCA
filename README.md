@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/691145608.svg)](https://zenodo.org/doi/10.5281/zenodo.11507476)
+
 # ORCA (Open Research Community Accelerator)
 The [Open Research Community Accelerator](https://verso.w3.uvm.edu/orca/) is an initiative that grows the impact of academic research by making research products accessible to other academics, local businesses, and community members through _open source projects_. ORCA creates these products through student project teams called _**Pods**_ -- groups of dynamic and passionate students who learn industry open source practices by working on _real_ products destined for public use. This program is run and funded by the University of Vermont [Open Source Program Office (VERSO)](https://verso.w3.uvm.edu).
 
