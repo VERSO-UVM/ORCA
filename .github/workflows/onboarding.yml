@@ -17,8 +17,6 @@ jobs:
             if (!isOnboarding) {
               core.setFailed('This issue is not an onboarding task');
             }
-            console.log(JSON.stringify(context, null, 2));
-            console.log(JSON.stringify(context.payload.issue, null, 2));
 
   handle:
     runs-on: ubuntu-latest
