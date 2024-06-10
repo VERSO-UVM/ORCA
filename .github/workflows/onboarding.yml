@@ -37,10 +37,17 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            console.log(JSON.stringify(context, null, 2));
-            console.log(JSON.stringify(context.payload.issue, null, 2));
-            const encodedCtx = JSON.stringify(context.payload.issue, null, 2);
+            const encodedCtx = JSON.stringify({issueNumber: context.payload.issue.number, issueBody: context.payload.issue.body }, null, 2);
+            console.log(encodedCtx);
             fs.writeFileSync('./scripts/context.json', encodedCtx);
+
+      - name: Show the directory
+        working-directory: ./scripts
+        run: ls -la .
+
+      - name: Read file
+        working-directory: ./scripts
+        run: cat context.json
 
       - name: Install Deps
         working-directory: ./scripts
