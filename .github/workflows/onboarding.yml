@@ -34,8 +34,8 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            const context = JSON.stringify(context, null, 2);
-            fs.writeFileSync('./scripts/context.json', context);
+            const encodedCtx = JSON.stringify(context, null, 2);
+            fs.writeFileSync('./scripts/context.json', encodedCtx);
 
       - name: Install Deps
         working-directory: ./scripts
