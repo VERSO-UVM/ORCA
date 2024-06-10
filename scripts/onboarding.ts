@@ -9,6 +9,8 @@ import { join } from "path";
 const contextSchema = z.object({
   issueNumber: z.number().int(),
   issueBody: z.string().min(1),
+  repoOwner: z.string().min(1),
+  repoName: z.string().min(1),
 });
 
 const taskNameToFileMap = {
@@ -23,11 +25,8 @@ const taskNameToFileMap = {
   "Record Audio Evaluation": "OB_RecordAudioEvaluation.md",
 } as const;
 
-const MyOctokit = Octokit.plugin(restEndpointMethods);
-const octo = new MyOctokit({ auth: Bun.env.GITHUB_TOKEN });
-
-const REPO_OWNER = "henrikvtcodes";
-const REPO_NAME = "verso-ob-test";
+const OctokitWithREST = Octokit.plugin(restEndpointMethods);
+const octo = new OctokitWithREST({ auth: Bun.env.GITHUB_TOKEN });
 
 // --------- Main script ---------
 
@@ -55,8 +54,8 @@ const taskContent = (await readFile(join("tasks", taskFile))).toString();
 const commentContent = "Here is your task:  \n---\n" + taskContent;
 
 await octo.rest.issues.createComment({
-  owner: REPO_OWNER,
-  repo: REPO_NAME,
+  owner: context.repoOwner,
+  repo: context.repoName,
   issue_number: context.issueNumber,
   body: commentContent,
 });

@@ -7,7 +7,8 @@ permissions:
   issues: write
 
 jobs:
-  validate:
+  run:
+    name: Onboarding Task Automation
     runs-on: ubuntu-latest
     steps:
       - name: Check onboarding label
@@ -21,12 +22,9 @@ jobs:
               core.setFailed('This issue is not an onboarding task');
             }
 
-  handle:
-    runs-on: ubuntu-latest
-    needs: validate
-    steps:
       - name: Check out the repository
         uses: actions/checkout@v2
+
       - uses: oven-sh/setup-bun@v1
         with:
           bun-version: latest
@@ -38,17 +36,9 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            const encodedCtx = JSON.stringify({issueNumber: context.payload.issue.number, issueBody: context.payload.issue.body }, null, 2);
+            const encodedCtx = JSON.stringify({issueNumber: context.payload.issue.number, issueBody: context.payload.issue.body, repoOwner: context.paylod.repository.owner.login, repoName: context.payload.repository.name }, null, 2);
             console.log(encodedCtx);
             fs.writeFileSync('./scripts/context.json', encodedCtx);
-
-      - name: Show the directory
-        working-directory: ./scripts
-        run: ls -la .
-
-      - name: Read file
-        working-directory: ./scripts
-        run: cat context.json
 
       - name: Install Deps
         working-directory: ./scripts
