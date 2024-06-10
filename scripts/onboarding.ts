@@ -24,7 +24,7 @@ const taskNameToFileMap = {
 } as const;
 
 const MyOctokit = Octokit.plugin(restEndpointMethods);
-const octo = new MyOctokit({ auth: process.env.GITHUB_TOKEN });
+const octo = new MyOctokit({ auth: Bun.env.GITHUB_TOKEN });
 
 const REPO_OWNER = "henrikvtcodes";
 const REPO_NAME = "verso-ob-test";
