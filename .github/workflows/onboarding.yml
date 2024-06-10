@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check onboarding label
-        uses: actions/github-script@v3
+        uses: actions/github-script@v4
         with:
           script: |
             const issue = context.payload.issue;
@@ -32,11 +32,11 @@ jobs:
       - name: Write github token to file
         run: 'echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" > ./scripts/.env'
       - name: Write context to file
-        uses: actions/github-script@v3
+        uses: actions/github-script@v4
         with:
           script: |
             const fs = require('fs');
-            const encodedCtx = JSON.stringify({issueNumber: context.payload.issue.number, issueBody: context.payload.issue.body, repoOwner: context.paylod.repository.owner.login, repoName: context.payload.repository.name }, null, 2);
+            const encodedCtx = JSON.stringify({issueNumber: context.payload.issue.number, issueBody: context.payload.issue.body, repoOwner: context.payload.repository.owner.login, repoName: context.payload.repository.name }, null, 2);
             console.log(encodedCtx);
             fs.writeFileSync('./scripts/context.json', encodedCtx);
 
