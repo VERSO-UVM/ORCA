@@ -1,0 +1,34 @@
+name: "Onboarding"
+description: Onboarding Task
+title: "[Onboarding]: "
+labels: ["onboarding"]
+projects: ["VERSO-UVM/3"]
+
+body:
+  - type: textarea
+    id: content
+    attributes:
+      label: Enter task/description here
+    validations:
+      required: false
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: Select the onboarding task
+      multiple: false
+      options:
+        - First Day on Github
+        - First Week on Github
+        - Create ORCiD
+        - NASA Open Science Modules
+        - OSS Licensing Introduction
+        - Review ORCA Handbook
+        - Review Turing Project Design Guide
+        - Explore Open Resource Library
+        - Record Audio Evaluation
+  - type: input
+    id: assignTo
+    attributes:
+      label: Who should this be assigned to?
+    validations:
+      required: true
