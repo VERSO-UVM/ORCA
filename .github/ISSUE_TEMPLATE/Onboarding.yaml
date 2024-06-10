@@ -20,6 +20,8 @@ body:
         - Review Turing Project Design Guide
         - Explore Open Resource Library
         - Record Audio Evaluation
+    validations:
+      required: true
   - type: textarea
     id: content
     attributes:
