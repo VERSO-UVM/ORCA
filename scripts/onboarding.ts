@@ -26,6 +26,9 @@ const taskNameToFileMap = {
 const MyOctokit = Octokit.plugin(restEndpointMethods);
 const octo = new MyOctokit({ auth: process.env.GITHUB_TOKEN });
 
+const REPO_OWNER = "henrikvtcodes";
+const REPO_NAME = "verso-ob-test";
+
 // --------- Main script ---------
 
 // Read context information
@@ -52,10 +55,10 @@ const taskContent = (await readFile(join("tasks", taskFile))).toString();
 const commentContent = "Here is your task:  \n---\n" + taskContent;
 
 await octo.rest.issues.createComment({
-  owner: "VERSO-UVM",
-  repo: "ORCA",
+  owner: REPO_OWNER,
+  repo: REPO_NAME,
   issue_number: context.issueNumber,
-  body: taskContent,
+  body: commentContent,
 });
 
 console.log("Context:\n", JSON.parse(contextRaw));
