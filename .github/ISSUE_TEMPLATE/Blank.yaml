@@ -1,0 +1,11 @@
+name: "Blank Issue"
+description: Blank Issue
+title: " "
+
+body:
+  - type: textarea
+    id: content
+    attributes:
+      label: " "
+    validations:
+      required: false

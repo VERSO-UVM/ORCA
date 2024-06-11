@@ -1,0 +1,3 @@
+When designing a team-based project, it is important to think about all the skills required for the project and the resources needed to access those skills. The project design also includes aspects such as timeline, budget, risks, expectations, resources for project management and preregistration of research protocols. Learn from different case studies for small, mid-size, and large projects spanning both short-term and long-term plan.
+
+Read the Project Design Section: [https://the-turing-way.netlify.app/project-design/project-design](https://the-turing-way.netlify.app/project-design/project-design) and close the issue.

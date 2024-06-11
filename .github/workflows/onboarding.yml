@@ -1,0 +1,48 @@
+name: Onboarding Task Automation
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  run:
+    name: Onboarding Task Automation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check onboarding label
+        uses: actions/github-script@v4
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const labels = issue.labels.map(l => l.name);
+            const isOnboarding = labels.includes('onboarding');
+            if (!isOnboarding) {
+              core.setFailed('This issue is not an onboarding task');
+            }
+
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Write github token to file
+        run: 'echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" > ./scripts/.env'
+      - name: Write context to file
+        uses: actions/github-script@v4
+        with:
+          script: |
+            const fs = require('fs');
+            const encodedCtx = JSON.stringify({issueNumber: context.payload.issue.number, issueBody: context.payload.issue.body, repoOwner: context.payload.repository.owner.login, repoName: context.payload.repository.name }, null, 2);
+            console.log(encodedCtx);
+            fs.writeFileSync('./scripts/context.json', encodedCtx);
+
+      - name: Install Deps
+        working-directory: ./scripts
+        run: bun install
+      - name: Run the script
+        working-directory: ./scripts
+        run: bun run onboarding.ts
