@@ -1,7 +1,9 @@
-Team Lead Role:
+# Team Lead
+
+### Team Lead Role:
 A team lead, similar to a captain of a sports team, provides guidance and leadership to their pod to achieve their collective goal.
 
-Responsibilities:
+### Responsibilities:
  As a Team Lead, you are tasked with additional responsibilities, including:
 Setting up collaborative co-workspaces, sprint planning, and sprint reviews.
 Participating in weekly one-on-one meetings with the program director.
