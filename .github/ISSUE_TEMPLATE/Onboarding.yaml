@@ -6,7 +6,7 @@ projects: ["VERSO-UVM/3"]
 
 body:
   - type: dropdown
-    id: browsers
+    id: tasks
     attributes:
       label: Select the onboarding task
       multiple: false
