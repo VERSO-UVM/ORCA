@@ -24,6 +24,13 @@ UVM Research Partner: Yoshi Bird
 
 The Vermont Zoning Atlas is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont. Zoning rules can present barriers to effective city planning, impairing our ability to achieve important policy objectives like community desegregation, climate change resiliency, transportation access, homelessness relief, and affordable housing development. The Vermont Zoning Atlas seeks to democratize researchers’, policymakers’, advocates’, and everyday citizens’ understanding of zoning regulations and enable apples-to-apples cross-jurisdiction comparisons through a methodology developed by our partner, the National Zoning Atlas. 
 
+### Wastewater Infrastructure Mapping (WIM)
+
+### Heard and Understood App (HUA)
+
+### Rapid Innovation and Protoyping (RIP)
+
+
 ## Project Selection
 
 A project Sponsor needs to contact the VERSO Program Director with intersted in using an ORCA team. Initial disucssions will layout the project details, scope of the work and if funding is available (and when). A discission may be made within a month if ORCA can take on a project, it may take longer if funding is still being worked out.
