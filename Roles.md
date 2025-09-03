@@ -1,3 +1,8 @@
+---
+title: Roles
+layout: default
+---
+
 # Roles
 
 Roles are responsive to project needs, and students may change or switch roles during their time in ORCA. There are several standard roles that will remain over times. 

@@ -1,3 +1,8 @@
+---
+title: Projects
+layout: default
+---
+
 # Project
 
 The goal of this document is to describe what makes a good project, the history of projects of the past, how we select a new project for the ORCA program and the onboading process once a project is selected.

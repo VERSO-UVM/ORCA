@@ -1,3 +1,7 @@
+---
+title: Onboarding
+layout: default
+---
 # Team Lead Onboarding
 
 Welcome to ORCA as a team lead! We are excited to have you on board and we know that you will be a valuable contributor to our program.

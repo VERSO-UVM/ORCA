@@ -1,3 +1,7 @@
+---
+title: Employee Handbook
+layout: default
+---
 
 # Employee Handbook
 
@@ -22,7 +26,8 @@ VERSO Program Director
 - [Employment Policies](#Employment-Policies)
 - [Health and Safety Policies](#Health-and-Safety-Policies)
 - [Employee Resources](#Employee-Resources)
-- [Roles](#Roles)
+- [Projects](Projects.md)
+- [Roles](Roles.md)
 
 ## ORCA Overview
 
@@ -42,7 +47,7 @@ There are some core cultural concepts:
 
 The success of ORCA is in the referrals we receive from completed projects. We want the project sponsors to walk away feeling like they were listened to and we exceeded their expectations so they can't help themselves from spreading the word of ORCA.
 
-### 2. Certainty dies in the Light
+### 2. Share Early
 
 If you feel like you feel you are positive about something but you have not shared or validated it with others, consider that it may not be right. Often being exposed to someone else's perspective can shift your understanding to be more nuanced and accurate.
 
@@ -60,7 +65,7 @@ Each step we take should be to advance the ORCA ecosystem, to make it more resil
 
 ## Organizational Structure
 
-the VERSO Director is the supervisor for all students that are working on ORCA tasks either for a paid internship or for credit report. Questions about compensation, taking time off, disciplinary actions or other administrative tasks should go to them.
+The VERSO Director is the supervisor for all students that are working on ORCA tasks either for a paid internship or for credit report. Questions about compensation, taking time off, disciplinary actions or other administrative tasks should go to them.
 
 All leadership positions (with "lead" in the title) also will go to the VERSO Director for project assignment and tasks. Leads can work together to create tasks for each other as well.
 

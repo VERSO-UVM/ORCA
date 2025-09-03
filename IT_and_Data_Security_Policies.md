@@ -1,3 +1,7 @@
+---
+title: IT and Data Security Policies
+layout: default
+---
 
 # IT and Data Security Policies
 

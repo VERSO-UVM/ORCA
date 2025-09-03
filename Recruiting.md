@@ -1,3 +1,8 @@
+---
+title: Recruiting
+layout: default
+---
+
 # Recruiting
 
 The goal of this document is to provide the ideals, process, metrics and other vital information for selecting members for ORCA. This covers both for paid internships and for credit pathways.

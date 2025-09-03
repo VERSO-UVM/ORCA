@@ -1,3 +1,8 @@
+---
+title: How ORCA Works
+layout: default
+---
+
 # What's this ORCA thing?
 ORCA's goals are to (1) produce impactful, accessible, open source research tools by (2) training tomorrow's workforce in marketable open source skills. This page describes how we at ORCA achieve these two goals. In short, by drawing on the latest research on openness, we work with stakeholders to design research and industry products that are open to more people from more backgrounds while creating environments in which students are more likely to learn valued workplace skills.
 

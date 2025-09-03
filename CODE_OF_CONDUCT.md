@@ -1,3 +1,8 @@
+---
+title: Code of Conduct
+layout: default
+---
+
 # Code of Conduct
 To be effective, the members of the ORCA community must work together; our code of conduct lays down the rules for our cooperative efforts and applies to everyone. 
 
