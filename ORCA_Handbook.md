@@ -22,6 +22,7 @@ VERSO Program Director
 - [Employment Policies](#Employment-Policies)
 - [Health and Safety Policies](#Health-and-Safety-Policies)
 - [Employee Resources](#Employee-Resources)
+- [Roles](#Roles)
 
 ## ORCA Overview
 
@@ -75,42 +76,8 @@ If a pod wants to organize a social activity that follows the UVM Policies in th
 
 There are a variety of roles at ORCA that will continue to evolve and grow. Generally they are split between leadership positions where students are encourage to change or grow what they are working on to best fit the needs of the project, and team members positions that should be more focused on delivering creative solutions within the scope of the task.
 
-Students who have been part of a pod are encourages to apply to a leadership position if they are interested.
-
-### Business Lead
-
-Focused on growth of engagement with activities and marketing initiatives
-
-### Program Lead
-
-Supports the efficiency and reliability of the ORCA pods, volunteers and the digital infrastructure that supports open activities
-
-### Community Lead
-
-Supports the open source community with VERSO and affiliated programs
-
-### Mentor
-
-Supports the growth of the leads and teams to help them meet their goals
-
-### Team Lead
-
-Leads a specific ORCA Pod, provides support for pod members and direction for the project
-
-### Team Member
-
-Responsible for project execution including working collaboratively with researchers, and the development of open source software using standard engineering methodology.
-
-## Specialities
-
-- Back End Programming
-- Front End Programming
-- Geospatial Information Systems (GIS)
-- Design
-- Product Management
-- User Experience
-- Business Analytics
-- Marketing
+Students who have been part of a pod are encourages to apply to a leadership position if they are interested. 
+[roles](Roles.md)
 
 ## Professionalism
 
