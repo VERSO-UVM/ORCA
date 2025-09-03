@@ -49,7 +49,7 @@ Submission Form for Potential Sponsored Open Source Research Project
 Once a project is selected we need a couple of paragraphs about the project's mission, goals and activities which will be used to build a project page on the VERSO Site.
 
 ### Hiring
-The VERSO Director will work with the project sponsor to determine the team makeup and job requirements to build a job description for hiring (see [Recruiting](Recruiting.md) for examples of previous job listings. The VERSO director will need to post these listing two monthes in advance of the start of the project. The VERSO Director will interview canidates and select the best based on aptittude for the technical skills and alignment to the ORCA Culture.
+The VERSO Director will work with the project sponsor to determine the team makeup and job requirements to build a job description for hiring (see [Recruiting](Recruiting.md) for examples of previous job listings. The VERSO director will need to post these listing two monthes in advance of the start of the project. The VERSO Director will interview candidates and select the best based on aptittude for the technical skills and alignment to the ORCA Culture.
 
 ### Pre-Kickoff Prep
 The Project Sponsor and the VERSO Director will work together to build a list of tasks and resources the Pod will need to start the semester running.
