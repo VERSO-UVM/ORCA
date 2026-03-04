@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:www.media.mit.edu)"
+      "WebFetch(domain:www.media.mit.edu)",
+      "WebFetch(domain:github.com)"
     ]
   }
 }

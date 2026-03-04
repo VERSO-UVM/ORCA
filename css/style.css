@@ -502,27 +502,50 @@ a { color: inherit; text-decoration: none; }
   border-top: 1px solid var(--border);
 }
 
+.project-links {
+  display: flex;
+  gap: 20px;
+  margin-top: auto;
+  flex-wrap: wrap;
+}
+
 .project-link {
   font-size: 13px;
   font-weight: 600;
   color: var(--green);
   transition: opacity 0.2s;
-  margin-top: auto;
 }
 .project-link:hover { opacity: 0.7; }
 
-.project-card--featured {
-  grid-column: span 2;
-  flex-direction: row;
+.project-link--live {
+  color: var(--black);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1px;
 }
-.project-card--featured .project-card-image {
-  width: 45%;
-  flex-shrink: 0;
-  aspect-ratio: auto;
-  min-height: 280px;
+.project-link--live:hover { border-color: var(--black); opacity: 1; }
+
+/* Gradient card images (for projects without photos) */
+.project-card-image--gradient {
+  background: var(--grad, linear-gradient(135deg, #1a3a1a 0%, #2d6b3f 100%));
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.projects-footer { text-align: center; }
+.project-card-icon {
+  width: 64px;
+  height: 64px;
+  opacity: 0.7;
+}
+
+/* Second row of projects — slight visual separation */
+.projects-grid--more {
+  margin-top: 2px;
+  border-top: none;
+  border-radius: 0 0 var(--radius-lg) var(--radius-lg);
+}
+
+.projects-footer { text-align: center; margin-top: 40px; }
 
 /* ── CULTURE / PRINCIPLES ── */
 .principles-grid {
@@ -795,14 +818,6 @@ a { color: inherit; text-decoration: none; }
   .about-image { order: -1; }
 
   .projects-grid { grid-template-columns: 1fr 1fr; }
-  .project-card--featured {
-    grid-column: span 2;
-    flex-direction: column;
-  }
-  .project-card--featured .project-card-image {
-    width: 100%;
-    aspect-ratio: 16 / 9;
-  }
 
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
 
@@ -838,15 +853,15 @@ a { color: inherit; text-decoration: none; }
     border: none;
     gap: 16px;
   }
+  .projects-grid--more {
+    margin-top: 16px;
+    border-radius: var(--radius-lg);
+  }
   .project-card {
     border: 1px solid var(--border);
     border-radius: var(--radius-lg);
     overflow: hidden;
   }
-  .project-card--featured {
-    grid-column: span 1;
-  }
-
   .principles-grid { grid-template-columns: 1fr 1fr; }
 
   .roles-cards { grid-template-columns: 1fr; }
