@@ -590,55 +590,6 @@ a { color: inherit; text-decoration: none; }
 }
 
 /* ── ROLES ── */
-.roles-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 96px;
-  align-items: start;
-}
-
-.roles-text .section-heading { margin-bottom: 16px; }
-.roles-text p { color: var(--mid); margin-bottom: 20px; }
-.roles-text .btn { margin-top: 12px; }
-
-.roles-cards {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1px;
-  background: var(--border);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-lg);
-  overflow: hidden;
-}
-
-.role-item {
-  background: var(--white);
-  padding: 24px 20px;
-  display: flex;
-  gap: 14px;
-  align-items: flex-start;
-  transition: background 0.2s;
-}
-.role-item:hover { background: var(--bg-light); }
-
-.role-icon {
-  font-size: 18px;
-  color: var(--green);
-  flex-shrink: 0;
-  line-height: 1.4;
-}
-
-.role-item h4 {
-  font-size: 14px;
-  font-weight: 600;
-  margin-bottom: 4px;
-  color: var(--black);
-}
-.role-item p {
-  font-size: 13px;
-  color: var(--mid);
-  line-height: 1.55;
-}
 
 /* ── INTERNSHIP LIFE ── */
 .internship-intro {
@@ -793,6 +744,110 @@ a { color: inherit; text-decoration: none; }
 .role-card:hover .role-card-skills span { background: var(--white); }
 
 .roles-footer { text-align: center; }
+
+/* ── CURRENT PODS ── */
+.pods-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  margin-bottom: 32px;
+}
+
+.pod-card {
+  background: var(--white);
+  padding: 32px 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  transition: background 0.2s;
+}
+.pod-card:hover { background: var(--bg-light); }
+
+.pod-card-top {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.pod-mountain {
+  color: var(--green);
+  width: 80px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.pod-mountain-icon { width: 100%; height: 100%; }
+
+.pod-header { display: flex; flex-direction: column; gap: 6px; }
+
+.pod-focus-tag {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--green);
+}
+
+.pod-card h3 {
+  font-family: var(--font-serif);
+  font-size: 26px;
+  font-weight: 400;
+  color: var(--black);
+  line-height: 1.1;
+}
+
+.pod-projects h4,
+.pod-members h4 {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--light-mid);
+  margin-bottom: 10px;
+}
+
+.pod-projects ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.pod-projects li {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.4;
+  padding-left: 14px;
+  position: relative;
+}
+.pod-projects li::before {
+  content: '→';
+  position: absolute;
+  left: 0;
+  color: var(--green);
+  font-size: 11px;
+}
+
+.pod-member-list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.pod-member-list span {
+  font-size: 13px;
+  color: var(--black);
+  font-weight: 500;
+}
+.pod-lead em {
+  font-style: normal;
+  font-weight: 400;
+  color: var(--mid);
+  font-size: 12px;
+}
+
+.pods-footer { text-align: center; padding-top: 8px; }
 
 /* ── PHOTO DIVIDER ── */
 .photo-divider {
@@ -966,7 +1021,6 @@ a { color: inherit; text-decoration: none; }
 
 @media (max-width: 900px) {
   .about-grid,
-  .roles-grid,
   .join-grid { grid-template-columns: 1fr; gap: 48px; }
 
   .about-image { order: -1; }
@@ -977,6 +1031,28 @@ a { color: inherit; text-decoration: none; }
 
   .footer-grid { grid-template-columns: 1fr; gap: 48px; }
   .footer-nav { grid-template-columns: repeat(2, 1fr); }
+
+  /* Pods grid */
+  .pods-grid { grid-template-columns: 1fr 1fr; }
+
+  /* Internship section */
+  .internship-body {
+    grid-template-columns: 1fr;
+    gap: 48px;
+  }
+  .internship-practices {
+    position: static;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  /* Roles full grid */
+  .roles-full-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .roles-full-grid .role-card:last-child:nth-child(3n - 2) {
+    grid-column: span 2;
+  }
 }
 
 @media (max-width: 700px) {
@@ -1018,7 +1094,12 @@ a { color: inherit; text-decoration: none; }
   }
   .principles-grid { grid-template-columns: 1fr 1fr; }
 
-  .roles-cards { grid-template-columns: 1fr; }
+  .pods-grid { grid-template-columns: 1fr; }
+
+  .internship-practices { grid-template-columns: 1fr; }
+
+  .roles-full-grid { grid-template-columns: 1fr; }
+  .roles-full-grid .role-card:last-child:nth-child(3n - 2) { grid-column: span 1; }
 
   .photo-divider { height: 260px; }
 
