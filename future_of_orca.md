@@ -22,9 +22,11 @@ I created this document explains the potential change.
 
 The old framing: ORCA is an internship where students build software for Vermont partners.
 
-The new framing: **ORCA trains people who can identify public-sector problems, design solutions, scope products, build them using AI-augmented workflows, ship them as open-source public goods, and support their adoption.**
+The new framing: **ORCA trains people who can identify public-sector problems, lead in designing solutions, scope products, build them using AI-augmented workflows, ship them as open-source public goods, and support their adoption.**
 
-The code is still the artifact. The capability is everything around it.
+The code or data is still the artifact. The capability is everything around it.
+
+What that means in practice: a student who leaves ORCA should be able to walk into a room, figure out what's actually broken (not just what was requested), propose a scoped solution that fits the constraints of capacity and budget, build it in collaboration with AI tools while maintaining ownership of every decision, and hand it off in a form that survives their departure. That's a different profile than "junior developer who knows React." It's closer to a technical product manager who can also ship — someone who leads from problem to production, not someone who executes a ticket. We want you to know how to build enough trust to ask the uncomfortable questions, synthesizing messy stakeholder input into a coherent product direction, making architectural decisions with incomplete information. This is leadership work, it happens to involve code.
 
 ---
 
