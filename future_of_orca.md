@@ -24,8 +24,6 @@ The old framing: ORCA is an internship where students build software for Vermont
 
 The new framing: **ORCA trains people who can identify public-sector problems, lead in designing solutions, scope products, build them using AI-augmented workflows, ship them as open-source public goods, and support their adoption.**
 
-The code or data is still the artifact. The capability is everything around it.
-
 What that means in practice: a student who leaves ORCA should be able to walk into a room, figure out what's actually broken (not just what was requested), propose a scoped solution that fits the constraints of capacity and budget, build it in collaboration with AI tools while maintaining ownership of every decision, and hand it off in a form that survives their departure. That's a different profile than "junior developer who knows React." It's closer to a technical product manager who can also ship — someone who leads from problem to production, not someone who executes a ticket. We want you to know how to build enough trust to ask the uncomfortable questions, synthesizing messy stakeholder input into a coherent product direction, making architectural decisions with incomplete information. This is leadership work, it happens to involve code.
 
 ---
@@ -34,13 +32,13 @@ What that means in practice: a student who leaves ORCA should be able to walk in
 
 ### 1. Problem discovery and stakeholder translation
 
-Before anyone writes a line of code, you will spend at least two weeks doing intake work with the partner. That means interviewing agency staff about their actual workflows. Observing how people use (or don't use) existing tools. Mapping the gap between what someone asks for and what they actually need — those are almost never the same thing.
+Before anyone writes a line of code, you will spend at least two weeks doing intake work with the partner after a week of learning how to work with external stakeholders and what are specific project needs, stakeholders and project background. That means interviewing agency staff about their actual workflows. Observing how people use (or don't use) existing tools. Mapping the gap between what someone asks for and what they actually need — those are almost never the same thing.
 
 This is the work AI cannot do. An LLM can generate code from a spec. It cannot sit across from a VCGI analyst and figure out that the real problem isn't the dashboard they're requesting — it's that three departments are maintaining duplicate datasets and nobody owns the reconciliation process. That diagnostic work requires you to be present, curious, and willing to ask questions that feel obvious.
 
 This is operationally hard, our partners have very limited capabilities for us to take their time, and it puts additional strain on how many projects we can take on. I am not sure how to solve this best and I am open to suggestions
 
-**You will produce:** stakeholder interview notes, workflow maps, a problem framing document, and a requirements summary that the partner reviews and signs off on before you move forward.
+**You will produce:** stakeholder interview notes, workflow maps, a problem framing document, and a requirements specification that the partner reviews and signs off on before you move forward.
 
 ### 2. Architecture and design decisions
 
