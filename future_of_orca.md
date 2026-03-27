@@ -100,15 +100,6 @@ Open source is the right model for ORCA for specific strategic reasons.
 
 **The work has public value.** When VERSO builds tools for Vermont agencies as open source, those tools become public goods. They don't disappear behind a vendor's paywall if funding changes. Other states can adopt them. This matters for how we justify the program — every dollar invested produces infrastructure that belongs to the public — and it matters for how you can describe the work you did.
 
----
-
-## The Anthropic partnership
-
-We are pursuing a partnership with Anthropic to support this direction. The goal is to give every ORCA student access to Claude's professional-grade tools — including Claude Code — and to establish ORCA as a model for how AI tools should be integrated into public-interest technical work at universities. At this time you already have access to Copilot as a student at UVM. We want you to be experienced with multiple models.
-
-This is not about getting a discount on API credits. The case we're making is that ORCA, done right, is one of the best demonstrations of what responsible AI-augmented technical work looks like in a civic context: real problems, real users, open-source outputs, students who understand the limits of the tools they're using. We think that's worth Anthropic's attention.
-
-More details on this as it develops.
 
 ---
 
