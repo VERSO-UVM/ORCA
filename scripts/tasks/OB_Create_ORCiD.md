@@ -1,4 +1,6 @@
-To create an ORCID (Open Researcher and Contributor ID), follow these steps:
+ORCID (Open Researcher and Contributor ID) are ways that we track contributions in academic work. These are used to connect work without being tied to a specific name (as your name can change over time). We want to use ORCID's where appropriate to credit your work.
+
+To create an ORCID follow these steps:
 
 1. Go to the ORCID website: Visit [https://orcid.org/register](https://orcid.org/register) to begin the registration process.
 2. Fill in your details: Provide your UVM email address and create a password for your ORCID account.
@@ -7,4 +9,4 @@ To create an ORCID (Open Researcher and Contributor ID), follow these steps:
 5. Terms and Conditions: Agree to the ORCID terms and conditions.
 6. Verification: Verify your email address. You'll receive an email with a verification link.
 
-This will be used to complete the NASA Open Science 101 Course
+Close this issue with a comment @kefortney with your ORCID.

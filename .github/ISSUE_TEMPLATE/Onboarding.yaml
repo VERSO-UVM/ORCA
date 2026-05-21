@@ -19,7 +19,6 @@ body:
         - Review ORCA Handbook
         - Review Turing Project Design Guide
         - Explore Open Resource Library
-        - Record Audio Evaluation
     validations:
       required: true
   - type: textarea

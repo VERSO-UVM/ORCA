@@ -7,6 +7,12 @@ ORCA's goals are to produce impactful, accessible, open source research tools by
 
 Best experience is through the Wiki here: [https://verso-uvm.github.io/ORCA/](https://verso-uvm.github.io/ORCA/](https://github.com/VERSO-UVM/ORCA/wiki)
 
+## Onboarding Automation
+
+This repo includes a GitHub Actions-based automation for onboarding new ORCA members. When a contributor opens an issue using the **Onboarding** issue template, they select a task from a dropdown. A workflow then automatically posts that task's instructions as a comment on the issue — no manual steps required.
+
+The full documentation for adding, removing, modifying, and deploying tasks is in [scripts/README.md](scripts/README.md).
+
 ## Contributing
 The wiki is meant to be a living document, students are encourage to update or fix errors or suggest changes (subject to final approval by the VERSO Director). Contributing Guidelines are [here](CONTRIBUTING.md)
 
