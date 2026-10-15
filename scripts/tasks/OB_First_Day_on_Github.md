@@ -1,6 +1,6 @@
-We use Git and GitHub in ORCA as a project management platform, data storage, code repository, etc. becomming familiar with how it works is important. This is GitHub's own training on how to use their platform.
+We use Git and GitHub in ORCA as a project management platform, data storage, code repository, etc. becoming familiar with how it works is important. This is GitHub's own training on how to use their platform.
 
-As students may come with a variety of experience, review the tasks below, if you would know how to complete them, close the issue. If they are unfamiliar, complete the tasks and then close the issue
+As students may come with a variety of experience, review the tasks below, if you already know how to complete them, close the issue. If they are unfamiliar, complete the tasks and then close the issue.
 
 
 Complete the [First day on GitHub](https://skills.github.com/#first-day-on-github) set of tasks
