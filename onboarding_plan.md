@@ -1,6 +1,6 @@
 # Onboarding revamp plan
 
-Status: draft for Kendall's review. Written 2026-10-15 with AI assistance (Claude Code). Nothing below is built yet.
+Status: decided by Kendall on 2026-10-15 (see Decisions at the end); ready for phase 2. Written 2026-10-15 with AI assistance (Claude Code). Nothing below is built yet.
 
 ## Goals
 
@@ -157,7 +157,7 @@ Not recommended:
 
 ## GitHub issue flow
 
-**Recommended: one tracking issue per student per semester.**
+**Decided: one tracking issue per student per semester, in a new private repo.**
 
 - **The form asks for:**
   - focus areas (one or more)
@@ -174,9 +174,11 @@ Not recommended:
   - CORE-05: the ORCiD
   - CORE-09: the pull request link
   - CORE-01 and CORE-04: initials and date
+- Pod leads post their weekly LEAD-01 reading reflections the same way, instead of emailing the Director.
+- **Adding a focus area mid-semester:** the student asks on their tracking issue, and the workflow appends that area's tasks to the same checklist.
 - Then the student ticks the box. Kendall closes the issue when every box is ticked.
 
-**Other options:**
+**Options considered and not chosen:**
 
 - **Keep one issue per task**, but the comment links to the website instead of pasting the text. This is the smallest change. It creates more issues and shows no overall progress.
 - **Tracking issue plus one sub-issue per task.** Each task gets its own thread and the parent shows a progress bar. This needs more workflow code, and the sub-issue API needs checking.
@@ -190,7 +192,7 @@ Not recommended:
 
 - This repo is public, so reflections posted in its issues are public.
 - Admin steps (I-9, PeopleSoft) must never ask for personal details in a comment.
-- Recommended: put the tracking issues in a private repo, because reflections and goals are likely FERPA-protected student records (see below). The content can stay on the public website.
+- Decided: the tracking issues go in a new private repo, because reflections and goals are likely FERPA-protected student records (see below). The task content stays on the public website.
 
 ## Student records, alumni history, and FERPA
 
@@ -200,7 +202,7 @@ This section is not legal advice. Confirm it with the UVM Registrar (who handles
 - **Keep private:** reflections, goals, evaluations, hours, pay, and admin forms.
 - **Public may be fine:** a name and "member of a Pod in a given semester" may count as directory information, if UVM's directory information list includes taking part in recognized activities. Check UVM's list. Students with a FERPA confidentiality hold must not appear.
 - **Already public, by the student's choice:** commits and pull requests under their own GitHub account, and author lists on Zenodo releases.
-- **Recommended for an alumni history:**
+- **An alumni history is not in this version.** CORE-11 still records each student's choice now, so a later alumni page can use it. When it is built:
   - Make it opt-in, using task CORE-11.
   - Keep the consent records in a private place.
   - Honor removal requests.
@@ -212,7 +214,7 @@ This section is not legal advice. Confirm it with the UVM Registrar (who handles
 Each phase is its own pull request.
 
 0. **Done on this branch:** typo and link fixes in the task files, the reworded AI paragraph in `future_of_orca.md`, the MIT license file, and the Mad River Pod card on the website.
-1. **Decide** the open questions below. Agree on the task list and the paths.
+1. **Decide** the open questions. Done 2026-10-15; see Decisions below.
 2. **Content.**
    - Port the 8 existing tasks and the wiki onboarding content into the new task format, keeping every link.
    - Write CORE-03 from the AI use draft.
@@ -228,15 +230,24 @@ Each phase is its own pull request.
 - How many tasks get finished, and where students stop
 - An end-of-semester question: "What was missing from onboarding?"
 
-## Open questions
+## Decisions
 
-1. Is UX Design a fifth focus area, or a role that cuts across all of them?
-2. What are Mad River's current projects and members? The website card says "To be announced" for both.
-3. Which private repo should hold the tracking issues? Is the FERPA reading in Student records confirmed by the Registrar or General Counsel?
-4. Should we use one tracking issue per student, or sub-issues?
-5. Should the lead readings stay as email to the Director, or move to issue comments?
-6. Should every new student do all of CORE-06 to CORE-09, or should some depend on focus area?
-7. Who writes each focus area's tasks, and by when?
-8. Should the Open Science task keep asking for the ORCiD? The ORCiD task already collects it.
-9. When a student adds a focus area mid-semester, should the workflow append tasks to their tracking issue, or should they open a new one?
-10. What should an alumni history show (name, semesters, Pod, projects, links), and where should it live on the site?
+Kendall Fortney, 2026-10-15:
+
+1. **UX Design** is left out for now. Revisit when a Pod has UX-heavy work.
+2. **Mad River** has hired its members; its projects are not set yet. The website card stays "To be announced" until they are.
+3. **Tracking issues** go in a new private repo. The FERPA reading still needs confirming (see Still open).
+4. **One tracking issue** per student per semester, not sub-issues or one issue per task.
+5. **Lead readings** move from email to the Director to comments on the lead's tracking issue.
+6. **Every new student** does all of CORE-06 to CORE-09.
+7. **Focus area tasks** are written by the owners in the inventory: GIS by a GIS-heavy lead (Bolton now), Software by the Sugarbush and Killington leads, Data Science by the Okemo lead, AI by Kendall with the Mad River lead.
+8. **The ORCiD** is collected only in CORE-05. The Open Science task stops asking for it.
+9. **A focus area added mid-semester** appends its tasks to the student's existing tracking issue.
+10. **An alumni history** is not in this version. CORE-11 stays, so students record their choice now.
+
+## Still open
+
+- Confirm the FERPA reading with the UVM Registrar or the Office of General Counsel before launch.
+- Name and create the private repo for tracking issues.
+- A date by which each focus area's tasks should be drafted.
+- Mad River's projects, for its website card and for the AI tasks.
