@@ -69,7 +69,7 @@ Then three sections: **Why it matters**, **Steps** and **How to finish**.
 | ADM-01 to ADM-04 | GitHub org, I-9, PeopleSoft, time entry | Written, from the wiki |
 | CORE-01 | Review the ORCA Handbook and Code of Conduct | Written |
 | CORE-02 | Read The Future of ORCA | Not yet written |
-| CORE-03 | Using AI on ORCA projects | Draft, revised after Kendall's review |
+| CORE-03 | Using AI on ORCA projects | Written; reviewed by Kendall |
 | CORE-04 | IT and data security, and data levels | Not yet written |
 | CORE-05 to CORE-09 | ORCiD, Open Science, licensing, Turing Way, first pull request | Written |
 | CORE-10, CORE-11 | Growth goals; how ORCA lists you publicly | Not yet written |

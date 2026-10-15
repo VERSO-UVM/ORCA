@@ -6,7 +6,7 @@ areas: [all]
 lead: false
 minutes: 45
 finish: [reflection, initials-date]
-status: draft
+status: active
 ---
 
 ## Why it matters
