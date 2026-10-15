@@ -7,6 +7,7 @@ ORCA's goals are to produce impactful, accessible, open source research tools by
 
 Best experience is through the [ORCA website](https://verso-uvm.github.io/ORCA/) and the [Wiki](https://github.com/VERSO-UVM/ORCA/wiki).
 
+
 ## Onboarding Automation
 
 This repo includes a GitHub Actions-based automation for onboarding new ORCA members. When a contributor opens an issue using the **Onboarding** issue template, they select a task from a dropdown. A workflow then automatically posts that task's instructions as a comment on the issue — no manual steps required.
