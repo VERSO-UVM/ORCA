@@ -1,8 +1,14 @@
 # Onboarding tasks
 
-Every ORCA onboarding task is one Markdown file in [`tasks/`](tasks/), named by its ID, such as `tasks/CORE-03.md`. These files will build the Onboarding section of the [ORCA website](https://verso-uvm.github.io/ORCA/), where each task gets its own link, such as `#ob-core-03`. The plan behind this is in [onboarding_plan.md](../onboarding_plan.md).
+Every ORCA onboarding task is one Markdown file in [`tasks/`](tasks/), named by its ID, such as `tasks/CORE-03.md`. These files build the [Onboarding section](https://verso-uvm.github.io/ORCA/#onboarding) of the ORCA website, where each task has its own link, such as [`#ob-core-03`](https://verso-uvm.github.io/ORCA/#ob-core-03). The plan behind this is in [onboarding_plan.md](../onboarding_plan.md).
 
-To fix or add a task, edit its file and open a pull request.
+To fix or add a task:
+
+1. Edit or add its file in `tasks/`.
+2. Rebuild the website section: `node scripts/build-onboarding.mjs` (or `bun scripts/build-onboarding.mjs`). This rewrites the Onboarding section of `index.html`; never edit that part of `index.html` by hand.
+3. Open a pull request with both files. A check fails the pull request if you forgot step 2.
+
+Task files can use `##` headings, paragraphs, `-` and `1.` lists, `**bold**`, `` `code` `` and `[links](https://...)`. Nothing else is converted.
 
 ## How to finish a task
 
