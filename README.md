@@ -5,7 +5,7 @@ The [Open Research Community Accelerator](https://verso.w3.uvm.edu/orca/) is an 
 
 ORCA's goals are to produce impactful, accessible, open source research tools by training tomorrow's workforce in marketable open source skills. This Repository contains all the supporting documentation and policies for the ORCA program. These documents are meant to help new ORCA members learns the program, show project sponsors how we work, and provide a template that can be "forked" to other academic institutions.
 
-Best experience is through the Wiki here: [https://verso-uvm.github.io/ORCA/](https://verso-uvm.github.io/ORCA/](https://github.com/VERSO-UVM/ORCA/wiki)
+Best experience is through the Wiki here: [https://verso-uvm.github.io/ORCA/](https://verso-uvm.github.io/ORCA/)
 
 ## Onboarding Automation
 
