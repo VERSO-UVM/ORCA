@@ -1,4 +1,4 @@
-The [Open Resource Library](https://www.openresourcelibrary.com/) is a ORCA community resource to help student and the general public understand and explore the process of open source software and open practices. 
+The [Open Resource Library](https://www.openresourcelibrary.com/) is an ORCA community resource to help students and the general public understand and explore the process of open source software and open practices. 
 
 Review the [Tools](https://www.openresourcelibrary.com/category/tools) section, make sure you are familiar with the tools that are relevant to your role.
 

@@ -1,4 +1,4 @@
-As an OCRA participant (and like you would in any job), you need to understand all the policies and requirements of being in this internship. We have created a wiki with much of the details for your role. We expect you to abide by these policies, please reach out with any questions.
+As an ORCA participant (and like you would in any job), you need to understand all the policies and requirements of being in this internship. We have created a wiki with much of the details for your role. We expect you to abide by these policies, please reach out with any questions.
 
 Read the Following Documents:
 
