@@ -54,7 +54,7 @@ This is also an opportunity to learn the technical, never used API's, figure it 
 
 This is where the coding happens — but it's repositioned. The activity isn't "write code." It's **use AI tools to build software while maintaining quality, security, and maintainability.**
 
-You are expected to use AI coding tools. Claude Code, Copilot, Cursor — you should be proficient with at least two of these and know when each is appropriate. The goal is not writing a bunch of prompts but evaluating what comes back and getting better at knowing how a solution needs to be changed to meet the projects need. Debugging AI-generated code that fails in ways you didn't write. Understanding why a particular piece of AI output shouldn't go into production even if it runs.
+You are expected to use AI coding tools and know when each is appropriate. Start with the tools UVM provides: Microsoft Copilot with your NetID, and Claude through UVM's license, which ORCA students can request as student employees. Tools without a UVM license, such as Cursor or a personal ChatGPT or Claude account, are for public data only (see UVM's [approved AI tools](https://www.uvm.edu/ai/supported-and-approved-ai-tools)). No ORCA work will require a paid tool you buy yourself. The goal is not writing a bunch of prompts but evaluating what comes back and getting better at knowing how a solution needs to be changed to meet the projects need. Debugging AI-generated code that fails in ways you didn't write. Understanding why a particular piece of AI output shouldn't go into production even if it runs.
 
 There are also contexts where you should not use AI-generated code: sensitive data handling, security-critical paths, anything where explainability is a legal or ethical requirement. 
 
