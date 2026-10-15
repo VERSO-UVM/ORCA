@@ -71,6 +71,7 @@ This is a starting list for us to edit together.
 | CORE-11 | Choose how ORCA lists you publicly (name, GitHub, ORCiD, or not at all) | New (see Student records below) | Kendall |
 | GIT-01 | First Day on GitHub | Existing | Kendall |
 | GIT-02 | First Week on GitHub | Existing | Kendall |
+| GIT-03 | Get GitHub Education (Codespaces, Copilot, Student Developer Pack) | New (Kendall, 2026-10-15) | Kendall |
 | GIS-01 | Set up QGIS or ArcGIS and get project data access | New | A GIS-heavy lead (Bolton now) |
 | GIS-02 | Geospatial data basics: projections, metadata, dataset licenses | New | A GIS-heavy lead (Bolton now) |
 | GIS-03 | Make a small data fix in a current project | New | A GIS-heavy lead (Bolton now) |
@@ -99,7 +100,7 @@ The AI tasks could also use the student skills planned in the VERSO agent-skills
 | Step | New student | Returning student |
 |:--|:--|:--|
 | Before day 1 | ADM-01 to ADM-04 | ADM-04 (confirm only) |
-| Week 1 | CORE-01 to CORE-05, CORE-10, GIT-01 | RET-01, CORE-01 and CORE-03 (re-confirm), RET-02 |
+| Week 1 | CORE-01 to CORE-05, CORE-10, GIT-01, GIT-03 | RET-01, CORE-01 and CORE-03 (re-confirm), RET-02 |
 | Week 2 | GIT-02, CORE-06 to CORE-09 | RET-03, RET-04 |
 | Weeks 2 to 3 | Focus area tasks for the work they start on | Focus area tasks for any area that is new to them |
 | Any time | Add a focus area when a project needs it | Same |

@@ -22,7 +22,7 @@ Each student has one private tracking issue per semester, with a checklist of th
 
 Some tasks ask for one more thing in that comment: CORE-05 your ORCiD, CORE-09 your pull request link, CORE-01 and CORE-03 your initials and the date. Then tick the task's box.
 
-Admin tasks (`ADM`) only need "done". **Never post personal details in a comment,** such as ID documents, bank details or your student number.
+Admin tasks (`ADM`) and GIT-03 only need "done". **Never post personal details in a comment,** such as ID documents, bank details or your student number.
 
 ## Task IDs
 
@@ -69,11 +69,11 @@ Then three sections: **Why it matters**, **Steps** and **How to finish**.
 | ADM-01 to ADM-04 | GitHub org, I-9, PeopleSoft, time entry | Written, from the wiki |
 | CORE-01 | Review the ORCA Handbook and Code of Conduct | Written |
 | CORE-02 | Read The Future of ORCA | Not yet written |
-| CORE-03 | Using AI on ORCA projects | Draft, for Kendall's review |
+| CORE-03 | Using AI on ORCA projects | Draft, revised after Kendall's review |
 | CORE-04 | IT and data security, and data levels | Not yet written |
 | CORE-05 to CORE-09 | ORCiD, Open Science, licensing, Turing Way, first pull request | Written |
 | CORE-10, CORE-11 | Growth goals; how ORCA lists you publicly | Not yet written |
-| GIT-01, GIT-02 | First day and first week on GitHub | Written |
+| GIT-01 to GIT-03 | First day and first week on GitHub; GitHub Education | Written |
 | GIS, SW, DS | Focus area tasks | Not yet written; Pod leads |
 | AI-01 to AI-04 | AI focus area tasks | Not yet written; Kendall with the Mad River lead |
 | LEAD-01 to LEAD-03 | Lead readings, first sprints, activities for new leads | Written, from the wiki |
