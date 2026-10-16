@@ -74,7 +74,18 @@ export function withChecklist(body, tasks) {
 
 async function main() {
   const event = JSON.parse(readFileSync(process.env.GITHUB_EVENT_PATH, "utf8"));
-  const issue = event.issue;
+  const api = process.env.GITHUB_API_URL || "https://api.github.com";
+  const url = `${api}/repos/${process.env.GITHUB_REPOSITORY}/issues/${event.issue.number}`;
+  const headers = {
+    authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+    accept: "application/vnd.github+json",
+    "x-github-api-version": "2022-11-28",
+  };
+
+  // Read the issue as it is now, not as it was when this run was queued.
+  const got = await fetch(url, { headers });
+  if (!got.ok) throw new Error(`GitHub API ${got.status}: ${await got.text()}`);
+  const issue = await got.json();
   if (!issue.labels.some((l) => l.name === "onboarding")) {
     console.log("Not an onboarding tracking issue; nothing to do.");
     return;
@@ -84,16 +95,7 @@ async function main() {
     console.log("Checklist is up to date.");
     return;
   }
-  const api = process.env.GITHUB_API_URL || "https://api.github.com";
-  const res = await fetch(`${api}/repos/${process.env.GITHUB_REPOSITORY}/issues/${issue.number}`, {
-    method: "PATCH",
-    headers: {
-      authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
-      accept: "application/vnd.github+json",
-      "x-github-api-version": "2022-11-28",
-    },
-    body: JSON.stringify({ body: next }),
-  });
+  const res = await fetch(url, { method: "PATCH", headers, body: JSON.stringify({ body: next }) });
   if (!res.ok) throw new Error(`GitHub API ${res.status}: ${await res.text()}`);
   console.log(`Updated the checklist on issue #${issue.number}.`);
 }
