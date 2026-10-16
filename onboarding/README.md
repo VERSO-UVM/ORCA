@@ -1,11 +1,13 @@
-# Onboarding tasks
+# ORCA Skills tasks
 
-Every ORCA onboarding task is one Markdown file in [`tasks/`](tasks/), named by its ID, such as `tasks/CORE-03.md`. These files build the [Onboarding section](https://verso-uvm.github.io/ORCA/#onboarding) of the ORCA website, where each task has its own link, such as [`#ob-core-03`](https://verso-uvm.github.io/ORCA/#ob-core-03). The plan behind this is in [onboarding_plan.md](../onboarding_plan.md).
+ORCA Skills is everything a student can learn and do at ORCA, from getting started to leading a Pod. Students take tasks on when their work calls for them, in their first weeks or semesters later.
+
+Every ORCA onboarding task is one Markdown file in [`tasks/`](tasks/), named by its ID, such as `tasks/CORE-03.md`. These files build the [ORCA Skills section](https://verso-uvm.github.io/ORCA/#skills) of the ORCA website, where each task has its own link, such as [`#core-03`](https://verso-uvm.github.io/ORCA/#core-03). The plan behind this is in [onboarding_plan.md](../onboarding_plan.md).
 
 To fix or add a task:
 
 1. Edit or add its file in `tasks/`.
-2. Rebuild the website section: `node scripts/build-onboarding.mjs` (or `bun scripts/build-onboarding.mjs`). This rewrites the Onboarding section of `index.html`; never edit that part of `index.html` by hand.
+2. Rebuild the website section: `node scripts/build-onboarding.mjs` (or `bun scripts/build-onboarding.mjs`). This rewrites the ORCA Skills section of `index.html`; never edit that part of `index.html` by hand.
 3. Open a pull request with both files. A check fails the pull request if you forgot step 2.
 4. If you added, retired or renamed a task, tell ORCA staff, who update the survey's task list ([QUALTRICS.md](QUALTRICS.md#when-tasks-change)).
 
@@ -13,7 +15,7 @@ Task files can use `##` headings, paragraphs, `-` and `1.` lists, `**bold**`, ``
 
 ## How to finish a task
 
-Students send each finished task with ORCA's **reflection form**, a UVM Qualtrics survey linked from the [How to finish a task](https://verso-uvm.github.io/ORCA/#ob-how-to-finish) box on the website. They sign in with their NetID, choose the task from a list, and answer:
+Students send each finished task with ORCA's **reflection form**, a UVM Qualtrics survey linked from the [How to finish a task](https://verso-uvm.github.io/ORCA/#how-to-finish) box on the website. They sign in with their NetID, choose the task from a list, and answer:
 
 - What I did
 - What I learned
@@ -21,7 +23,7 @@ Students send each finished task with ORCA's **reflection form**, a UVM Qualtric
 
 Some tasks ask for one more thing, and the form asks for it when that task is chosen: CORE-05 the ORCiD, CORE-09 the pull request link, CORE-01 and CORE-03 initials and the date, CORE-06 the 5 activities. Admin tasks (`ADM`) and GIT-03 only need "done". LEAD-01 is sent once a week.
 
-Only ORCA staff see the answers, and the survey's responses are the record of each student's onboarding. Reflections and goals are student records, so they never go in GitHub issues or pull requests.
+Only ORCA staff see the answers, and the survey's responses are the record of each student's ORCA Skills tasks. Reflections and goals are student records, so they never go in GitHub issues or pull requests.
 
 What the survey contains, and how to keep it in step with the tasks, is in [QUALTRICS.md](QUALTRICS.md). Its link is set in [`config.json`](config.json). Until it is set, the website tells students to use the old onboarding issue form.
 

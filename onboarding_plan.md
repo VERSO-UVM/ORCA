@@ -1,13 +1,15 @@
-# Onboarding revamp plan
+# ORCA Skills plan
 
-Status: decided by Kendall on 2026-10-15 (see Decisions at the end); ready for phase 2. Written 2026-10-15 with AI assistance (Claude Code). Nothing below is built yet.
+Formerly the onboarding revamp; renamed ORCA Skills on 2026-10-15 (decision 11).
+
+Status: decided by Kendall on 2026-10-15 (see Decisions at the end). Phases 1 to 3 are done, and phase 4 is in review; the Qualtrics survey is still to be built. Written 2026-10-15 with AI assistance (Claude Code).
 
 ## Goals
 
-1. **One home.** All onboarding content lives in a new `#onboarding` section of the single scrolling website. GitHub issues only track progress.
-2. **Every task has a permanent ID** and its own link, for example `https://verso-uvm.github.io/ORCA/#ob-core-03`.
+1. **One home.** All of it lives in a new ORCA Skills section (`#skills`) of the single scrolling website. A Qualtrics survey records progress.
+2. **Every task has a permanent ID** and its own link, for example `https://verso-uvm.github.io/ORCA/#core-03`.
 3. **Paths fit the student.** A student's path depends on their focus areas (GIS, Software, Data Science, AI), on whether they are new or returning, and on whether they lead a Pod. Focus areas describe the work a student is doing now. They are not tied to a Pod, because a Pod can take on a different kind of project at any time.
-4. **Every task ends with a reflection.** The student comments on what they learned and mentions @kefortney.
+4. **Every task ends with a reflection,** sent through the Qualtrics survey (admin tasks only need "done").
 5. **Easy to maintain.** Students can fix or add a task with one small pull request.
 6. **Meets UVM rules.** The section meets accessibility standards and includes the AI use rules.
 
@@ -24,7 +26,7 @@ Status: decided by Kendall on 2026-10-15 (see Decisions at the end); ready for p
 
 ## Task IDs
 
-Format: `AREA-NN`, for example `CORE-03`. The website anchor is the ID in lowercase with an `ob-` prefix, for example `#ob-core-03`.
+Format: `AREA-NN`, for example `CORE-03`. The website anchor is the ID in lowercase with an `ob-` prefix, for example `#core-03`.
 
 | Area | For | Contents |
 |:--|:--|:--|
@@ -110,7 +112,7 @@ Rough load for a new student: about 12 to 16 hours over three weeks. This is an 
 
 ## Website design
 
-The site stays one scrolling page. The new section sits after "Pods" and gets an "Onboarding" link in the nav.
+The site stays one scrolling page. The new section, ORCA Skills (`#skills`), sits after "Pods" and gets a link in the nav.
 
 - **Path picker** at the top of the section has three controls:
   - focus areas: GIS, Software, Data Science, AI (pick one or more)
@@ -121,7 +123,7 @@ The site stays one scrolling page. The new section sits after "Pods" and gets an
 - **Each task is a collapsed panel** with the task ID as its anchor.
   - The heading shows the ID, title, time estimate, and team tags.
   - Opening it shows: why it matters, the steps, and how to finish.
-  - Opening `#ob-core-03` expands that task and scrolls to it.
+  - Opening `#core-03` expands that task and scrolls to it.
   - A "Copy link" button copies the task's link.
 - **Accessibility.**
   - Use built-in HTML controls for the panels (`details` and `summary`), so keyboards and screen readers work by default.
@@ -208,7 +210,7 @@ Each phase is its own pull request.
    - Port the 8 existing tasks and the wiki onboarding content into the new task format, keeping every link.
    - Write CORE-03 from the AI use draft.
    - Leads draft the focus area tasks that match their current work.
-3. **Website.** Build the generator, the `#onboarding` section, the path picker, and the deep-link code. Run the accessibility check.
+3. **Website.** Build the generator, the ORCA Skills section (`#skills`), the path picker, and the deep-link code. Run the accessibility check.
 4. **Reflections and tracking.** The Qualtrics reflection form, its link on the website, and the old-name mapping.
 5. **Pilot.** Run it with one new and one returning student. Fix what they trip on.
 6. **Launch.** Point the wiki Onboarding page and the old task files to the website.
@@ -233,6 +235,7 @@ Kendall Fortney, 2026-10-15:
 8. **The ORCiD** is collected only in CORE-05. The Open Science task stops asking for it.
 9. **A focus area added mid-semester** is chosen on the website's path picker; there is no checklist to update.
 10. **An alumni history** is not in this version. CORE-11 stays, so students record their choice now.
+11. **The name is ORCA Skills,** not onboarding, because many students take tasks on semesters in, and the tasks aren't a prescribed sequence. The admin tasks are its "Getting started" group. Task links are the plain ID (`#core-03`); the section is `#skills`. Internal folder and script names keep "onboarding".
 
 ## Still open
 

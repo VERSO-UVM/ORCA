@@ -1,5 +1,5 @@
 /* ORCA Static Site — onboarding.js
-   The path picker, task links and "Copy link" for the Onboarding section.
+   The path picker, task links and "Copy link" for the ORCA Skills section.
    Without JavaScript the picker stays hidden and every task shows. */
 
 (() => {
@@ -65,10 +65,10 @@
     } catch (e) { /* ignore a bad saved value */ }
   };
 
-  // Open the task named in the address, such as #ob-core-03.
+  // Open the task named in the address, such as #core-03.
   const openFromHash = () => {
     const id = decodeURIComponent(location.hash.slice(1));
-    if (!id.startsWith('ob-')) return;
+    if (!id) return;
     const task = document.getElementById(id);
     if (!task || !task.classList.contains('ob-task')) return;
     pinned = task;

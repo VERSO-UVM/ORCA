@@ -22,7 +22,7 @@ const END = "<!-- ONBOARDING:END -->";
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
 function href(url) {
-  if (url.startsWith("../README.md#how-to-finish-a-task")) return { url: "#ob-how-to-finish", external: false };
+  if (url.startsWith("../README.md#how-to-finish-a-task")) return { url: "#how-to-finish", external: false };
   if (/^https?:\/\//.test(url)) return { url, external: true };
   if (url.startsWith("#")) return { url, external: false };
   // A path relative to onboarding/tasks/: link to the file on GitHub.
@@ -95,7 +95,7 @@ function minutesLabel(m) {
 }
 
 function taskHtml(t) {
-  const anchor = `ob-${t.id.toLowerCase()}`;
+  const anchor = t.id.toLowerCase();
   const tags = [
     forLabel(t),
     t.areas.includes("all") ? null : t.areas.map((a) => FOCUS_LABEL[a]).join(", "),
@@ -122,7 +122,7 @@ function finishHtml() {
   const config = JSON.parse(readFileSync(join(ROOT, "onboarding", "config.json"), "utf8"));
   const survey = config.reflectionSurvey;
   if (!survey) {
-    return `          <p>The reflection form for onboarding opens soon. Until then, start a task with the <a href="https://github.com/VERSO-UVM/ORCA/issues/new/choose" target="_blank" rel="noopener">onboarding issue form</a> as before.</p>`;
+    return `          <p>The reflection form for ORCA Skills opens soon. Until then, start a task with the <a href="https://github.com/VERSO-UVM/ORCA/issues/new/choose" target="_blank" rel="noopener">onboarding issue form</a> as before.</p>`;
   }
   return `          <p>When you finish a task, send it with the <a href="${esc(survey)}" target="_blank" rel="noopener"><strong>reflection form</strong></a>, a UVM Qualtrics survey. Sign in with your NetID, choose the task from the list, and answer three questions:</p>
           <ul>
@@ -142,12 +142,12 @@ function sectionHtml(tasks) {
 ${g.tasks.map(taskHtml).join("\n")}
           </div>`).join("\n");
   return `${START}
-    <section class="onboarding section" id="onboarding" aria-labelledby="onboarding-heading">
+    <section class="onboarding section" id="skills" aria-labelledby="skills-heading">
       <div class="container">
         <div class="section-intro">
-          <p class="section-label">Onboarding</p>
-          <h2 class="section-heading" id="onboarding-heading">Your first weeks at ORCA.</h2>
-          <p class="section-sub">Every onboarding task, each with its own link. Choose your focus areas and whether you are new or returning to see your path in order.</p>
+          <p class="section-label">ORCA Skills</p>
+          <h2 class="section-heading" id="skills-heading">What you can learn and do at ORCA.</h2>
+          <p class="section-sub">Every ORCA Skills task, from getting started to leading a Pod, each with its own link. You can take them on whenever your work calls for them: choose what fits you now to see your tasks in order.</p>
         </div>
 
         <form class="ob-picker" id="ob-picker" hidden>
@@ -170,7 +170,7 @@ ${focus}
         </form>
         <p class="ob-sr-only" id="ob-announce" aria-live="polite"></p>
 
-        <div class="ob-finish" id="ob-how-to-finish">
+        <div class="ob-finish" id="how-to-finish">
           <h3>How to finish a task</h3>
 ${finishHtml()}
         </div>

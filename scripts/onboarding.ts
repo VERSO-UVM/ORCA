@@ -41,7 +41,7 @@ for (const file of await readdir(newTasksDir)) {
   const text = (await readFile(join(newTasksDir, file))).toString();
   if (text.match(/^old_name:\s*(.+)$/m)?.[1]?.trim() === taskName) {
     const id = file.replace(/\.md$/, "");
-    newTaskLink = `\n\n---\nThis task is now [${id}](https://verso-uvm.github.io/ORCA/#ob-${id.toLowerCase()}) on the ORCA website.`;
+    newTaskLink = `\n\n---\nThis task is now [${id}](https://verso-uvm.github.io/ORCA/#${id.toLowerCase()}) in ORCA Skills on the ORCA website.`;
     break;
   }
 }

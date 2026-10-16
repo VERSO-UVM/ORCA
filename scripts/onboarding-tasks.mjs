@@ -9,7 +9,7 @@ export const TASKS_DIR = join(dirname(fileURLToPath(import.meta.url)), "..", "on
 
 // Groups in page order. Tasks sort by number within a group.
 export const GROUPS = [
-  { area: "ADM", title: "Before your first day", note: "Admin steps for new students." },
+  { area: "ADM", title: "Getting started", note: "Admin steps to finish before your first day." },
   { area: "CORE", title: "Everyone", note: "Policies, AI use, open science and goals." },
   { area: "GIT", title: "GitHub skills", note: "Skip any course you already know." },
   { area: "GIS", title: "GIS work", note: "For anyone doing GIS work now." },

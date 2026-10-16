@@ -1,12 +1,12 @@
-# The onboarding survey (Qualtrics)
+# The ORCA Skills survey (Qualtrics)
 
-Students send each finished onboarding task through one UVM Qualtrics survey. Its responses are the record of each student's onboarding: only ORCA staff can see them, and they never go in GitHub. The website's [How to finish a task](https://verso-uvm.github.io/ORCA/#ob-how-to-finish) box links to it.
+Students send each finished ORCA Skills task through one UVM Qualtrics survey. Its responses are the record of each student's ORCA Skills tasks: only ORCA staff can see them, and they never go in GitHub. The website's [How to finish a task](https://verso-uvm.github.io/ORCA/#how-to-finish) box links to it.
 
 This page says what the survey must contain, and what to change when tasks change.
 
 ## Survey flow
 
-Build it in this order under **Survey flow**:
+Name the survey **ORCA Skills: send a finished task**. Build it in this order under **Survey flow**:
 
 1. **Authenticator:** SSO, with UVM NetID. Capture the identity fields as embedded data: NetID, name and email (ask UVM's Qualtrics administrator what the SSO passes through). Students then can't mistype who they are, and there is no name question.
 2. **Block "Task":** question 1.
@@ -73,7 +73,7 @@ Use the export tags in brackets. Exports and reports depend on them, so never ch
 - **Save and continue:** on, so a long reflection isn't lost.
 - **Anonymize responses:** off. You need to know who answered.
 - **Survey protection:** prevent indexing.
-- **End of survey message:** "Thanks! ORCA staff will read this. Your next task is on the ORCA website: https://verso-uvm.github.io/ORCA/#onboarding"
+- **End of survey message:** "Thanks! ORCA staff will read this. Your next task is on the ORCA website: https://verso-uvm.github.io/ORCA/#skills"
 - **Actions (optional):** an email to ORCA staff for each response, and a confirmation email to the student with a copy of what they sent.
 - **Collaborate:** share the survey with other ORCA staff, rather than sharing exports.
 
