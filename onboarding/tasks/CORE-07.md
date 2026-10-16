@@ -20,4 +20,4 @@ Everything ORCA builds is released as open source, so you need to know what a li
 
 ## How to finish
 
-Post your reflection on your tracking issue (see [How to finish a task](../README.md#how-to-finish-a-task)). Then tick the box.
+Send your reflection with the [reflection form](../README.md#how-to-finish-a-task).

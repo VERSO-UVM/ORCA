@@ -24,4 +24,4 @@ These six activities, spread over the project lifecycle, help you settle into le
 
 ## How to finish
 
-Post your reflection on your tracking issue (see [How to finish a task](../README.md#how-to-finish-a-task)) once you have done the first four. Then tick the box.
+Send your reflection with the [reflection form](../README.md#how-to-finish-a-task) once you have done the first four.

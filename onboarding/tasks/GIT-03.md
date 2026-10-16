@@ -30,4 +30,4 @@ The full steps are in GitHub's guide, [Apply to GitHub Education as a student](h
 
 ## How to finish
 
-Once you are approved, comment "GIT-03 done" on your tracking issue and tick the box. **Your proof of enrollment goes only to GitHub. Never post it in a comment.**
+Once you are approved, send "done" for GIT-03 with the [reflection form](../README.md#how-to-finish-a-task). **Your proof of enrollment goes only to GitHub. Never put it in the form.**

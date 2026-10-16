@@ -24,4 +24,4 @@ This is where open source matters. The course was released under an open Creativ
 
 ## How to finish
 
-Post your 5 activities as a comment on your tracking issue (Markdown is fine), followed by your reflection (see [How to finish a task](../README.md#how-to-finish-a-task)). Then tick the box.
+Send your reflection with the [reflection form](../README.md#how-to-finish-a-task), and paste your answers to the 5 activities into it.

@@ -23,4 +23,4 @@ Returning students: read both again, since they change between semesters.
 
 ## How to finish
 
-Post your reflection on your tracking issue (see [How to finish a task](../README.md#how-to-finish-a-task)), and add your initials and the date to affirm that you have reviewed both. Then tick the box.
+Send your reflection with the [reflection form](../README.md#how-to-finish-a-task), and add your initials and the date to affirm that you have reviewed both.

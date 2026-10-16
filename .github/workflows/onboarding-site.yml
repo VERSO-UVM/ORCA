@@ -1,0 +1,22 @@
+name: Onboarding section is up to date
+on:
+  pull_request:
+    paths:
+      - "onboarding/**"
+      - "index.html"
+      - "scripts/build-onboarding.mjs"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Check index.html matches onboarding/tasks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Check the generated Onboarding section
+        run: node scripts/build-onboarding.mjs --check

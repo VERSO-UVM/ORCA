@@ -23,4 +23,4 @@ Returning students: just confirm your time entry still works.
 
 ## How to finish
 
-Once your reminder is set, comment "ADM-04 done" on your tracking issue and tick the box.
+Once your reminder is set, send "done" for ADM-04 with the [reflection form](../README.md#how-to-finish-a-task).

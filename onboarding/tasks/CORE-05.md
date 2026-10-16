@@ -25,4 +25,4 @@ An ORCiD (Open Researcher and Contributor ID) tracks your contributions to acade
 
 ## How to finish
 
-Post your reflection on your tracking issue (see [How to finish a task](../README.md#how-to-finish-a-task)) and include your ORCiD. Then tick the box.
+Send your reflection with the [reflection form](../README.md#how-to-finish-a-task), and include your ORCiD.
