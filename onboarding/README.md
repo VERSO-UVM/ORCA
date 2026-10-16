@@ -12,23 +12,17 @@ Task files can use `##` headings, paragraphs, `-` and `1.` lists, `**bold**`, ``
 
 ## How to finish a task
 
-Each student has one private tracking issue per semester, with a checklist of their tasks. For each task, post a comment on that issue like this:
+Students send each finished task with ORCA's **reflection form**, a UVM Microsoft Form linked from the [How to finish a task](https://verso-uvm.github.io/ORCA/#ob-how-to-finish) box on the website. They sign in with their NetID, choose the task's ID, and answer:
 
-```markdown
-**CORE-03**
+- What I did
+- What I learned
+- One question, or one thing I'd change
 
-**What I did:** ...
+Some tasks ask for one more thing, which goes in the form's last box: CORE-05 the ORCiD, CORE-09 the pull request link, CORE-01 and CORE-03 initials and the date, CORE-06 the 5 activities. Admin tasks (`ADM`) and GIT-03 only need "done". LEAD-01 is sent once a week.
 
-**What I learned:** ...
+Only ORCA staff see the answers. Reflections and goals are student records, so they never go in GitHub issues or pull requests. Staff track each student's progress in the private, staff-only [orca-onboarding](https://github.com/VERSO-UVM/orca-onboarding) repository.
 
-**One question, or one thing I'd change:** ...
-
-@kefortney
-```
-
-Some tasks ask for one more thing in that comment: CORE-05 your ORCiD, CORE-09 your pull request link, CORE-01 and CORE-03 your initials and the date. Then tick the task's box.
-
-Admin tasks (`ADM`) and GIT-03 only need "done". **Never post personal details in a comment,** such as ID documents, bank details or your student number.
+The form's link is set in [`config.json`](config.json). Until it is set, the website tells students to use the old onboarding issue form.
 
 ## Task IDs
 

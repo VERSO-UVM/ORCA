@@ -21,4 +21,4 @@ PeopleSoft is where you get paid and where you enter your hours.
 
 ## How to finish
 
-Comment "ADM-03 done" on your tracking issue and tick the box. **Never post bank or account details in a comment.**
+Send "done" for ADM-03 with the [reflection form](../README.md#how-to-finish-a-task). **Never put bank or account details in the form.**

@@ -30,4 +30,4 @@ Complete the [First week on GitHub](https://skills.github.com/#first-week-on-git
 
 ## How to finish
 
-Post your reflection on your tracking issue (see [How to finish a task](../README.md#how-to-finish-a-task)), and say which courses you skipped because you already knew them. Then tick the box.
+Send your reflection with the [reflection form](../README.md#how-to-finish-a-task), and say which courses you skipped because you already knew them.

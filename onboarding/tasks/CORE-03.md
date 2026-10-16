@@ -47,4 +47,4 @@ Some of you would rather build your core coding skills without AI, and that has 
 
 ## How to finish
 
-Post your reflection on your tracking issue (see [How to finish a task](../README.md#how-to-finish-a-task)). Under "What I learned", name one kind of work on your project where you would **not** use AI, and why. Add your initials and the date to affirm that you will follow these rules. Then tick the box.
+Send your reflection with the [reflection form](../README.md#how-to-finish-a-task). Under "What I learned", name one kind of work on your project where you would **not** use AI, and why. Add your initials and the date to affirm that you will follow these rules.

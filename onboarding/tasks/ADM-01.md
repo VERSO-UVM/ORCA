@@ -21,4 +21,4 @@ ORCA's projects, issues and onboarding all live on GitHub, in the VERSO-UVM orga
 
 ## How to finish
 
-Comment "ADM-01 done" on your tracking issue and tick the box. Admin tasks need no reflection.
+Send "done" for ADM-01 with the [reflection form](../README.md#how-to-finish-a-task). Admin tasks need no reflection.

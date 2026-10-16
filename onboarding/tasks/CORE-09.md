@@ -23,4 +23,4 @@ The [Open Resource Library](https://www.openresourcelibrary.com/) is ORCA's comm
 
 ## How to finish
 
-Post your reflection on your tracking issue (see [How to finish a task](../README.md#how-to-finish-a-task)) with a link to your pull request. Tick the box once the pull request is accepted.
+Send your reflection with the [reflection form](../README.md#how-to-finish-a-task), with a link to your pull request. The task is done once the pull request is accepted.

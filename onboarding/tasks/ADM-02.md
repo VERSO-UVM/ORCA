@@ -21,4 +21,4 @@ UVM can't pay you until your I-9 is on record. Doing it early avoids delays and 
 
 ## How to finish
 
-Comment "ADM-02 done" on your tracking issue and tick the box. **Never post your ID, documents or any personal details in a comment.**
+Send "done" for ADM-02 with the [reflection form](../README.md#how-to-finish-a-task). **Never put your ID, documents or other personal details in the form.**

@@ -38,4 +38,4 @@ Each week, read or listen to that week's pieces.
 
 ## How to finish
 
-By 3pm each Friday, post a paragraph on your tracking issue about that week's pieces: what you found insightful, and what you disagreed with. Start it with "LEAD-01, week 1" (or 2, 3, 4) and mention @kefortney. Tick the box after week 4.
+By 3pm each Friday, send a paragraph about that week's pieces with the [reflection form](../README.md#how-to-finish-a-task): what you found insightful, and what you disagreed with. Choose LEAD-01 and the week.

@@ -1,6 +1,6 @@
 import { Octokit } from "@octokit/core";
 import { restEndpointMethods } from "@octokit/plugin-rest-endpoint-methods";
-import { readFile } from "fs/promises";
+import { readFile, readdir } from "fs/promises";
 import { z } from "zod";
 import { join } from "path";
 
@@ -34,9 +34,21 @@ if (!taskName) {
 const taskFile = `OB_${taskName.replaceAll(" ", "_")}.md`;
 const taskContent = (await readFile(join("tasks", taskFile))).toString();
 
+// If the task has moved to onboarding/tasks, link to it on the website
+const newTasksDir = join("..", "onboarding", "tasks");
+let newTaskLink = "";
+for (const file of await readdir(newTasksDir)) {
+  const text = (await readFile(join(newTasksDir, file))).toString();
+  if (text.match(/^old_name:\s*(.+)$/m)?.[1]?.trim() === taskName) {
+    const id = file.replace(/\.md$/, "");
+    newTaskLink = `\n\n---\nThis task is now [${id}](https://verso-uvm.github.io/ORCA/#ob-${id.toLowerCase()}) on the ORCA website.`;
+    break;
+  }
+}
+
 // Comment on the issue with the task content
 
-const commentContent = "Here is your task:  \n---\n" + taskContent;
+const commentContent = "Here is your task:  \n---\n" + taskContent + newTaskLink;
 
 await octo.rest.issues.createComment({
   owner: context.repoOwner,

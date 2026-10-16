@@ -156,44 +156,30 @@ Not recommended:
 - **Hand-writing tasks into `index.html`.** The list drifts away from the issue form.
 - **Loading tasks with JavaScript at runtime.** The page breaks without JavaScript, and screen reader and search behavior gets worse.
 
-## GitHub issue flow
+## Reflections and tracking
 
-**Decided: one tracking issue per student per semester, in a new private repo.**
+**Revised 2026-10-15 (Kendall).** A private repo still lets every member read every issue, so students would see each other's reflections. Students therefore stay out of GitHub for reflections:
 
-- **The form asks for:**
-  - focus areas (one or more)
-  - new or returning
-  - lead or not
-- **The workflow posts a checklist** of the student's task IDs, in order. Each item links to its anchor on the website.
-- **For each task, the student comments a reflection:**
-  - `CORE-03` (the task ID)
-  - What I did
-  - What I learned
-  - One question or one thing I'd change
-  - @kefortney
-- **Some tasks add one item** to that comment:
-  - CORE-05: the ORCiD
-  - CORE-09: the pull request link
-  - CORE-01 and CORE-04: initials and date
-- Pod leads post their weekly LEAD-01 reading reflections the same way, instead of emailing the Director.
-- **Adding a focus area mid-semester:** the student asks on their tracking issue, and the workflow appends that area's tasks to the same checklist.
-- Then the student ticks the box. Kendall closes the issue when every box is ticked.
+- **Students send each finished task with one UVM Microsoft Form,** the reflection form. It asks for their NetID, the task ID, what they did, what they learned, one question or one thing they'd change, and a box for anything the task asks for (ORCiD, pull request link, initials and date, the Open Science activities). Admin tasks need only "done". Pod leads send LEAD-01 once a week, instead of emailing the Director. Responses stay in UVM's Microsoft 365, and only ORCA staff see them.
+- **The form's link is set in `onboarding/config.json`.** The website's "How to finish a task" box links to it; until it is set, the box points to the old issue form.
+- **Staff track progress in `VERSO-UVM/orca-onboarding`,** a private, staff-only repo. Staff open one tracking issue per student per semester (name, NetID, semester, new or returning, Pod lead, focus areas). A workflow fills in the student's checklist from `onboarding/tasks/`, with each task linking to the website. Staff tick tasks as form responses arrive, and close the issue when every box is ticked.
+- **Adding a focus area mid-semester:** staff tick the area in the tracking issue, and the workflow adds its tasks to the checklist. It never removes tasks or ticks.
 
 **Options considered and not chosen:**
 
-- **Keep one issue per task**, but the comment links to the website instead of pasting the text. This is the smallest change. It creates more issues and shows no overall progress.
-- **Tracking issue plus one sub-issue per task.** Each task gets its own thread and the parent shows a progress bar. This needs more workflow code, and the sub-issue API needs checking.
+- **Students comment reflections on their own tracking issue in a shared private repo.** Every student could read every other student's reflections.
+- **One private repo per student.** Truly private, but more setup each semester.
+- **Keep one issue per task** in the public repo. Reflections would stay public.
 
 **Transition:**
 
-- Keep the old dropdown names working, mapped to the new IDs, until open onboarding issues are closed.
-- Update the workflow's outdated actions (`actions/checkout@v2`, `actions/github-script@v4`).
+- The old issue form in this repo keeps working until the reflection form is ready. Its comments now link each old task to its new ID on the website.
+- The old workflow's actions are updated (`actions/checkout@v4`, `actions/github-script@v7`, `oven-sh/setup-bun@v2`).
 
 **Privacy:**
 
-- This repo is public, so reflections posted in its issues are public.
-- Admin steps (I-9, PeopleSoft) must never ask for personal details in a comment.
-- Decided: the tracking issues go in a new private repo, because reflections and goals are likely FERPA-protected student records (see below). The task content stays on the public website.
+- This repo is public, so issues and pull requests here are public. Reflections and goals never go here.
+- Admin steps (I-9, PeopleSoft) must never ask for personal details, in the form or anywhere else.
 
 ## Student records, alumni history, and FERPA
 
@@ -221,7 +207,7 @@ Each phase is its own pull request.
    - Write CORE-03 from the AI use draft.
    - Leads draft the focus area tasks that match their current work.
 3. **Website.** Build the generator, the `#onboarding` section, the path picker, and the deep-link code. Run the accessibility check.
-4. **Issue flow.** Add the new issue form, the checklist workflow, and the old-name mapping.
+4. **Reflections and tracking.** The reflection form, the staff-only tracking repo and its checklist workflow, and the old-name mapping.
 5. **Pilot.** Run it with one new and one returning student. Fix what they trip on.
 6. **Launch.** Point the wiki Onboarding page and the old task files to the website.
 
@@ -237,18 +223,18 @@ Kendall Fortney, 2026-10-15:
 
 1. **UX Design** is left out for now. Revisit when a Pod has UX-heavy work.
 2. **Mad River** has hired its members; its projects are not set yet. The website card stays "To be announced" until they are.
-3. **Tracking issues** go in a new private repo. The FERPA reading still needs confirming (see Still open).
+3. **Tracking issues** go in a new private repo, `VERSO-UVM/orca-onboarding`. Revised the same day: the repo is **staff only**, and students send reflections with a Microsoft Form (see Reflections and tracking). The FERPA reading still needs confirming (see Still open).
 4. **One tracking issue** per student per semester, not sub-issues or one issue per task.
-5. **Lead readings** move from email to the Director to comments on the lead's tracking issue.
+5. **Lead readings** move from email to the Director to the reflection form, once a week.
 6. **Every new student** does all of CORE-06 to CORE-09.
 7. **Focus area tasks** are written by the owners in the inventory: GIS by a GIS-heavy lead (Bolton now), Software by the Sugarbush and Killington leads, Data Science by the Okemo lead, AI by Kendall with the Mad River lead.
 8. **The ORCiD** is collected only in CORE-05. The Open Science task stops asking for it.
-9. **A focus area added mid-semester** appends its tasks to the student's existing tracking issue.
+9. **A focus area added mid-semester** appends its tasks to the student's existing tracking issue (staff tick the area).
 10. **An alumni history** is not in this version. CORE-11 stays, so students record their choice now.
 
 ## Still open
 
 - Confirm the FERPA reading with the UVM Registrar or the Office of General Counsel before launch.
-- Name and create the private repo for tracking issues.
+- Create the reflection form in Microsoft Forms and put its link in `onboarding/config.json` (see the orca-onboarding repo for its questions).
 - A date by which each focus area's tasks should be drafted.
 - Mad River's projects, for its website card and for the AI tasks.
