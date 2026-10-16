@@ -1,13 +1,11 @@
 // Reads and checks the onboarding task files in onboarding/tasks/.
-// Shared by build-onboarding.mjs (the website) and onboarding-checklist.mjs
-// (the staff tracking issues). No dependencies; runs with Node 18+ or Bun.
+// Used by build-onboarding.mjs. No dependencies; runs with Node 18+ or Bun.
 
 import { readFileSync, readdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 export const TASKS_DIR = join(dirname(fileURLToPath(import.meta.url)), "..", "onboarding", "tasks");
-export const SITE = "https://verso-uvm.github.io/ORCA/";
 
 // Groups in page order. Tasks sort by number within a group.
 export const GROUPS = [
@@ -72,13 +70,3 @@ export function readTasks() {
       return ga - gb || a.id.localeCompare(b.id, "en", { numeric: true });
     });
 }
-
-// Whether a task is on a student's path. Matches the website's path picker.
-export function onPath(task, { status, lead, areas }) {
-  if (task.status === "retired") return false;
-  if (!task.for.includes(status)) return false;
-  if (task.lead && !lead) return false;
-  return task.areas.includes("all") || task.areas.some((a) => areas.includes(a));
-}
-
-export const anchor = (task) => `ob-${task.id.toLowerCase()}`;

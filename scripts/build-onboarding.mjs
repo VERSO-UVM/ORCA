@@ -117,20 +117,20 @@ ${markdown(t.body).split("\n").map((l) => "                " + l).join("\n")}
             </details>`;
 }
 
-// The "How to finish a task" box. The form link lives in onboarding/config.json.
+// The "How to finish a task" box. The survey link lives in onboarding/config.json.
 function finishHtml() {
   const config = JSON.parse(readFileSync(join(ROOT, "onboarding", "config.json"), "utf8"));
-  const form = config.reflectionForm;
-  if (!form) {
+  const survey = config.reflectionSurvey;
+  if (!survey) {
     return `          <p>The reflection form for onboarding opens soon. Until then, start a task with the <a href="https://github.com/VERSO-UVM/ORCA/issues/new/choose" target="_blank" rel="noopener">onboarding issue form</a> as before.</p>`;
   }
-  return `          <p>When you finish a task, send it with the <a href="${esc(form)}" target="_blank" rel="noopener"><strong>reflection form</strong></a>. Sign in with your NetID, choose the task's ID, and answer three questions:</p>
+  return `          <p>When you finish a task, send it with the <a href="${esc(survey)}" target="_blank" rel="noopener"><strong>reflection form</strong></a>, a UVM Qualtrics survey. Sign in with your NetID, choose the task from the list, and answer three questions:</p>
           <ul>
             <li><strong>What I did</strong></li>
             <li><strong>What I learned</strong></li>
             <li><strong>One question, or one thing I'd change</strong></li>
           </ul>
-          <p>Some tasks ask for one more thing, such as your ORCiD or a pull request link; the form has a box for it. Admin tasks only need "done". Only ORCA staff see your answers. <strong>Never put ID documents, bank details or passwords in the form.</strong></p>`;
+          <p>Some tasks ask for one more thing, such as your ORCiD or a pull request link; the form asks for it when you choose that task. Admin tasks only need "done". Only ORCA staff see your answers. <strong>Never put ID documents, bank details or passwords in the form.</strong></p>`;
 }
 
 function sectionHtml(tasks) {

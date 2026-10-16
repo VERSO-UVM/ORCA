@@ -7,22 +7,23 @@ To fix or add a task:
 1. Edit or add its file in `tasks/`.
 2. Rebuild the website section: `node scripts/build-onboarding.mjs` (or `bun scripts/build-onboarding.mjs`). This rewrites the Onboarding section of `index.html`; never edit that part of `index.html` by hand.
 3. Open a pull request with both files. A check fails the pull request if you forgot step 2.
+4. If you added, retired or renamed a task, tell ORCA staff, who update the survey's task list ([QUALTRICS.md](QUALTRICS.md#when-tasks-change)).
 
 Task files can use `##` headings, paragraphs, `-` and `1.` lists, `**bold**`, `` `code` `` and `[links](https://...)`. Nothing else is converted.
 
 ## How to finish a task
 
-Students send each finished task with ORCA's **reflection form**, a UVM Microsoft Form linked from the [How to finish a task](https://verso-uvm.github.io/ORCA/#ob-how-to-finish) box on the website. They sign in with their NetID, choose the task's ID, and answer:
+Students send each finished task with ORCA's **reflection form**, a UVM Qualtrics survey linked from the [How to finish a task](https://verso-uvm.github.io/ORCA/#ob-how-to-finish) box on the website. They sign in with their NetID, choose the task from a list, and answer:
 
 - What I did
 - What I learned
 - One question, or one thing I'd change
 
-Some tasks ask for one more thing, which goes in the form's last box: CORE-05 the ORCiD, CORE-09 the pull request link, CORE-01 and CORE-03 initials and the date, CORE-06 the 5 activities. Admin tasks (`ADM`) and GIT-03 only need "done". LEAD-01 is sent once a week.
+Some tasks ask for one more thing, and the form asks for it when that task is chosen: CORE-05 the ORCiD, CORE-09 the pull request link, CORE-01 and CORE-03 initials and the date, CORE-06 the 5 activities. Admin tasks (`ADM`) and GIT-03 only need "done". LEAD-01 is sent once a week.
 
-Only ORCA staff see the answers. Reflections and goals are student records, so they never go in GitHub issues or pull requests. Staff track each student's progress in the private, staff-only [orca-onboarding](https://github.com/VERSO-UVM/orca-onboarding) repository.
+Only ORCA staff see the answers, and the survey's responses are the record of each student's onboarding. Reflections and goals are student records, so they never go in GitHub issues or pull requests.
 
-The form's link is set in [`config.json`](config.json). Until it is set, the website tells students to use the old onboarding issue form.
+What the survey contains, and how to keep it in step with the tasks, is in [QUALTRICS.md](QUALTRICS.md). Its link is set in [`config.json`](config.json). Until it is set, the website tells students to use the old onboarding issue form.
 
 ## Task IDs
 

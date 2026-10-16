@@ -158,22 +158,24 @@ Not recommended:
 
 ## Reflections and tracking
 
-**Revised 2026-10-15 (Kendall).** A private repo still lets every member read every issue, so students would see each other's reflections. Students therefore stay out of GitHub for reflections:
+**Revised 2026-10-15 (Kendall).** Reflections and goals are student records, and any GitHub repo in VERSO-UVM can be read by every member (the org's default permission is read), students included. So reflections and tracking stay out of GitHub:
 
-- **Students send each finished task with one UVM Microsoft Form,** the reflection form. It asks for their NetID, the task ID, what they did, what they learned, one question or one thing they'd change, and a box for anything the task asks for (ORCiD, pull request link, initials and date, the Open Science activities). Admin tasks need only "done". Pod leads send LEAD-01 once a week, instead of emailing the Director. Responses stay in UVM's Microsoft 365, and only ORCA staff see them.
-- **The form's link is set in `onboarding/config.json`.** The website's "How to finish a task" box links to it; until it is set, the box points to the old issue form.
-- **Staff track progress in `VERSO-UVM/orca-onboarding`,** a private, staff-only repo. Staff open one tracking issue per student per semester (name, NetID, semester, new or returning, Pod lead, focus areas). A workflow fills in the student's checklist from `onboarding/tasks/`, with each task linking to the website. Staff tick tasks as form responses arrive, and close the issue when every box is ticked.
-- **Adding a focus area mid-semester:** staff tick the area in the tracking issue, and the workflow adds its tasks to the checklist. It never removes tasks or ticks.
+- **Students send each finished task through one UVM Qualtrics survey,** the reflection form. They sign in with their NetID (SSO), choose the task from a drop-down list, and answer what they did, what they learned, and one question or one thing they'd change. The survey asks for anything extra a task needs (ORCiD, pull request link, initials, the Open Science activities, the LEAD-01 week). Admin tasks need only "done". Pod leads send LEAD-01 once a week, instead of emailing the Director.
+- **The survey's responses are the tracking record.** Staff filter by NetID, or cross-tab NetID against task, to see each student's progress. There is no tracking repo or checklist.
+- **The survey's link is set in `onboarding/config.json`.** The website's "How to finish a task" box links to it; until it is set, the box points to the old issue form.
+- **What the survey contains,** and how to update its task list when tasks change, is in `onboarding/QUALTRICS.md`.
+- **Each student's path** is on the website's path picker; adding a focus area mid-semester just means choosing it there.
 
 **Options considered and not chosen:**
 
-- **Students comment reflections on their own tracking issue in a shared private repo.** Every student could read every other student's reflections.
-- **One private repo per student.** Truly private, but more setup each semester.
+- **Tracking issues in a private GitHub repo.** In a shared repo every student could read every other student's reflections, and VERSO-UVM's default read permission would expose even a staff-only repo there.
+- **A Microsoft Form,** with tracking issues in a staff repo. Replaced by Qualtrics, which holds the record itself.
+- **Survey links pre-filled per task.** Fewer survey edits when tasks change, but a drop-down is simpler for students and staff.
 - **Keep one issue per task** in the public repo. Reflections would stay public.
 
 **Transition:**
 
-- The old issue form in this repo keeps working until the reflection form is ready. Its comments now link each old task to its new ID on the website.
+- The old issue form in this repo keeps working until the reflection form (the Qualtrics survey) is ready. Its comments now link each old task to its new ID on the website.
 - The old workflow's actions are updated (`actions/checkout@v4`, `actions/github-script@v7`, `oven-sh/setup-bun@v2`).
 
 **Privacy:**
@@ -207,7 +209,7 @@ Each phase is its own pull request.
    - Write CORE-03 from the AI use draft.
    - Leads draft the focus area tasks that match their current work.
 3. **Website.** Build the generator, the `#onboarding` section, the path picker, and the deep-link code. Run the accessibility check.
-4. **Reflections and tracking.** The reflection form, the staff-only tracking repo and its checklist workflow, and the old-name mapping.
+4. **Reflections and tracking.** The Qualtrics reflection form, its link on the website, and the old-name mapping.
 5. **Pilot.** Run it with one new and one returning student. Fix what they trip on.
 6. **Launch.** Point the wiki Onboarding page and the old task files to the website.
 
@@ -223,18 +225,18 @@ Kendall Fortney, 2026-10-15:
 
 1. **UX Design** is left out for now. Revisit when a Pod has UX-heavy work.
 2. **Mad River** has hired its members; its projects are not set yet. The website card stays "To be announced" until they are.
-3. **Tracking issues** go in a new private repo, `VERSO-UVM/orca-onboarding`. Revised the same day: the repo is **staff only**, and students send reflections with a Microsoft Form (see Reflections and tracking). The FERPA reading still needs confirming (see Still open).
-4. **One tracking issue** per student per semester, not sub-issues or one issue per task.
+3. **Tracking** was first a private GitHub repo. Revised the same day: students send reflections through a UVM Qualtrics survey, whose responses are the tracking record; there is no tracking repo (see Reflections and tracking). The FERPA reading still needs confirming (see Still open).
+4. **One record per task:** each survey response is one finished task from one student. (First decided as one tracking issue per student; replaced by the survey.)
 5. **Lead readings** move from email to the Director to the reflection form, once a week.
 6. **Every new student** does all of CORE-06 to CORE-09.
 7. **Focus area tasks** are written by the owners in the inventory: GIS by a GIS-heavy lead (Bolton now), Software by the Sugarbush and Killington leads, Data Science by the Okemo lead, AI by Kendall with the Mad River lead.
 8. **The ORCiD** is collected only in CORE-05. The Open Science task stops asking for it.
-9. **A focus area added mid-semester** appends its tasks to the student's existing tracking issue (staff tick the area).
+9. **A focus area added mid-semester** is chosen on the website's path picker; there is no checklist to update.
 10. **An alumni history** is not in this version. CORE-11 stays, so students record their choice now.
 
 ## Still open
 
 - Confirm the FERPA reading with the UVM Registrar or the Office of General Counsel before launch.
-- Create the reflection form in Microsoft Forms and put its link in `onboarding/config.json` (see the orca-onboarding repo for its questions).
+- Build the Qualtrics survey from `onboarding/QUALTRICS.md` and put its link in `onboarding/config.json`.
 - A date by which each focus area's tasks should be drafted.
 - Mad River's projects, for its website card and for the AI tasks.
