@@ -102,7 +102,7 @@ Whenever a task file is added, retired or renamed in [`tasks/`](tasks/), update 
 
    ```json
    {
-     "reflectionSurvey": "https://uvm.co1.qualtrics.com/jfe/form/SV_..."
+     "reflectionSurvey": "https://qualtrics.uvm.edu/jfe/form/SV_..."
    }
    ```
 

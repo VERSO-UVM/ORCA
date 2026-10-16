@@ -2,7 +2,7 @@
 
 Formerly the onboarding revamp; renamed ORCA Skills on 2026-10-15 (decision 11).
 
-Status: decided by Kendall on 2026-10-15 (see Decisions at the end). Phases 1 to 3 are done, and phase 4 is in review; the Qualtrics survey is still to be built. Written 2026-10-15 with AI assistance (Claude Code).
+Status: decided by Kendall on 2026-10-15 (see Decisions at the end). Phases 1 to 4 are built: the ORCA Skills section, and the Qualtrics survey for reflections (linked from `onboarding/config.json`). Next is the pilot (phase 5). Written 2026-10-15 with AI assistance (Claude Code).
 
 ## Goals
 
@@ -240,6 +240,5 @@ Kendall Fortney, 2026-10-15:
 ## Still open
 
 - Confirm the FERPA reading with the UVM Registrar or the Office of General Counsel before launch.
-- Build the Qualtrics survey from `onboarding/QUALTRICS.md` and put its link in `onboarding/config.json`.
 - A date by which each focus area's tasks should be drafted.
 - Mad River's projects, for its website card and for the AI tasks.
